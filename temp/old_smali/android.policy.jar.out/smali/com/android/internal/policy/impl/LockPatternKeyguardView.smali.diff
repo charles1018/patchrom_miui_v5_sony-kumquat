@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/LockPatternKeyguardView.smali	2013-10-21 03:27:13.715587492 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/LockPatternKeyguardView.smali	2013-10-21 03:29:02.003586903 +0800
+*** ./smali/com/android/internal/policy/impl/LockPatternKeyguardView.smali	2013-12-01 10:58:40.076793766 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/LockPatternKeyguardView.smali	2013-12-01 11:03:40.794451748 +0800
 ***************
 *** 10,16 ****
           Lcom/android/internal/policy/impl/LockPatternKeyguardView$FastBitmapDrawable;,

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+if [ -e other/updater-script ]
+then
+
+	if [ -e out/fullota.zip ]
+	then
+	mv out/fullota.zip out/MIUI_V5_KUMQUAT.zip
+	fi
+
+	if [ -e  out/MIUI_V5_KUMQUAT.zip ]
+
+	then
+		mkdir -p out/META-INF/com/google/android
+		cp other/updater-script out/META-INF/com/google/android/
+		cd out
+		zip -m MIUI_V5_KUMQUAT.zip ./META-INF/com/google/android/updater-script
+		rm -rf META-INF
+
+	else
+		echo 没有 MIUI_V5_KUMQUAT.zip
+		echo 请运行 make zipfile 或则　make fullota
+	fi
+else
+	echo 没有updater-script这个文件
+fi

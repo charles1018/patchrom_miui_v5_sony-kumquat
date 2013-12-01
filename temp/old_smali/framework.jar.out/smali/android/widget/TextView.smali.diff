@@ -1,5 +1,5 @@
-*** ./smali/android/widget/TextView.smali	2013-10-21 03:27:46.131587316 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/TextView.smali	2013-10-21 03:29:26.727586769 +0800
+*** ./smali/android/widget/TextView.smali	2013-12-01 10:57:54.197737013 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/TextView.smali	2013-12-01 11:02:49.199538508 +0800
 ***************
 *** 7419,7425 ****
   
@@ -104,8 +104,38 @@
       .locals 1
       .parameter "span"
 ***************
+*** 24431,24436 ****
+--- 24490,24503 ----
+      .parameter "tf"
+  
+      .prologue
++     invoke-virtual {p0}, Landroid/widget/TextView;->getContext()Landroid/content/Context;
++ 
++     move-result-object v0
++ 
++     invoke-static {v0, p1}, Lmiui/util/UiUtils;->replaceTypeface(Landroid/content/Context;Landroid/graphics/Typeface;)Landroid/graphics/Typeface;
++ 
++     move-result-object p1
++ 
+      iget-object v0, p0, Landroid/widget/TextView;->mTextPaint:Landroid/text/TextPaint;
+  
+      invoke-virtual {v0}, Landroid/text/TextPaint;->getTypeface()Landroid/graphics/Typeface;
+***************
+*** 24478,24483 ****
+--- 24545,24554 ----
+      :goto_0
+      invoke-virtual {p0, p1}, Landroid/widget/TextView;->setTypeface(Landroid/graphics/Typeface;)V
+  
++     invoke-virtual {p0}, Landroid/widget/TextView;->getTypeface()Landroid/graphics/Typeface;
++ 
++     move-result-object p1
++ 
+      if-eqz p1, :cond_2
+  
+      invoke-virtual {p1}, Landroid/graphics/Typeface;->getStyle()I
+***************
 *** 24548,24553 ****
---- 24607,24616 ----
+--- 24619,24628 ----
   
       invoke-virtual {v2, v3}, Landroid/text/TextPaint;->setTextSkewX(F)V
   

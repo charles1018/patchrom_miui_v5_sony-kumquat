@@ -1,5 +1,5 @@
-*** ./smali/android/view/ViewConfiguration.smali	2013-10-21 03:28:22.243587119 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/ViewConfiguration.smali	2013-10-21 03:30:07.679586546 +0800
+*** ./smali/android/view/ViewConfiguration.smali	2013-12-01 10:57:09.566645517 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/ViewConfiguration.smali	2013-12-01 11:02:01.928550402 +0800
 ***************
 *** 334,339 ****
 --- 334,343 ----

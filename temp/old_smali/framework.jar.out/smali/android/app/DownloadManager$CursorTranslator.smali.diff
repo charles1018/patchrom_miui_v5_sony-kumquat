@@ -1,5 +1,5 @@
-*** ./smali/android/app/DownloadManager$CursorTranslator.smali	2013-10-21 03:28:13.511587167 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/DownloadManager$CursorTranslator.smali	2013-10-21 03:29:58.315586597 +0800
+*** ./smali/android/app/DownloadManager$CursorTranslator.smali	2013-12-01 10:57:44.425936721 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/DownloadManager$CursorTranslator.smali	2013-12-01 11:02:37.519789074 +0800
 ***************
 *** 4,15 ****
   

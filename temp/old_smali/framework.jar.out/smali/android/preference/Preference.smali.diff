@@ -1,5 +1,5 @@
-*** ./smali/android/preference/Preference.smali	2013-10-21 03:27:28.307587413 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/preference/Preference.smali	2013-10-21 03:29:14.315586836 +0800
+*** ./smali/android/preference/Preference.smali	2013-12-01 10:57:02.754783339 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/preference/Preference.smali	2013-12-01 11:01:53.812723523 +0800
 ***************
 *** 87,92 ****
 --- 87,98 ----

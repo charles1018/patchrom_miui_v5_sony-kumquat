@@ -1,5 +1,5 @@
-*** ./smali/android/widget/ImageView.smali	2013-10-21 03:27:46.767587312 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/ImageView.smali	2013-10-21 03:29:27.427586765 +0800
+*** ./smali/android/widget/ImageView.smali	2013-12-01 10:57:57.153676517 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/ImageView.smali	2013-12-01 11:02:52.615465161 +0800
 ***************
 *** 1177,1183 ****
   

@@ -1,5 +1,5 @@
-*** ./smali/android/app/LoadedApk.smali	2013-10-21 03:28:12.947587170 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/LoadedApk.smali	2013-10-21 03:29:57.747586600 +0800
+*** ./smali/android/app/LoadedApk.smali	2013-12-01 10:57:44.077943824 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/LoadedApk.smali	2013-12-01 11:02:37.111797821 +0800
 ***************
 *** 1753,1769 ****
   .end method

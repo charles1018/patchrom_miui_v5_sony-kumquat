@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/ApplicationInfo.smali	2013-10-21 03:27:34.371587380 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/pm/ApplicationInfo.smali	2013-10-21 03:29:17.711586818 +0800
+*** ./smali/android/content/pm/ApplicationInfo.smali	2013-12-01 10:57:19.390446356 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/pm/ApplicationInfo.smali	2013-12-01 11:02:12.272329491 +0800
 ***************
 *** 26,31 ****
 --- 26,37 ----

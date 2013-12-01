@@ -1,5 +1,5 @@
-*** ./smali/android/content/res/Resources$Theme.smali	2013-10-21 03:27:37.071587365 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/res/Resources$Theme.smali	2013-10-21 03:29:19.191586810 +0800
+*** ./smali/android/content/res/Resources$Theme.smali	2013-12-01 10:57:16.922496434 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/res/Resources$Theme.smali	2013-12-01 11:02:09.648385559 +0800
 ***************
 *** 136,142 ****
   

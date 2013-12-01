@@ -1,0 +1,27 @@
+*** ./smali/com/android/internal/telephony/cdma/RuimRecords.smali	2013-12-01 10:58:31.108978844 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/cdma/RuimRecords.smali	2013-12-01 11:03:29.838676164 +0800
+***************
+*** 61,71 ****
+  
+      iput-boolean v2, p0, Lcom/android/internal/telephony/cdma/RuimRecords;->m_ota_commited:Z
+  
+!     new-instance v0, Lcom/android/internal/telephony/AdnRecordCache;
+  
+      iget-object v1, p0, Lcom/android/internal/telephony/cdma/RuimRecords;->mFh:Lcom/android/internal/telephony/IccFileHandler;
+  
+!     invoke-direct {v0, v1}, Lcom/android/internal/telephony/AdnRecordCache;-><init>(Lcom/android/internal/telephony/IccFileHandler;)V
+  
+      iput-object v0, p0, Lcom/android/internal/telephony/cdma/RuimRecords;->adnCache:Lcom/android/internal/telephony/AdnRecordCache;
+  
+--- 61,71 ----
+  
+      iput-boolean v2, p0, Lcom/android/internal/telephony/cdma/RuimRecords;->m_ota_commited:Z
+  
+!     new-instance v0, Lcom/android/internal/telephony/MiuiAdnRecordCache;
+  
+      iget-object v1, p0, Lcom/android/internal/telephony/cdma/RuimRecords;->mFh:Lcom/android/internal/telephony/IccFileHandler;
+  
+!     invoke-direct {v0, v1}, Lcom/android/internal/telephony/MiuiAdnRecordCache;-><init>(Lcom/android/internal/telephony/IccFileHandler;)V
+  
+      iput-object v0, p0, Lcom/android/internal/telephony/cdma/RuimRecords;->adnCache:Lcom/android/internal/telephony/AdnRecordCache;
+  

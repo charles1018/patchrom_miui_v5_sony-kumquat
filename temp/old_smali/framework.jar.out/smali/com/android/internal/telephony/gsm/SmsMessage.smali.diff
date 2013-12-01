@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/gsm/SmsMessage.smali	2013-10-21 03:28:57.879586925 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/gsm/SmsMessage.smali	2013-10-21 03:30:45.547586340 +0800
+*** ./smali/com/android/internal/telephony/gsm/SmsMessage.smali	2013-12-01 10:58:33.316933307 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/gsm/SmsMessage.smali	2013-12-01 11:03:32.450622706 +0800
 ***************
 *** 1163,1168 ****
 --- 1163,1171 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/telephony/PhoneNumberUtils.smali	2013-10-21 03:28:37.367587037 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/telephony/PhoneNumberUtils.smali	2013-10-21 03:30:22.831586463 +0800
+*** ./smali/android/telephony/PhoneNumberUtils.smali	2013-12-01 10:57:51.969782585 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/telephony/PhoneNumberUtils.smali	2013-12-01 11:02:46.175603413 +0800
 ***************
 *** 6,12 ****
   # annotations

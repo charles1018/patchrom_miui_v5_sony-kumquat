@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/PhoneWindowManager$11.smali	2013-10-21 03:27:13.255587494 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager$11.smali	2013-10-21 03:29:01.535586906 +0800
+*** ./smali/com/android/internal/policy/impl/PhoneWindowManager$11.smali	2013-12-01 10:58:40.752779801 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager$11.smali	2013-12-01 11:03:41.554436162 +0800
 ***************
 *** 143,152 ****
       const/4 v4, 0x1

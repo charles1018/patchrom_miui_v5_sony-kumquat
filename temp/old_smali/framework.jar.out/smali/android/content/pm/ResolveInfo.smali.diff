@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/ResolveInfo.smali	2013-10-21 03:27:34.047587381 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/pm/ResolveInfo.smali	2013-10-21 03:29:17.491586819 +0800
+*** ./smali/android/content/pm/ResolveInfo.smali	2013-12-01 10:57:19.262448954 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/pm/ResolveInfo.smali	2013-12-01 11:02:12.132332482 +0800
 ***************
 *** 9,15 ****
   # annotations

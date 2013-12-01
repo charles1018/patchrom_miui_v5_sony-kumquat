@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2013-10-21 03:27:21.899587447 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2013-10-21 03:29:09.203586864 +0800
+*** ./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2013-12-01 10:57:01.130816163 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2013-12-01 11:01:51.332776387 +0800
 ***************
 *** 50,61 ****
 --- 50,66 ----

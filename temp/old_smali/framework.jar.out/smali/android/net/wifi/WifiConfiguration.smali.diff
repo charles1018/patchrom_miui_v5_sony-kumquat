@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiConfiguration.smali	2013-10-21 03:28:32.023587066 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration.smali	2013-10-21 03:30:17.859586491 +0800
+*** ./smali/android/net/wifi/WifiConfiguration.smali	2013-12-01 10:57:38.346060755 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration.smali	2013-12-01 11:02:31.023928278 +0800
 ***************
 *** 120,129 ****
 --- 120,159 ----

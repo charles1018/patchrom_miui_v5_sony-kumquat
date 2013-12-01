@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/AppWidgetService$2.smali	2013-10-21 03:27:19.319587461 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/AppWidgetService$2.smali	2013-10-21 03:29:07.299586874 +0800
+*** ./smali/com/android/server/AppWidgetService$2.smali	2013-12-01 10:56:55.038939173 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/AppWidgetService$2.smali	2013-12-01 11:01:44.192928487 +0800
 ***************
 *** 37,42 ****
 --- 37,45 ----

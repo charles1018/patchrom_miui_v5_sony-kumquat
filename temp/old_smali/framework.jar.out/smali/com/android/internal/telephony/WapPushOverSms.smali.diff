@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/WapPushOverSms.smali	2013-10-21 03:28:53.675586948 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/WapPushOverSms.smali	2013-10-21 03:30:41.975586359 +0800
+*** ./smali/com/android/internal/telephony/WapPushOverSms.smali	2013-12-01 10:58:31.448971833 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/WapPushOverSms.smali	2013-12-01 11:03:30.266667406 +0800
 ***************
 *** 6,12 ****
   # annotations

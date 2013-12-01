@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/PhoneBase.smali	2013-10-21 03:28:58.703586921 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/PhoneBase.smali	2013-10-21 03:30:46.391586335 +0800
+*** ./smali/com/android/internal/telephony/PhoneBase.smali	2013-12-01 10:58:28.029042331 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/PhoneBase.smali	2013-12-01 11:03:26.226750039 +0800
 ***************
 *** 3515,3517 ****
 --- 3515,3575 ----

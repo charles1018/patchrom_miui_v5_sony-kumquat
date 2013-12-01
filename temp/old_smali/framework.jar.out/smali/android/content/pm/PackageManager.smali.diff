@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/PackageManager.smali	2013-10-21 03:27:34.835587377 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageManager.smali	2013-10-21 03:29:18.095586816 +0800
+*** ./smali/android/content/pm/PackageManager.smali	2013-12-01 10:57:19.958434826 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageManager.smali	2013-12-01 11:02:12.948315044 +0800
 ***************
 *** 14,27 ****
 --- 14,36 ----
@@ -47,3 +47,25 @@
   .field public static final INSTALL_ALLOW_TEST:I = 0x4
   
   .field public static final INSTALL_EXTERNAL:I = 0x8
+***************
+*** 156,161 ****
+--- 177,184 ----
+  
+  .field public static final INSTALL_FAILED_CONTAINER_ERROR:I = -0x12
+  
++ .field public static final INSTALL_FAILED_CONTAIN_VIRUS:I = -0x19
++ 
+  .field public static final INSTALL_FAILED_CPU_ABI_INCOMPATIBLE:I = -0x10
+  
+  .field public static final INSTALL_FAILED_DEXOPT:I = -0xb
+***************
+*** 190,195 ****
+--- 213,220 ----
+  
+  .field public static final INSTALL_FAILED_SHARED_USER_INCOMPATIBLE:I = -0x8
+  
++ .field public static final INSTALL_FAILED_SYSTEM_INCOMPATIBLE:I = -0x1a
++ 
+  .field public static final INSTALL_FAILED_TEST_ONLY:I = -0xf
+  
+  .field public static final INSTALL_FAILED_UID_CHANGED:I = -0x18

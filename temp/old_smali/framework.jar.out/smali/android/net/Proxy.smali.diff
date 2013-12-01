@@ -1,5 +1,5 @@
-*** ./smali/android/net/Proxy.smali	2013-10-21 03:28:33.267587059 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/net/Proxy.smali	2013-10-21 03:30:19.059586484 +0800
+*** ./smali/android/net/Proxy.smali	2013-12-01 10:57:42.057985050 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/net/Proxy.smali	2013-12-01 11:02:35.007842917 +0800
 ***************
 *** 6,12 ****
   # annotations

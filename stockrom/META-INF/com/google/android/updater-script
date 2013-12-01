@@ -1,4 +1,8 @@
+assert(getprop("ro.product.device") == "kumquat" ||
+       getprop("ro.build.product") == "kumquat");
 show_progress(0.500000, 0);
+ui_print("Formatting system...");
+unmount("/system");
 format("ext4", "EMMC", "/dev/block/mmcblk0p10", "0");
 ui_print("Installing system files...");
 mount("ext4", "EMMC", "/dev/block/mmcblk0p10", "/system");
@@ -110,6 +114,7 @@ set_perm(0, 0, 0755, "/system/etc/bluetooth");
 set_perm(1000, 1000, 0640, "/system/etc/bluetooth/auto_pairing.conf");
 set_perm(3002, 3002, 0444, "/system/etc/bluetooth/blacklist.conf");
 set_perm(0, 0, 0644, "/system/etc/bluetooth/qos_role_switch_blacklist.conf");
+set_perm(0, 0, 0644, "/system/etc/bluetooth/stack.conf");
 set_perm(1002, 1002, 0440, "/system/etc/dbus.conf");
 set_perm(1014, 2000, 0550, "/system/etc/dhcpcd/dhcpcd-run-hooks");
 set_perm_recursive(0, 2000, 0755, 0755, "/system/etc/init.d");
@@ -122,6 +127,7 @@ set_perm_recursive(0, 2000, 0755, 0755, "/system/xbin");
 set_perm(0, 0, 06755, "/system/xbin/librank");
 set_perm(0, 0, 06755, "/system/xbin/procmem");
 set_perm(0, 0, 06755, "/system/xbin/procrank");
+set_perm(0, 0, 06755, "/system/xbin/su");
 set_perm(0, 0, 06755, "/system/xbin/tcpdump");
 ui_print("Update Boot image...");
 show_progress(0.200000, 0);

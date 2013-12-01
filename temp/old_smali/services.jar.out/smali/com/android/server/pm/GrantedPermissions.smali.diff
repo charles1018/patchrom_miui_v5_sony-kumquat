@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/GrantedPermissions.smali	2013-10-21 03:27:21.983587447 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/GrantedPermissions.smali	2013-10-21 03:29:09.291586863 +0800
+*** ./smali/com/android/server/pm/GrantedPermissions.smali	2013-12-01 10:57:01.142815920 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/GrantedPermissions.smali	2013-12-01 11:01:51.348776047 +0800
 ***************
 *** 89,97 ****
   .method setFlags(I)V

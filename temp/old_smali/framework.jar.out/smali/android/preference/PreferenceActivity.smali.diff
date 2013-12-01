@@ -1,5 +1,5 @@
-*** ./smali/android/preference/PreferenceActivity.smali	2013-10-21 03:27:29.159587408 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceActivity.smali	2013-10-21 03:29:14.799586833 +0800
+*** ./smali/android/preference/PreferenceActivity.smali	2013-12-01 10:57:02.482788837 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceActivity.smali	2013-12-01 11:01:53.564728811 +0800
 ***************
 *** 2045,2050 ****
 --- 2045,2052 ----

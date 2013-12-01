@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/BaseErrorDialog.smali	2013-10-21 03:27:18.167587468 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/am/BaseErrorDialog.smali	2013-10-21 03:29:06.371586879 +0800
+*** ./smali/com/android/server/am/BaseErrorDialog.smali	2013-12-01 10:56:58.426870784 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/am/BaseErrorDialog.smali	2013-12-01 11:01:48.272841591 +0800
 ***************
 *** 13,23 ****
   .method public constructor <init>(Landroid/content/Context;)V

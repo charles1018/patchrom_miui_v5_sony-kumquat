@@ -1,5 +1,5 @@
-*** ./smali/android/os/StrictMode.smali	2013-10-21 03:27:51.407587287 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/os/StrictMode.smali	2013-10-21 03:29:32.623586737 +0800
+*** ./smali/android/os/StrictMode.smali	2013-12-01 10:57:21.194409732 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/os/StrictMode.smali	2013-12-01 11:02:14.108290249 +0800
 ***************
 *** 67,72 ****
 --- 67,76 ----

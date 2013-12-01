@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/ActivityStack.smali	2013-10-21 03:27:17.355587472 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityStack.smali	2013-10-21 03:29:05.671586883 +0800
+*** ./smali/com/android/server/am/ActivityStack.smali	2013-12-01 10:56:58.522868846 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityStack.smali	2013-12-01 11:01:48.384839205 +0800
 ***************
 *** 5432,5438 ****
       check-cast v3, Lcom/android/server/am/ActivityRecord;
@@ -50,3 +50,71 @@
       iget v5, p1, Lcom/android/server/am/ActivityRecord;->configChangeFlags:I
   
       or-int/2addr v5, v0
+***************
+*** 12276,12281 ****
+--- 12291,12309 ----
+      move-result-object v12
+  
+      .local v12, aInfo:Landroid/content/pm/ActivityInfo;
++     move-object/from16 v0, p0
++ 
++     invoke-direct {v0, v12}, Lcom/android/server/am/ActivityStack;->checkRunningCompatibility(Landroid/content/pm/ActivityInfo;)Z
++ 
++     move-result v2
++ 
++     if-nez v2, :cond_miui_0
++ 
++     const/4 v2, 0x5
++ 
++     return v2
++ 
++     :cond_miui_0
+      if-eqz v12, :cond_1
+  
+      move-object/from16 v0, p0
+***************
+*** 14970,14972 ****
+--- 14998,15040 ----
+  
+      return-void
+  .end method
++ 
++ .method private checkRunningCompatibility(Landroid/content/pm/ActivityInfo;)Z
++     .locals 2
++     .parameter "aInfo"
++ 
++     .prologue
++     iget-object v0, p0, Lcom/android/server/am/ActivityStack;->mService:Lcom/android/server/am/ActivityManagerService;
++ 
++     iget-boolean v0, v0, Lcom/android/server/am/ActivityManagerService;->mSystemReady:Z
++ 
++     if-eqz v0, :cond_1
++ 
++     iget-object v1, p0, Lcom/android/server/am/ActivityStack;->mContext:Landroid/content/Context;
++ 
++     if-eqz p1, :cond_0
++ 
++     iget-object v0, p1, Landroid/content/pm/ActivityInfo;->applicationInfo:Landroid/content/pm/ApplicationInfo;
++ 
++     :goto_0
++     invoke-static {v1, v0}, Lcom/android/server/am/ExtraActivityManagerService;->checkRunningCompatibility(Landroid/content/Context;Landroid/content/pm/ApplicationInfo;)Z
++ 
++     move-result v0
++ 
++     if-nez v0, :cond_1
++ 
++     const/4 v0, 0x0
++ 
++     :goto_1
++     return v0
++ 
++     :cond_0
++     const/4 v0, 0x0
++ 
++     goto :goto_0
++ 
++     :cond_1
++     const/4 v0, 0x1
++ 
++     goto :goto_1
++ .end method

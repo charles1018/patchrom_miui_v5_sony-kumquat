@@ -1,5 +1,5 @@
-*** ./smali/android/hardware/SensorManager.smali	2013-10-21 03:28:05.299587211 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/hardware/SensorManager.smali	2013-10-21 03:29:49.343586646 +0800
+*** ./smali/android/hardware/SensorManager.smali	2013-12-01 10:57:32.130187387 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/hardware/SensorManager.smali	2013-12-01 11:02:24.916059066 +0800
 ***************
 *** 240,245 ****
 --- 240,249 ----

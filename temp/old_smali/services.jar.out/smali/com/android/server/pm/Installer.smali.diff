@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/Installer.smali	2013-10-21 03:27:21.339587450 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/Installer.smali	2013-10-21 03:29:08.751586866 +0800
+*** ./smali/com/android/server/pm/Installer.smali	2013-12-01 10:57:01.578807109 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/Installer.smali	2013-12-01 11:01:51.976762661 +0800
 ***************
 *** 1,4 ****
 ! .class Lcom/android/server/pm/Installer;

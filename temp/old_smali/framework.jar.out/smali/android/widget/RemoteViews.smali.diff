@@ -1,5 +1,5 @@
-*** ./smali/android/widget/RemoteViews.smali	2013-10-21 03:27:47.671587307 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/RemoteViews.smali	2013-10-21 03:29:28.479586759 +0800
+*** ./smali/android/widget/RemoteViews.smali	2013-12-01 10:58:02.037576478 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/RemoteViews.smali	2013-12-01 11:02:57.171367291 +0800
 ***************
 *** 71,76 ****
 --- 71,82 ----

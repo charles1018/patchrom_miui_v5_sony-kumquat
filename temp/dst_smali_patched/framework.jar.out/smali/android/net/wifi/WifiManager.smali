@@ -820,6 +820,31 @@
     goto :goto_0
 .end method
 
+.method public getCountryCode()Ljava/lang/String;
+    .locals 2
+
+    .prologue
+    :try_start_0
+    iget-object v1, p0, Landroid/net/wifi/WifiManager;->mService:Landroid/net/wifi/IWifiManager;
+
+    invoke-interface {v1}, Landroid/net/wifi/IWifiManager;->getCountryCode()Ljava/lang/String;
+    :try_end_0
+    .catch Landroid/os/RemoteException; {:try_start_0 .. :try_end_0} :catch_0
+
+    move-result-object v1
+
+    :goto_0
+    return-object v1
+
+    :catch_0
+    move-exception v0
+
+    .local v0, e:Landroid/os/RemoteException;
+    const/4 v1, 0x0
+
+    goto :goto_0
+.end method
+
 .method public getDhcpInfo()Landroid/net/DhcpInfo;
     .locals 2
 

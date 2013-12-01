@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/view/menu/ActionMenuItemView.smali	2013-10-21 03:28:51.783586959 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/ActionMenuItemView.smali	2013-10-21 03:30:39.723586372 +0800
+*** ./smali/com/android/internal/view/menu/ActionMenuItemView.smali	2013-12-01 10:58:24.541114179 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/ActionMenuItemView.smali	2013-12-01 11:03:22.046835461 +0800
 ***************
 *** 28,33 ****
 --- 28,39 ----

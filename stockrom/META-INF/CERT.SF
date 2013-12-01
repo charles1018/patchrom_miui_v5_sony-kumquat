@@ -1,12 +1,9 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: cqyVkoCc6wwi9K/LFVvWuyo/0q4=
+SHA1-Digest-Manifest: /BJJtUVQKehtLvzv0ywcYyT7eTI=
 
 Name: system/etc/terminfo/x/x10term
 SHA1-Digest: QQ9Lo0W1fuSHDjcnYay6cNUng+E=
-
-Name: system/media/audio/ringtones/RomancingTheTone.ogg
-SHA1-Digest: vWOeZbHxqiBc6El1J95d4J2MpJo=
 
 Name: system/etc/terminfo/a/ansi80x50-mono
 SHA1-Digest: 5YYA3rPBmk3wembixbo46FsqqDE=
@@ -30,7 +27,7 @@ Name: system/etc/terminfo/b/bq300-pc-w-rv
 SHA1-Digest: dDdhDY1wF5Dqrx7VVucC/yCJtN8=
 
 Name: system/lib/libstagefright_soft_aacdec.so
-SHA1-Digest: 3rSuVcIvRnyUPDaBRBoW6rtRGyg=
+SHA1-Digest: aliwRA6GGm5aXg3TeGVfgIYmGeY=
 
 Name: system/etc/terminfo/x/xterm-xfree86
 SHA1-Digest: qytIP1bIQRk03GYk6lfVI9XFP5U=
@@ -53,11 +50,8 @@ SHA1-Digest: 392r5Fdc7x0HCEiCzo8CtExbWCo=
 Name: system/etc/terminfo/a/ansi80x60-mono
 SHA1-Digest: rnplk9LluZQWdDD3/3iZSg/I3no=
 
-Name: system/media/audio/notifications/Stone.ogg
-SHA1-Digest: KcdM3DhnYgmkHTxz5tBaob69BnQ=
-
 Name: system/app/Browser.apk
-SHA1-Digest: ZThq5/qA/oOf36RWMAH0KYqeBjM=
+SHA1-Digest: l2dkguV0moLpqDoPH3jHE0Oxj2M=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/transducer_equ
  alizer/nmfil/effect/configure.elf4nmf
@@ -77,9 +71,6 @@ SHA1-Digest: c2g4ADS9g92OiOLDuwMlNhiFaxA=
 
 Name: system/etc/terminfo/c/c108-4p
 SHA1-Digest: tjJ8TIgy5QEzR/CFD7kT7hy13/s=
-
-Name: system/media/audio/ringtones/Aquila.ogg
-SHA1-Digest: MX37foWJ/WE1yn7zh1RfseETzcM=
 
 Name: system/etc/terminfo/n/nsterm-acs-m-s
 SHA1-Digest: 8aRM9c7Q/RE8u5x6v61iwD4oLww=
@@ -173,9 +164,6 @@ SHA1-Digest: FPa6fblvR6RH+N7zJdTXXSU2kQs=
 Name: system/etc/terminfo/a/alt3
 SHA1-Digest: nf1G0joMn2XJx6i0zFIyIhjmYno=
 
-Name: system/app/Phonesky.apk
-SHA1-Digest: c4z4iX5QkTVl55dPhBfhdjVt53A=
-
 Name: system/etc/terminfo/w/wy520-wvb
 SHA1-Digest: iC1MvOfIgi5wR/R0p4xL+HMPVHs=
 
@@ -188,9 +176,6 @@ SHA1-Digest: 09I9SOTx6/wCzoV8Yg5k0gonxBY=
 Name: system/etc/terminfo/k/konsole+pcfkeys
 SHA1-Digest: BBygKORTFZzOrJl1bAgF5CgkqoE=
 
-Name: system/media/audio/ringtones/Scarabaeus.ogg
-SHA1-Digest: 8djU2RtPSLfuBQxYGaA1fx39EHQ=
-
 Name: system/bin/dump_image
 SHA1-Digest: oJfmvIGV29kUWYVNrEpjnRpKT9Y=
 
@@ -198,7 +183,7 @@ Name: system/etc/terminfo/d/dku7003-dumb
 SHA1-Digest: +y2htZ3riXaKIo2ZWQ6S1xFkxs8=
 
 Name: system/lib/modules/cw1200_core.ko
-SHA1-Digest: VoLZ4Vfl9mVRfy4aK6+407TZZBc=
+SHA1-Digest: 4aoErrZbX+5bYeV0m385T34w96E=
 
 Name: system/etc/terminfo/d/d462+25
 SHA1-Digest: waGlbon/CazJBhGfbLSBdxhn8hQ=
@@ -264,9 +249,6 @@ SHA1-Digest: iOfrRlIkQ9CJR88NZ3FS2RQ+icw=
 Name: system/etc/terminfo/r/rxvt-256color
 SHA1-Digest: 9Ud9toT/ELwLspaS8n/gmKcsTjU=
 
-Name: system/media/audio/notifications/Fluorine.ogg
-SHA1-Digest: pYJhY2zf8yHtuU50KuDSxr/jx+o=
-
 Name: system/etc/hw_config.sh
 SHA1-Digest: 6jTdhIFffEBUro8ZD+LwlgMpW2E=
 
@@ -291,20 +273,14 @@ SHA1-Digest: 0+FSINeoE/ajMTiYoX0Ke0hrwGs=
 Name: system/bin/lbsd
 SHA1-Digest: IQGqlZKifV3SxyLYeDOom5uCEwY=
 
-Name: system/etc/permissions/android.hardware.location.gps.xml
-SHA1-Digest: 5BoPvzraABvx8iNcW0s9BCY42l4=
-
 Name: system/etc/terminfo/a/att505
 SHA1-Digest: S3yOnEzTWb6lReVn6703uOzDTEM=
 
+Name: system/etc/permissions/android.hardware.location.gps.xml
+SHA1-Digest: 5BoPvzraABvx8iNcW0s9BCY42l4=
+
 Name: system/etc/terminfo/c/cons25-m
 SHA1-Digest: 19xHCP9dZ1ySxtuWjfa2VoFZ6bk=
-
-Name: system/media/audio/ringtones/NewPlayer.ogg
-SHA1-Digest: Uf0E/jmb19A0xXT6CtfiT3ph1e0=
-
-Name: system/media/audio/alarms/Cesium.ogg
-SHA1-Digest: ghGELWTBG2+v50Abfa3PEslFouU=
 
 Name: system/etc/terminfo/a/ansi+erase
 SHA1-Digest: N2ox8qpNfeAmWO5dmuA09VDEXJs=
@@ -312,17 +288,17 @@ SHA1-Digest: N2ox8qpNfeAmWO5dmuA09VDEXJs=
 Name: system/etc/terminfo/n/next
 SHA1-Digest: 4drPuex2vEB2iUCCfgajG1j/OOA=
 
-Name: system/app/PackageInstaller.apk
-SHA1-Digest: 3uuA89EeDcW6gnDUUKtc7QdmvJs=
-
 Name: system/etc/terminfo/k/konsole-vt100
 SHA1-Digest: G/CmAoYKuZW/wiejySs+EPNIClY=
 
-Name: system/xbin/dbus-monitor
-SHA1-Digest: 9PnmlNwEBo/uMzgm2VPJ6wJAyN0=
+Name: system/app/PackageInstaller.apk
+SHA1-Digest: 8+5rst8ZGjMmEm9yj6GbRISXiK0=
 
 Name: system/etc/terminfo/w/wyse520-48pc
 SHA1-Digest: uaRK0ZMFrPd3TDgk9DpMop6anNY=
+
+Name: system/xbin/dbus-monitor
+SHA1-Digest: 9PnmlNwEBo/uMzgm2VPJ6wJAyN0=
 
 Name: system/etc/terminfo/w/wyse520-epc
 SHA1-Digest: Cw6MlZBVjvcgsMtqRJs4YmBbSRs=
@@ -337,7 +313,7 @@ Name: system/etc/terminfo/i/ibmvga-c
 SHA1-Digest: Z697KgKXaiCo+2Dv79vOASw5rbU=
 
 Name: system/etc/security/otacerts.zip
-SHA1-Digest: v8MRF5nzIN61ZNAtJnZwEbNXc34=
+SHA1-Digest: N7lpY2e1h3s2Lu+HgnbTY45BeBc=
 
 Name: system/etc/terminfo/m/macterminal-w
 SHA1-Digest: hiT5crcBYFFE8RIsmQL2Hq7no5A=
@@ -347,12 +323,6 @@ SHA1-Digest: JoI3jpOvvzvDrYcSQ94OsWSLnzc=
 
 Name: system/etc/terminfo/n/nwp518-a
 SHA1-Digest: vw0Xt2TNAPJ4rJCsLJBtzSmGEFU=
-
-Name: system/media/audio/ringtones/Bongo.ogg
-SHA1-Digest: h+pMogjHttIwjlzuGCo3Hk1IP/o=
-
-Name: system/media/audio/ringtones/Boxbeat.ogg
-SHA1-Digest: MXgtXoI6xOIVY1Vj5CuQclMFYPM=
 
 Name: system/etc/firmware/sdd_11.bin
 SHA1-Digest: KpelzuOSqws+fmQ1S8nmnHjvFjA=
@@ -376,7 +346,7 @@ Name: system/etc/terminfo/t/tvi920b-2p-mc
 SHA1-Digest: cSoB9cP0oH1lA1xS2v75R+14rBU=
 
 Name: system/lib/hw/audio_policy.default.so
-SHA1-Digest: 7VcAu0M0goNU/4Fjfm8dc2eMHAI=
+SHA1-Digest: RyEUXITmV0AR+gYoHIq6QOPubLw=
 
 Name: system/etc/terminfo/n/nsterm-7-m
 SHA1-Digest: 1XFRSUB3WoBgTGvQqlpQHaPv0Fc=
@@ -421,7 +391,7 @@ Name: system/etc/terminfo/n/nsterm-7-c
 SHA1-Digest: s5bDfHClXPLma6x4pHnop//6zjA=
 
 Name: system/lib/libstagefright_soft_vpxdec.so
-SHA1-Digest: TiREpjMhRmFgt0K6VbHXlUk2dY0=
+SHA1-Digest: yMwbyfgNXH1/ZPcxpQHiSkc0v0k=
 
 Name: system/etc/terminfo/d/d132
 SHA1-Digest: FBWhkao2s8QIgIt6nKBk3viKHFY=
@@ -445,7 +415,7 @@ Name: system/etc/terminfo/v/vt340
 SHA1-Digest: goUSR93mGh9OythKgljUb1CWwPw=
 
 Name: system/lib/libpixelflinger.so
-SHA1-Digest: GTNlnshDIBk5G3L9Gy5mOD9dC3w=
+SHA1-Digest: P7ockqY609cCv5gUyCyQcsi2cNo=
 
 Name: system/etc/terminfo/x/xnuppc+100x37
 SHA1-Digest: h9Cd54/CdI7XTEDXnTfTCJ8GYN4=
@@ -464,9 +434,6 @@ SHA1-Digest: /I7JmPWCna5nus32F3dPlxWjd6I=
 
 Name: system/etc/firmware/R1f.2_SoC1v20_Cobra_FM_SOC1_coef.fw
 SHA1-Digest: Btk8jBOPPGtXLd5Mfv+cQiEeXr8=
-
-Name: system/media/audio/notifications/Proxima.ogg
-SHA1-Digest: LGKrWlUADhw0KgUCKoJZa3Y8XZc=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/mpeg4enc/mpc/a
  pi/ddep.elf4nmf
@@ -520,11 +487,11 @@ SHA1-Digest: ijGAAp4n8+oIFMoiff9OoG33pfE=
 Name: system/etc/security/cacerts/1df5ec47.0
 SHA1-Digest: Qxp979sc7+YKhsMsGesH1DjUOJI=
 
+Name: system/etc/bluetooth/stack.conf
+SHA1-Digest: X3zzhWyorTUDN1DzD/8S5SSBQc4=
+
 Name: system/etc/terminfo/v/vt200-old
 SHA1-Digest: e+cOxO4RRelzmQGu/vSHZ9cBbbs=
-
-Name: system/media/audio/ringtones/Andromeda.ogg
-SHA1-Digest: QRGP5SgnFNkfSgZqMnZ8Pj/ymlI=
 
 Name: system/etc/dhcpcd/dhcpcd-hooks/95-configured
 SHA1-Digest: 3uG5kvUiPWks1WmIC7fk2EMBSH0=
@@ -543,9 +510,6 @@ SHA1-Digest: rbZ/BHep7vn7k+ImhhJXKXa+Gsw=
 
 Name: system/lib/libste_ens_audio_common.so
 SHA1-Digest: jJjaEsO9RTJfw+6O3ORvN+oB6Ys=
-
-Name: system/media/audio/ringtones/Paradise_Island.ogg
-SHA1-Digest: CU5cvUx4bpJIFEMAcyh6+JmyI3o=
 
 Name: system/lib/ste_omxcomponents/libste_virtual_surround.so
 SHA1-Digest: 84x3wuRzQJYO+PkskGTPpkfJHBY=
@@ -609,9 +573,6 @@ SHA1-Digest: YMzya6N//XAHjD7wC+9lXJVA0ZA=
 Name: system/etc/terminfo/z/z-100
 SHA1-Digest: p1UeVj41wvALiBqdIA1I+VSNAL4=
 
-Name: system/media/audio/alarms/Plutonium.ogg
-SHA1-Digest: UV352WBYPwYWTiaYZGE5xafMOxM=
-
 Name: system/lib/libdrm1.so
 SHA1-Digest: JyKyhP3CQkPeExo/up8Nv5I1Fj0=
 
@@ -660,14 +621,8 @@ SHA1-Digest: XQmD4PgRysOoA8oDfb9QqniPvbA=
 Name: system/etc/permissions/android.software.sip.voip.xml
 SHA1-Digest: qPho8aR6qQ+pK8ybcLgZiHGkyEo=
 
-Name: system/media/audio/ringtones/Rigel.ogg
-SHA1-Digest: 6mb20VqB7Vlt2uslcjO88Alq1Lc=
-
 Name: system/etc/terminfo/v/vt100+enq
 SHA1-Digest: aqkUG2hyhdJMM+mRJXTxvfGP9PE=
-
-Name: system/media/audio/ringtones/Perseus.ogg
-SHA1-Digest: WY0yhIluVwsomj5LRF9XXWNLr4E=
 
 Name: system/etc/terminfo/v/vi200-rv
 SHA1-Digest: vkysCIoulM9voNc6e0oxgjs/FuI=
@@ -690,14 +645,8 @@ SHA1-Digest: hhctMmFqmyjEPG1mbAM0hNOnTGs=
 Name: system/lib/libMali.so
 SHA1-Digest: aMm1Qnt6vhp8TquW04ibvHpce3g=
 
-Name: system/media/audio/ringtones/CrayonRock.ogg
-SHA1-Digest: 7HGDQ/+DQJHGxd5FJfDT3VhnPEc=
-
 Name: system/etc/security/cacerts/a0bc6fbb.0
 SHA1-Digest: V0mHojd9hDTNmkRMn2gBBUc//E4=
-
-Name: system/media/audio/ui/Undock.ogg
-SHA1-Digest: LLS55BOwaLp1ZTbMefLPoe3+c54=
 
 Name: system/etc/terminfo/n/news-42
 SHA1-Digest: yFFNm5zsAyzMmotgqxgUOwMMQ/k=
@@ -757,9 +706,6 @@ SHA1-Digest: Ku57X5J098ePtWYC5hcvWXz1H6U=
 Name: system/etc/terminfo/v/vt220-w
 SHA1-Digest: 8hMGEIoklgAP33JJ3Cmm3JvgxlM=
 
-Name: system/media/audio/ui/Unlock.ogg
-SHA1-Digest: hWWwovRm8CrwVv/wUD4smnOGBm0=
-
 Name: system/fonts/Clockopia.ttf
 SHA1-Digest: +vgYgkUemnpjfwZ99j4TWmseawE=
 
@@ -775,9 +721,6 @@ SHA1-Digest: kibKYC55dFacRutess82o5VTEPo=
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/mpeg2dec/mpc/a
  pi/log_event.elf4nmf
 SHA1-Digest: ucusWTQWB/PAZpAx6txqOUEiGao=
-
-Name: system/media/audio/ringtones/Noises1.ogg
-SHA1-Digest: VtJ1gg/nZMSnrkJ/+VaBIKbeJ5I=
 
 Name: system/etc/terminfo/x/xnuppc-200x75-m
 SHA1-Digest: VcGVzsLtMPobL3lJdp/ryX+Nl38=
@@ -942,13 +885,13 @@ Name: system/etc/terminfo/d/d414-unix-s
 SHA1-Digest: eKHUZvgAhrzKwBNO9MpXimt2XlI=
 
 Name: system/usr/share/camera/tuning/TunVidPre-020045.xml
-SHA1-Digest: 21oyLyT2hm+Tgh0n7G55QTFrY4k=
+SHA1-Digest: MPLrlGAtqh8UflAlrLALJE7rsX8=
 
 Name: system/etc/terminfo/d/d414-unix-w
 SHA1-Digest: viCut+NzvNq4qH4KmcORvCjXJy4=
 
 Name: system/app/VoiceDialer.apk
-SHA1-Digest: djPC4A+LyqEAZ4TR/VvxfB+FHI4=
+SHA1-Digest: vRuNJs1Pk/tS9+pmLaIXtyl6QR4=
 
 Name: system/etc/terminfo/n/nwp518
 SHA1-Digest: HL21HMGA18tEpUYzzseJrGh34Lg=
@@ -1008,9 +951,6 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiolibs/libaudio
  tables.elf4nmf
 SHA1-Digest: ZmY+A0CsW2slWqyJxp5un+uZlxQ=
 
-Name: system/media/audio/ringtones/WobblyRinger.ogg
-SHA1-Digest: wi3ARP6v1v3sr507ZmdA36TQxz8=
-
 Name: system/etc/terminfo/a/abm85
 SHA1-Digest: G/wTi81KYr/NFxAMSfpB8jNlozw=
 
@@ -1033,9 +973,6 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/ext_grabctl/ap
  i/configure.elf4nmf
 SHA1-Digest: CmAUkgHFvnawxDW/R5jZ7MboqvY=
 
-Name: system/media/audio/notifications/Voila.ogg
-SHA1-Digest: 8k2ncBzwwD2NoWUvRt/+U/BMgGE=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiocodec/mpc/dma
  out.elf4nmf
 SHA1-Digest: gAuXvWWtJCVnrrZKoxzmG3kqoSI=
@@ -1047,7 +984,7 @@ Name: system/etc/terminfo/w/wy370-tek
 SHA1-Digest: 4SOC8v6h1iAWhKqSJ66gVdaq55U=
 
 Name: system/app/MagicSmokeWallpapers.apk
-SHA1-Digest: 1eCR6RaiXRXwpvDFB2W0QwWeQ24=
+SHA1-Digest: 6acJ1lhuHZVkAlQf7wxOn1EGNgM=
 
 Name: system/etc/terminfo/d/d200
 SHA1-Digest: TIXiSvRm/gH2u5gEXTc42lXsvfQ=
@@ -1061,9 +998,6 @@ SHA1-Digest: EUMxT2MwgBYE4SqZ3Ga/VJ+hCMc=
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/mpeg2dec/mpc/a
  pi/algo.elf4nmf
 SHA1-Digest: 3bQqvkPkBFRyPz/HR6MaR9t9cig=
-
-Name: system/media/audio/ringtones/Pegasus.ogg
-SHA1-Digest: CwpOe93/O7BdQTbaBexnQ8zHJVs=
 
 Name: system/etc/security/cacerts/1dac3003.0
 SHA1-Digest: xqnEkR4Urw+Mekb6eWImjmF2AMM=
@@ -1093,10 +1027,10 @@ Name: system/etc/terminfo/d/d214
 SHA1-Digest: +bHYH+GOdY8fCbyCSV06I4zs4Zo=
 
 Name: system/bin/record
-SHA1-Digest: wZSCn3XIhT4ovVeHjZX3yIuNpwM=
+SHA1-Digest: 8FViiPCv+efyxLb0Wm1CCnv5kF4=
 
 Name: system/lib/libaah_rtp.so
-SHA1-Digest: zI1eyZ5UVt9xzcbQ8EEYpuckJMs=
+SHA1-Digest: 3xtPdLE7QthmC49e0jv+/FM9M7M=
 
 Name: system/etc/terminfo/d/d211
 SHA1-Digest: 7JBdbOLQYBiknOrAww8wullGOZc=
@@ -1105,7 +1039,7 @@ Name: system/etc/terminfo/d/d210
 SHA1-Digest: Bg3VzQ/q2VMcp87IXbKCOVXkWTs=
 
 Name: system/etc/NOTICE.html.gz
-SHA1-Digest: PSCsfiSE26z4m0I0A3tcYVDBH0k=
+SHA1-Digest: KVHKEqScSpQ84d92gQeNogpTb20=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/mpeg2dec/mpc/a
  pi/emptythisheader.elf4nmf
@@ -1149,17 +1083,11 @@ SHA1-Digest: 6dDNhnq8WJyrUwD7b+Hjf+8YmdU=
 Name: system/etc/terminfo/5/5051
 SHA1-Digest: rSMXGLJRsUf8dcHKM1PjQn/B4g4=
 
-Name: system/bin/yesno
-SHA1-Digest: /ncGtCGx2Q4IctkxPC9eoYvilyc=
-
 Name: system/etc/terminfo/d/dgunix+fixed
 SHA1-Digest: A4QFND2UngHT48biCVlTwZxE40c=
 
 Name: system/etc/terminfo/t/terminet300
 SHA1-Digest: JW37oohuKTsG4nFoEjnLQzm14sI=
-
-Name: system/media/audio/ringtones/Zeta.ogg
-SHA1-Digest: HmFS/0BDeTFiEBTg3tp5dFNzJok=
 
 Name: system/etc/terminfo/s/screen-16color
 SHA1-Digest: w1Id8Rr12vDQ0WmtrJ8nkSxNUxE=
@@ -1177,7 +1105,7 @@ Name: system/lib/libvideoeditor_core.so
 SHA1-Digest: fCA4iqbVMFdlKq4qtbB8raBxUqM=
 
 Name: system/lib/libexpat.so
-SHA1-Digest: xHfrZMvAWLeMZqddSXfCeh20Uf4=
+SHA1-Digest: Q6ktvMsyFqXBS8J4fgLkGnlyhbw=
 
 Name: system/etc/terminfo/w/wyse60-w
 SHA1-Digest: idf7Cu6Lw5eQmGY3mIAF5kBhmv0=
@@ -1188,6 +1116,9 @@ SHA1-Digest: roB5ovkPoEW7IdkNr+wZyUY+jzA=
 Name: system/etc/terminfo/t/tvi920c-vb
 SHA1-Digest: IodWBt9Bnp0o6NjSlABAyLe/7N8=
 
+Name: system/etc/plmn.latam.list
+SHA1-Digest: j31mQfOlJlXUsRmIBitBjYx4nuc=
+
 Name: system/etc/terminfo/g/gsi
 SHA1-Digest: ZwET2okPQ3Avrk2Om1/x/l+sp5c=
 
@@ -1197,24 +1128,24 @@ SHA1-Digest: btPbZ9vlwJyCthyQmOosaRnmsAw=
 Name: system/etc/terminfo/m/minitel-2-nam
 SHA1-Digest: 6Vmch2GKsAv1aqA1HGUV12aZuh4=
 
+Name: system/etc/terminfo/a/apple-80
+SHA1-Digest: MJRESDqTgu+tuwqW8ga9ciyeFO4=
+
 Name: system/lib/libcameraextensionclient.so
 SHA1-Digest: yvXMVnCuHdC302RzASFgF25OdO8=
 
-Name: system/etc/terminfo/a/apple-80
-SHA1-Digest: MJRESDqTgu+tuwqW8ga9ciyeFO4=
+Name: system/etc/terminfo/h/hp+pfk+arrows
+SHA1-Digest: 6j+NYTtZLg5l6GxZ0GRm7KkmyF4=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/mp3/nmfil/deco
  der/mp3_bitstreaminfo.elf4nmf
 SHA1-Digest: TJJduGFo3QyctB0QidfAIhhVSyM=
 
-Name: system/etc/terminfo/h/hp+pfk+arrows
-SHA1-Digest: 6j+NYTtZLg5l6GxZ0GRm7KkmyF4=
+Name: system/bin/ndc
+SHA1-Digest: EX9VKR0SX3LvLMkWxNvT2yBwNDw=
 
 Name: system/lib/libsqlite_jni.so
 SHA1-Digest: dj3+MsYWPa1mymaU02CJf0Tylbc=
-
-Name: system/bin/ndc
-SHA1-Digest: EX9VKR0SX3LvLMkWxNvT2yBwNDw=
 
 Name: system/lib/libu300-ril.so
 SHA1-Digest: iAZ3eG/94artK1kwetc7ebyTfjw=
@@ -1232,16 +1163,13 @@ Name: system/usr/share/camera/config_file/omnivision_ov5640_sec.dat
 SHA1-Digest: aP82tlqqmN/CHREDifnzQ+Ysqys=
 
 Name: system/lib/libandroid_runtime.so
-SHA1-Digest: mWW+xT1KRzph4MAz5p6WzZSWCN8=
-
-Name: system/lib/libgabi++.so
-SHA1-Digest: ksiTNQ0C5bn07T4lE6SJ14xWLco=
+SHA1-Digest: jrxEyl+44Yd+wZYlHW/cqbynMLo=
 
 Name: system/etc/terminfo/d/dg6053
 SHA1-Digest: Qn1WG/Bs/pr3muTj9ElX6KJnSTY=
 
-Name: system/media/audio/ringtones/LoveFlute.ogg
-SHA1-Digest: OcMeITbz82PnJZUhBm5Z1vEPL4U=
+Name: system/lib/libgabi++.so
+SHA1-Digest: ksiTNQ0C5bn07T4lE6SJ14xWLco=
 
 Name: system/lib/ste_omxcomponents/libste_binary_splitter.so
 SHA1-Digest: UtU29XuGMwvdGG3yAKVTYACu2mo=
@@ -1257,9 +1185,6 @@ SHA1-Digest: nqdNrBo2uSi6hEl66PMGSk6QifM=
 
 Name: system/etc/terminfo/h/h19-g
 SHA1-Digest: 4J/1DL9nXrIoWDZ3ddwlIL2W/E4=
-
-Name: system/app/OneTimeInitializer.apk
-SHA1-Digest: NhCHLGV2/6VsaUu2ugLhDkIQ2Yg=
 
 Name: system/etc/terminfo/a/ansi+inittabs
 SHA1-Digest: Dv3SrHuPeguC40LHbqDDYhcHWJQ=
@@ -1313,7 +1238,7 @@ Name: system/etc/terminfo/h/h19-u
 SHA1-Digest: v1BKMWYSbMLV9Cb6aMCf1YEU+q8=
 
 Name: system/bin/mksh
-SHA1-Digest: myKJUtXMyYRSn4oXEh87/ynzcmQ=
+SHA1-Digest: i/omRlGlkeo1m4gm9wxm+Eji2Ps=
 
 Name: system/lib/libstagefright_soft_ste_mp3dec.so
 SHA1-Digest: Q4iTB+GvJbWGvnxu1spkCEHzyFI=
@@ -1324,9 +1249,6 @@ SHA1-Digest: ZQwAOIJ42Ko9I2fjfJ+A6q/pMV8=
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/audiolibs/libm
  alloc/init.elf4nmf
 SHA1-Digest: WdiG8lEKtNbyLpadnsYZxxqnGWk=
-
-Name: system/media/audio/ringtones/Shes_All_That.ogg
-SHA1-Digest: E19SHFyaTl3gLreM4EppL4K0x4k=
 
 Name: system/etc/terminfo/d/dd5000
 SHA1-Digest: zXDASZgv/ERFmuJ9zkFJPz/PLmo=
@@ -1349,9 +1271,6 @@ SHA1-Digest: UxOTX6s/ImMF3+i9MWBJSPZ52Hs=
 Name: system/etc/terminfo/t/tek4025ex
 SHA1-Digest: H2oDUb3yGWQLba7RJnSbK+JBEUg=
 
-Name: system/media/audio/notifications/Rubidium.ogg
-SHA1-Digest: 8yrjz91z5e/eBaJp19dj4dQn9JA=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiolibs/libmdct.
  elf4nmf
 SHA1-Digest: n0pFE6mm+4V5K58bIUITBZtjdJk=
@@ -1366,9 +1285,6 @@ SHA1-Digest: AGQ7yazSHY5FviqOfET22Zpdmx4=
 Name: system/etc/terminfo/s/soroc120
 SHA1-Digest: 5o1U8zoMqGViHaQbuGzFG3ZducY=
 
-Name: system/media/audio/ringtones/Centaurus.ogg
-SHA1-Digest: I0OYPBuRz/xh7Zv8hBM/vMTaNqE=
-
 Name: system/lib/hw/hwcomposer.montblanc.so
 SHA1-Digest: AbLDkG7knIgMHjjlja4kOC1y9PY=
 
@@ -1380,9 +1296,6 @@ SHA1-Digest: oY7Bryxg3W6tdxXkYY9CFTy3MUw=
 
 Name: system/etc/terminfo/z/z100
 SHA1-Digest: G2oIKgDn/6odwdWBSStR39qTl3M=
-
-Name: system/media/audio/notifications/Beryllium.ogg
-SHA1-Digest: Oua990VMXulTZxJsZDlLnlVT2NY=
 
 Name: system/xbin/netperf
 SHA1-Digest: /P9N7+QyODsVZkZe1zi4umnnv68=
@@ -1396,11 +1309,8 @@ SHA1-Digest: gcKYQbHFwJsRPpfpaeMnkU5fpB8=
 Name: system/etc/terminfo/t/trs16
 SHA1-Digest: tUmynHaTVLkuI9V8EwLO1znFJxA=
 
-Name: system/media/audio/ringtones/Nasqueron.ogg
-SHA1-Digest: PD7mCB8v+gTVRg3mg3WS7DC8mWo=
-
 Name: system/lib/libjavacore.so
-SHA1-Digest: 4cIk7aAuYUuSfeNAOqobI4wbTv4=
+SHA1-Digest: /pSSVqD5P59y4A/TvqN5Nhb7GTE=
 
 Name: system/etc/terminfo/n/nxterm
 SHA1-Digest: kNS3BfFtsYRHsnMD6Hd9dXDLgoA=
@@ -1538,9 +1448,6 @@ SHA1-Digest: YEkBUNeEYIU5ljIwQKov744H1q0=
 Name: system/etc/terminfo/w/wy520
 SHA1-Digest: GD/7Bbk2MxPj8Q++wW0vvIMz7GU=
 
-Name: system/media/audio/notifications/Electra.ogg
-SHA1-Digest: npotxhbD0RnqPgh5DweDR48Qb80=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/ext_ispctl/api
  /cmd.elf4nmf
 SHA1-Digest: Pg633h7o7gFWnbICgXvoXH4m43Q=
@@ -1578,6 +1485,9 @@ SHA1-Digest: 5GgN0dN/gKccPQx/CeoidfHbuWw=
 Name: system/etc/terminfo/a/att4410v1-w
 SHA1-Digest: z4dLhZQ00v4jsD1kS0QBqUR12zA=
 
+Name: system/media/video/Sunset.480p.mp4
+SHA1-Digest: HKJbjqat3EUvwlIKxXY9Ktc0BbI=
+
 Name: system/etc/terminfo/c/concept100-rv
 SHA1-Digest: CdAh6KzGIETuUf2HDNZ39aJ7E04=
 
@@ -1607,7 +1517,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/vc1dec/mpc/api
 SHA1-Digest: vfF9q0z/5Xcz3WWepNwOdgykRuc=
 
 Name: system/lib/libsrec_jni.so
-SHA1-Digest: XxTBioJYZinwENHfkZ1hWUo5Ygw=
+SHA1-Digest: qeE4IFUqpycd2GZS21ivxb1I7uI=
 
 Name: system/etc/terminfo/a/att5420_2
 SHA1-Digest: DDQAzYNY/r1Pnsba5Bb3XOGuheM=
@@ -1643,10 +1553,7 @@ Name: system/etc/terminfo/n/nwp517-w
 SHA1-Digest: BwHL9uxgSjMZexZXaKyedceiau4=
 
 Name: system/lib/soundfx/libaudiopreprocessing.so
-SHA1-Digest: XCrqBEZh9nMFbMHW2fmEG/dbnoY=
-
-Name: system/media/audio/ringtones/No_Limits.ogg
-SHA1-Digest: 5skJUZ9GZHPeSneCQAWFXA1scWA=
+SHA1-Digest: NbPPZCaFlNunxm0EjjJlYGvki4w=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/jpegenc.elf4nmf
 SHA1-Digest: ZHjwYOFQ7jonTm3gcoBi+T/82Ls=
@@ -1683,11 +1590,8 @@ SHA1-Digest: mIfXWoeVf8i90bIgg1BH6S2ezoE=
 Name: system/etc/terminfo/t/tvi920c-mc
 SHA1-Digest: 5wggCuPayIkizROGrEjICP1gcNI=
 
-Name: system/lib/modules/cifs.ko
-SHA1-Digest: mXEbt2u2UWRdHEllIQFKcpVClWo=
-
 Name: system/framework/requestsync.jar
-SHA1-Digest: mXx1LlGePHM6gEmIQK6yVhcE6Mo=
+SHA1-Digest: UrfHwVidXgl3N8zM88DA5zaUX1c=
 
 Name: system/etc/permissions/android.hardware.nfc.xml
 SHA1-Digest: HUIRpkagOLqayoGvTHbaDrcSTdc=
@@ -1696,7 +1600,7 @@ Name: system/etc/terminfo/n/nsterm+s
 SHA1-Digest: eJ+XJkEPzy+zaGELeShxTa99BlY=
 
 Name: system/app/SoundRecorder.apk
-SHA1-Digest: n8Kk2SDpEOWrT3usS9S6II+KLVI=
+SHA1-Digest: gNTrZcze6uwmoBT1yVTUxDGECl8=
 
 Name: system/etc/terminfo/n/nsterm-7
 SHA1-Digest: xMlvxSTQPRs5rdkX2fIiIzDOCEE=
@@ -1716,9 +1620,6 @@ SHA1-Digest: F6vFGm4FiI9RKZFaBud3ZShflxI=
 
 Name: system/etc/terminfo/v/vt100-putty
 SHA1-Digest: d3gFM5R0kRZT/TP0DxUAlP0sc54=
-
-Name: system/media/audio/ringtones/BirdLoop.ogg
-SHA1-Digest: tyacfsy342or13y6VoNIQ+eoiXk=
 
 Name: system/etc/terminfo/d/d414-unix-25
 SHA1-Digest: rJawEBVNV4micNIpRxUTEhdaxSU=
@@ -1756,9 +1657,6 @@ SHA1-Digest: vJd9SN3v0BZQxhAHFI5iTxrVj6Q=
 Name: system/etc/terminfo/n/news-unk
 SHA1-Digest: IryOEvlx3lslGo8U0KPpi5861+E=
 
-Name: system/media/audio/notifications/Spica.ogg
-SHA1-Digest: p4ocX2dd8+x7ajE2UUgZiUCHP7U=
-
 Name: system/etc/terminfo/n/nsterm-acs-c-s
 SHA1-Digest: u2t4VUB/DSgT1AfverQPIwdzToo=
 
@@ -1789,9 +1687,6 @@ SHA1-Digest: XSU+bbgHHEbEG/bF1WUYrQ9Nj/A=
 Name: system/etc/terminfo/t/tek4027
 SHA1-Digest: XO10H/QEdY6++dHkFVRZXauRtNg=
 
-Name: system/media/audio/notifications/Procyon.ogg
-SHA1-Digest: NbWn32tbUT5tPK13LJEG/L9pCbg=
-
 Name: system/etc/terminfo/m/mterm
 SHA1-Digest: h70Y6OYhAjFqPR6lqRTBAgL3arA=
 
@@ -1818,16 +1713,10 @@ Name: system/etc/terminfo/v/vt420pc
 SHA1-Digest: FwqV3n6m5LwL31qpRJLNTAGeI24=
 
 Name: system/app/VisualizationWallpapers.apk
-SHA1-Digest: Jdkmq02Js7xl36HMcBygp0j3CBk=
+SHA1-Digest: XmHtPKD/esdZRjM3yrQnNZNnOiQ=
 
 Name: system/etc/terminfo/m/minix-old-am
 SHA1-Digest: MofqSizYcoI6eqPLgvExmZlXPN8=
-
-Name: system/media/audio/ringtones/HalfwayHome.ogg
-SHA1-Digest: wyrYCffeViie8bRhm/IRXnw6lYo=
-
-Name: system/media/audio/notifications/Thallium.ogg
-SHA1-Digest: labxWBN5qUXN0Ur4m3XOUMgkod0=
 
 Name: system/etc/terminfo/w/wy75-vb
 SHA1-Digest: guhSp6rIuyPuYQ9vx30bn5vH0wA=
@@ -1909,7 +1798,7 @@ Name: system/etc/terminfo/k/klone+sgr-dumb
 SHA1-Digest: zPYmtTve7AlxfFN1wVkHHMC2cp4=
 
 Name: system/xbin/bash
-SHA1-Digest: a/cABfbb/3NZkb3PSdhWGMJubCI=
+SHA1-Digest: +KhV3LZDlf2/WIY2iV5WAmYjcsE=
 
 Name: system/etc/terminfo/d/d430-dg-ccc
 SHA1-Digest: G/S1uQmm89qOsFSulm9xjWw8iBg=
@@ -1925,16 +1814,10 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/interruptdfc.e
 SHA1-Digest: dvoBeTuGi9QqhxYMy4cTj8WSFRg=
 
 Name: system/app/Settings.apk
-SHA1-Digest: kwsZkfcSLHePsBjq2p7mQwMBbVU=
-
-Name: system/app/GoogleFeedback.apk
-SHA1-Digest: YERWcDxYXoGRvoM66Zev6jgnA14=
+SHA1-Digest: DGNHlEU7XCZTmtl/Qw+VfNXu3PY=
 
 Name: system/etc/terminfo/z/z29a
 SHA1-Digest: uI9UoglMpgnUDpC+bXpA1ui21NQ=
-
-Name: system/media/audio/alarms/Barium.ogg
-SHA1-Digest: MnvyDc3f0xcVS5TVjE+T5mcad3c=
 
 Name: system/lib/libmalcs.so
 SHA1-Digest: XowfB7GSZTlqkmGpnHVI3w4qHH4=
@@ -1948,9 +1831,6 @@ SHA1-Digest: 5jmx1Oiix9gj9rpf18J7Nc6hCV4=
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/h264dec/mpc/dd
  ep/api/end_codec.elf4nmf
 SHA1-Digest: x2hIv+seKiiPoqZAEM7pUAs72VQ=
-
-Name: system/media/audio/ringtones/DreamTheme.ogg
-SHA1-Digest: gpRdfHQK+kjh5oWDLAM9klVlWQM=
 
 Name: system/etc/terminfo/o/osborne-w
 SHA1-Digest: uXUlmRUpmJxxZ6kLIYnavicO++k=
@@ -1971,7 +1851,7 @@ Name: system/etc/terminfo/v/vc403a
 SHA1-Digest: 1w6KjMlpf6rX4XmyLspkQeDPNTE=
 
 Name: system/app/Contacts.apk
-SHA1-Digest: zC3bKMokuq1qLV3ueSx33gfuhHQ=
+SHA1-Digest: TmmFV/EhyZt4NLeQwcxy24Pex3k=
 
 Name: system/etc/terminfo/a/aaa-30-ctxt
 SHA1-Digest: ye0vb7jfl69EGdxlY/Ta1wvfdoQ=
@@ -2030,7 +1910,7 @@ Name: system/etc/terminfo/c/cons60l1-m
 SHA1-Digest: RHvYW5rayhnxkt9V6Rs9dzV/WPs=
 
 Name: system/lib/libvorbisidec.so
-SHA1-Digest: vUnf2yoEnh8L1URqJwleK1zrEjM=
+SHA1-Digest: JRMcci5K+6jHh5YBSROZmnrdXCI=
 
 Name: system/etc/security/cacerts/48478734.0
 SHA1-Digest: DD+Jf/xyWUb9vB7awEI1t/6+AM0=
@@ -2071,9 +1951,6 @@ SHA1-Digest: 4+rXBhKHd1YDPcDbneY4marLts0=
 Name: system/bin/pand
 SHA1-Digest: I+6U8fEqHfYsGau2YpTe7nRZhzs=
 
-Name: system/media/audio/notifications/CyanPing.ogg
-SHA1-Digest: DwtsXZ7pA/L1beGH0/aEEXjQjvg=
-
 Name: system/lib/libstdc++.so
 SHA1-Digest: Wnx+lMXTk63P64BgYtojlwkAYRM=
 
@@ -2105,7 +1982,7 @@ Name: system/etc/terminfo/g/gnome-rh72
 SHA1-Digest: J+pOX3if8OJEZUDwvMbhccLGPP8=
 
 Name: system/framework/uiautomator.jar
-SHA1-Digest: lo6fiLo0o9d8FZer4CMU92vP25Y=
+SHA1-Digest: zgqVSBCRuSMFZD4m81dAGlwhbRw=
 
 Name: system/lib/libhardware.so
 SHA1-Digest: P/DO/bqosWjKaNvXjKJrG3Uc0B4=
@@ -2115,9 +1992,6 @@ SHA1-Digest: C35OsThUYWcANbQ3+C/TwJlBLVU=
 
 Name: system/etc/terminfo/a/aixterm-m-old
 SHA1-Digest: MBrwHbvjeN/Hwy3cCgDOPxAALXg=
-
-Name: system/media/audio/notifications/Krypton.ogg
-SHA1-Digest: aHmdh+Mp17nXRfM4HFTOH84xJ8o=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/samplerateconv/nmf
  il/wrapper.elf4nmf
@@ -2133,13 +2007,13 @@ Name: system/etc/terminfo/a/att5420-w-nl
 SHA1-Digest: WN6tLNkrKXx4KX3euOCwn0wNzp8=
 
 Name: META-INF/com/android/metadata
-SHA1-Digest: UdA5eqkBOeRO7nO2A0SYf4jI49k=
+SHA1-Digest: 7rmLrlWpeTV05e9iaZldQJp7v5Q=
 
 Name: system/etc/terminfo/c/cons25r-m
 SHA1-Digest: xwyhB/biL866onV4IeKsgGm/TCA=
 
 Name: system/usr/share/camera/tuning/TunStiPre-010045.xml
-SHA1-Digest: NmFZ9nNRY3BXYZgstLnkhQaHM8M=
+SHA1-Digest: 1UA5KVk3IAOpLMtt4pGYYihHmkc=
 
 Name: system/lib/libgui.so
 SHA1-Digest: +Mto2ZzEq4Kp2UoAQKVue7afrHM=
@@ -2196,9 +2070,6 @@ SHA1-Digest: gkHIQxvnKvPmp/S5yrSIK2VlgvU=
 Name: system/etc/terminfo/s/screen.linux
 SHA1-Digest: Kegb88lvvikN6vcNRnhq+IRG3BM=
 
-Name: system/media/audio/notifications/Lalande.ogg
-SHA1-Digest: TpM9FkQ4P934DUP62QgJpUw5uMY=
-
 Name: system/etc/terminfo/v/vt102-nsgr
 SHA1-Digest: /9AW4jVGt5giaRFudJux5kz8b5w=
 
@@ -2210,7 +2081,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/pcm_splitter/n
 SHA1-Digest: ALpzAbOtW+LoJGyugRmb48tDSfs=
 
 Name: system/lib/libmedia_jni.so
-SHA1-Digest: f2vOEqpqRJ6/lT1oU+BnA6Ic7zQ=
+SHA1-Digest: 1k7/nh3LJQjdV5ez84sKvmDOeHE=
 
 Name: system/etc/terminfo/t/tvi920c-vb-unk
 SHA1-Digest: CRJ4jXJ+1iamC889Uv0kHsTRNeo=
@@ -2236,9 +2107,6 @@ SHA1-Digest: 52Z6+mQD6/w9KhX7ynfVuGebh2c=
 
 Name: system/etc/terminfo/l/linux-basic
 SHA1-Digest: 3/WEcD3SOBQEjcwcgpCkl2WT6wg=
-
-Name: system/media/audio/ringtones/Carina.ogg
-SHA1-Digest: D2cgsg+MBFvd/iJsffxZb9LD5oc=
 
 Name: system/etc/terminfo/n/nsterm-m
 SHA1-Digest: EgjCt35wtAcWFoDkc56pKlxvBfg=
@@ -2293,13 +2161,10 @@ Name: system/etc/terminfo/w/wy520-36
 SHA1-Digest: ZCL6f3L6KjeloSHv3EpSV1OoTPE=
 
 Name: system/app/KeyChain.apk
-SHA1-Digest: ohd8R5tvqm06Sn3jYBFsckA2y/4=
+SHA1-Digest: v/7LQLl+jgw547Z2jbaKcfEkFoo=
 
 Name: system/etc/security/cacerts/c33a80d4.0
 SHA1-Digest: j+oS/ELhscXEs8jsZgH1YZdo0Yk=
-
-Name: system/media/audio/ringtones/DonMessWivIt.ogg
-SHA1-Digest: SFRCKLwlXvC0uzVSPXdpurHt2b4=
 
 Name: system/etc/terminfo/p/putty
 SHA1-Digest: /C38UvhiUwAQ9TaHnzZ5zMF3Wgc=
@@ -2308,13 +2173,13 @@ Name: system/etc/terminfo/d/d430-unix-w-ccc
 SHA1-Digest: tAmL1iJjl40CuES1xGFQ0IEQ05Y=
 
 Name: system/app/UserDictionaryProvider.apk
-SHA1-Digest: v38Iueij6d+QECS0U7ezw84WoDI=
+SHA1-Digest: YPMr7XYFbemtdiVb3sT5y/VwU6I=
 
 Name: system/etc/terminfo/c/cons50-koi8r-m
 SHA1-Digest: ttmw3h77IsxFUgH1v9GZmkVjIdE=
 
 Name: system/app/LiveWallpapers.apk
-SHA1-Digest: qGVKhQqqo3lUarFJIFuVrTxzZS8=
+SHA1-Digest: s/hXvzUEajPpzcc0xbzTHPu/UC0=
 
 Name: system/etc/terminfo/w/wy99gt-25
 SHA1-Digest: utTY5Z7oOxpNeL9g9MjA53oONyk=
@@ -2349,20 +2214,17 @@ SHA1-Digest: ioCzFDDTLg+i1zT1LVnw91PX2JA=
 Name: system/etc/firmware/R2c.2_SoC2v06_EXT_src_coeff_1.1.fw
 SHA1-Digest: PTQTDa+KOSD9EM0HGJwM214TurE=
 
-Name: system/media/audio/ringtones/FriendlyGhost.ogg
-SHA1-Digest: 9olSawoPWK5zDyrzPiQ5tCvZkdE=
-
 Name: system/etc/terminfo/m/mime3a
 SHA1-Digest: 0b0kKe17rJnnIb3NH/n88bkJtRk=
 
 Name: system/etc/terminfo/p/pc3-bold
 SHA1-Digest: SFYOW/FBMn4QYc5J/Ov7im/19ZU=
 
+Name: system/framework/svc.jar
+SHA1-Digest: OcV94cK+E1Or78u6h8SLpajv69M=
+
 Name: system/etc/terminfo/n/nwe501-a
 SHA1-Digest: eiG8gOzn4hvnvcpzeUZ9b7UGsYs=
-
-Name: system/framework/svc.jar
-SHA1-Digest: Sxx1n5LbK5INwIKYNDG9eXniluc=
 
 Name: system/etc/terminfo/w/wyse50-wvb
 SHA1-Digest: YpOqpaPzS7rVvzatSCQ7dnn4yEI=
@@ -2370,22 +2232,22 @@ SHA1-Digest: YpOqpaPzS7rVvzatSCQ7dnn4yEI=
 Name: system/fonts/DroidSerif-Italic.ttf
 SHA1-Digest: aCx+e4yyj8kOYcR5otukddlLoMo=
 
-Name: system/etc/terminfo/v/vt400-24
-SHA1-Digest: wNhLxIvBH0wFAR4XdfkRsU4175k=
-
 Name: system/etc/terminfo/q/qume5
 SHA1-Digest: xCnWFAX/NHyRmlopAQmy8CRlZOo=
+
+Name: system/etc/terminfo/v/vt400-24
+SHA1-Digest: wNhLxIvBH0wFAR4XdfkRsU4175k=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/mp3/codec/libmp3de
  code.elf4nmf
 SHA1-Digest: Wk8JwUe8SeB/L8OZ8kByOsLdP+w=
 
-Name: system/etc/terminfo/a/ansil
-SHA1-Digest: m0swJEOEIhNC5MdCXh8AN1GplgA=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/pcmprocessings
  /mips/configure.elf4nmf
 SHA1-Digest: oSCkEfV/ZclXSEy6Akg2SXpQ5so=
+
+Name: system/etc/terminfo/a/ansil
+SHA1-Digest: m0swJEOEIhNC5MdCXh8AN1GplgA=
 
 Name: system/etc/terminfo/d/d412+
 SHA1-Digest: +CWEj9nmfa+wwzN+nDjA8by1l/U=
@@ -2393,38 +2255,38 @@ SHA1-Digest: +CWEj9nmfa+wwzN+nDjA8by1l/U=
 Name: system/etc/terminfo/o/oabm85h
 SHA1-Digest: hOk5f7nouRMqg6uF+MYzrwZvbq0=
 
-Name: system/etc/terminfo/v/vt520
-SHA1-Digest: k3l5X4wEph05i0S5vA6UbfH6fWw=
-
 Name: system/etc/terminfo/a/ansis
 SHA1-Digest: GkRGiZ7/Fd8yv1mNDfy9FvB/v2c=
 
-Name: system/etc/terminfo/x/xterm+pcc2
-SHA1-Digest: sSdfbnGpKZTAco9XYKZiiDoY4f4=
+Name: system/etc/terminfo/v/vt520
+SHA1-Digest: k3l5X4wEph05i0S5vA6UbfH6fWw=
 
 Name: system/etc/terminfo/a/aaa-24-rv
 SHA1-Digest: 0UQmRp9tboRAvaAntngJcDxpIbE=
 
+Name: system/etc/terminfo/x/xterm+pcc2
+SHA1-Digest: sSdfbnGpKZTAco9XYKZiiDoY4f4=
+
 Name: system/etc/terminfo/x/xterm+pcc3
 SHA1-Digest: ijc4H60Gt2oTjoBLt10sZdG7K2U=
-
-Name: system/etc/terminfo/x/xterm+pcc0
-SHA1-Digest: EjZjGuucZuVOxYUBo5RMIlTYG/Q=
-
-Name: system/etc/terminfo/v/vt525
-SHA1-Digest: Ers9fUQbURf5pUodzziwtfvtGUM=
 
 Name: system/lib/libbluetooth.so
 SHA1-Digest: Lqavwq8gU6frg6NczirxSin+//4=
 
-Name: system/etc/terminfo/x/xterm+pcc1
-SHA1-Digest: lTnW7kXHt0WMmNyMWzHeyby8hao=
+Name: system/etc/terminfo/v/vt525
+SHA1-Digest: Ers9fUQbURf5pUodzziwtfvtGUM=
+
+Name: system/etc/terminfo/x/xterm+pcc0
+SHA1-Digest: EjZjGuucZuVOxYUBo5RMIlTYG/Q=
+
+Name: system/etc/terminfo/a/ansiw
+SHA1-Digest: AXngs0E0/9aEsu7cN16BBgAlldY=
 
 Name: system/etc/terminfo/n/ncr260vpwpp
 SHA1-Digest: 1f5qn18hMljJsYweCOc4nB5cL9U=
 
-Name: system/etc/terminfo/a/ansiw
-SHA1-Digest: AXngs0E0/9aEsu7cN16BBgAlldY=
+Name: system/etc/terminfo/x/xterm+pcc1
+SHA1-Digest: lTnW7kXHt0WMmNyMWzHeyby8hao=
 
 Name: system/etc/firmware/R1f.2_SoC1v20_BT_src_coeff_1.1.fw
 SHA1-Digest: Rf4xML709QOy+spiodnD9rBYvDE=
@@ -2443,7 +2305,7 @@ Name: system/etc/terminfo/c/c108-w-8p
 SHA1-Digest: ad+hpIuqGFtoFaNjNuL+u0Hv46A=
 
 Name: system/app/SettingsProvider.apk
-SHA1-Digest: xt/eHLT0QbXyoTWSppQsDuXLCcM=
+SHA1-Digest: 3Xa5ew4gClRUj2pA35djLJ/n4cc=
 
 Name: system/etc/terminfo/a/att505-24
 SHA1-Digest: VoVoSUvaMn/yuaHpVgm/qFxn76c=
@@ -2463,23 +2325,23 @@ SHA1-Digest: Y6pDfbRWwtQcfBXVTje9S5f9eeE=
 Name: system/lib/libnativehelper.so
 SHA1-Digest: rlzkEsf4QjtrXVFYhsSYG8Iqrw4=
 
+Name: system/usr/share/camera/tuning/TunStiPre-020045.xml
+SHA1-Digest: YxyAtnFIIf8CANyUl4XTr50FNII=
+
 Name: system/etc/terminfo/d/digilog
 SHA1-Digest: v41M6proOSE36TK5j0ZDCmVKdFg=
-
-Name: system/usr/share/camera/tuning/TunStiPre-020045.xml
-SHA1-Digest: nAx8cEgELc5d+UjZquSKPGy6T+A=
 
 Name: system/etc/terminfo/t/ti926-8
 SHA1-Digest: NDSufv+HVWXpZI9PEccm+AbES1o=
 
-Name: system/etc/terminfo/p/psterm-90x28
-SHA1-Digest: cUAyk/t6nSW9NjtF0yI4YARxSWc=
+Name: system/etc/terminfo/a/att5420-nl
+SHA1-Digest: 3oE0V1G8W1NSTHxN/fWKw4QKB4A=
 
 Name: system/etc/terminfo/a/altoheath
 SHA1-Digest: 2G3BrCsarhsIVUipBqLMzQ0lN3A=
 
-Name: system/etc/terminfo/a/att5420-nl
-SHA1-Digest: 3oE0V1G8W1NSTHxN/fWKw4QKB4A=
+Name: system/etc/terminfo/p/psterm-90x28
+SHA1-Digest: cUAyk/t6nSW9NjtF0yI4YARxSWc=
 
 Name: system/usr/idc/qwerty2.idc
 SHA1-Digest: CxeFAjbR656/zttheEGexLMYZio=
@@ -2543,7 +2405,7 @@ Name: system/etc/terminfo/o/oldibmpc3
 SHA1-Digest: sTaqQ3U6tT5lVhEHA770GECDNZ8=
 
 Name: system/framework/framework.jar
-SHA1-Digest: ziY+JnnHPJb5OV3QEcHulNqgS/I=
+SHA1-Digest: bxFvQ4vFW5GVYYSTM1gqiV1dSBE=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/amr/nmfil/decoder.
  elf4nmf
@@ -2551,9 +2413,6 @@ SHA1-Digest: P2DCnbXWWRFKTu2xG0MQbPAi5Qo=
 
 Name: system/etc/terminfo/a/ansi80x25-raw
 SHA1-Digest: 6P/STSC6je9cF2Nzgf9JfbprXOs=
-
-Name: system/media/audio/notifications/Vega.ogg
-SHA1-Digest: AXkmetkgFa/GiXrWjdR/hUR6FTQ=
 
 Name: system/etc/terminfo/t/tek4025a
 SHA1-Digest: UsqPc5HSeMj1VYd9PDaXzxVH0gk=
@@ -2572,6 +2431,9 @@ SHA1-Digest: qSPVFCP0CglGQoo6fmqF4UouZaQ=
 
 Name: system/etc/terminfo/v/vt50
 SHA1-Digest: vHHOJQkaLNv2ySwFXgfqJpyl5gc=
+
+Name: system/lib/libpicowrapper.so
+SHA1-Digest: yLgRej2HcXYA/19iV3ubXmKaJF0=
 
 Name: system/lib/ste_omxcomponents/libst_omxnorcos.so
 SHA1-Digest: TohOl5jYB7H3f+neRbMOzLZkCew=
@@ -2599,11 +2461,8 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/resource_manag
  er/api/mtf_resource.elf4nmf
 SHA1-Digest: qpMcwKliDYCbtELC3oVkCopUVoU=
 
-Name: system/media/audio/notifications/Iridium.ogg
-SHA1-Digest: DU9VigzfsaBvoojPYEv6XE4VY78=
-
 Name: system/app/InputDevices.apk
-SHA1-Digest: +EngS6fnnV5Su7kWkioQp9WSdIU=
+SHA1-Digest: WUJU/5pRBkgCqt2BMSYfX9h7hzU=
 
 Name: system/etc/terminfo/d/d215-dg
 SHA1-Digest: sil8Berz57wFxbdnNUFvIBV3sWs=
@@ -2621,13 +2480,13 @@ Name: system/etc/terminfo/w/wyse150-25
 SHA1-Digest: uIenPlI9cSx9eCX5Uqc8fXkTESE=
 
 Name: system/lib/modules/modules.dep.bb
-SHA1-Digest: Psn3wA/o+plWiq3yFU8qbzjMluM=
+SHA1-Digest: y8MY/ihsNyD0ZOx0g8/i02HxqXc=
 
 Name: system/etc/terminfo/w/wy85-w
 SHA1-Digest: PdZWYUkJSnuzfP9ReKG56pOJ5lE=
 
 Name: system/framework/bmgr.jar
-SHA1-Digest: OWQ3Xpr+M9XITrqJFCyGSaLVj2E=
+SHA1-Digest: jBZpnUPkA433aMwUw5l3b3ZgSE8=
 
 Name: system/etc/terminfo/x/xterm+pce2
 SHA1-Digest: 1vlpWJRE08TcbI+IRAMGgU95Thk=
@@ -2672,9 +2531,6 @@ SHA1-Digest: aGKlbGa0Nr1DZc5aYSFWamKzfRQ=
 Name: system/etc/terminfo/d/d462+s
 SHA1-Digest: jqdLm+b1h9xYoQf0wPpJ86G+fME=
 
-Name: system/media/audio/alarms/Hassium.ogg
-SHA1-Digest: J2qXPELtRj2nzNLYBWsueuYL1TY=
-
 Name: system/bin/make_ext4fs
 SHA1-Digest: gVPFYkbjBkj3Fzzdxbba1BbKaA4=
 
@@ -2703,7 +2559,7 @@ Name: system/etc/security/cacerts/bda4cc84.0
 SHA1-Digest: /ZztxwPHRyN202+l2rSGg6udDJE=
 
 Name: system/xbin/rfcomm
-SHA1-Digest: MOxYTlfyF+WNpfkmslsuotiaJ20=
+SHA1-Digest: JiwlgIxV4Z+5kfwru8bTSDgSafM=
 
 Name: system/etc/terminfo/n/ntconsole-25-nti
 SHA1-Digest: uBdFqHXe3DsyzRa85qU9sAVq9ZA=
@@ -2720,9 +2576,6 @@ SHA1-Digest: nUE8DDwn3u8EjBT9BAQwWJu6LEM=
 Name: system/etc/security/cacerts/6adf0799.0
 SHA1-Digest: yOpUlfl7ZFCprMcTVr1bX0nCx28=
 
-Name: system/media/audio/ringtones/Third_Eye.ogg
-SHA1-Digest: HpCcmSiMRV88aI8GvoMCCOnWxfg=
-
 Name: system/etc/terminfo/p/pe7000m
 SHA1-Digest: emLJckD2xbTrE0eAn1COzxq+ghA=
 
@@ -2730,7 +2583,7 @@ Name: system/etc/terminfo/n/ncr260vt300an
 SHA1-Digest: gq8ZBiAM060DL1PcmjOKTYGhRUo=
 
 Name: system/lib/libwebrtc_audio_preprocessing.so
-SHA1-Digest: yLVsfG4NhcixrAWIS2ZyL/JJM3E=
+SHA1-Digest: biffpHCPJzwcDjk3PFq9PNm4yxQ=
 
 Name: system/etc/terminfo/P/P9
 SHA1-Digest: cZBaGGUDNLOeKqxRsYYTpmg2ubQ=
@@ -2745,7 +2598,7 @@ Name: system/etc/security/cacerts/4fbd6bfa.0
 SHA1-Digest: S6TGnIWLIWVHbHri7sRkvgXJHPo=
 
 Name: system/bin/applypatch_static
-SHA1-Digest: 269URM2Q54v6SUf/+WUvQiXdXlQ=
+SHA1-Digest: lKeyCQbpxU2bdg7NEZwdYZJM8cE=
 
 Name: system/etc/terminfo/n/ncr160vt300wpp
 SHA1-Digest: 3yKab3gR12GKUxiJ0GI8lBed04Y=
@@ -2758,9 +2611,6 @@ SHA1-Digest: eZFEUUZ3E99mh9JH3+BLjS+kB/g=
 
 Name: system/etc/terminfo/t/tandem653
 SHA1-Digest: RbgJXagM1nPHShBCvXy2FhiInO8=
-
-Name: system/media/audio/notifications/Pong.ogg
-SHA1-Digest: yei9eai8orNEJAYsALLTcH5CeWw=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/emptythisbuffe
  r.elf4nmf
@@ -2808,7 +2658,7 @@ Name: system/etc/terminfo/i/ibmpc3r
 SHA1-Digest: NvBSNhP8bK4o+I1SLmEZRSoEHBU=
 
 Name: system/framework/bu.jar
-SHA1-Digest: R4qQzq0wNF+G/32YI9BhB9Zbeq4=
+SHA1-Digest: bOX2cr64d7m6QsYPhmaxLewZ0FU=
 
 Name: system/etc/terminfo/n/ncr160wy60wpp
 SHA1-Digest: WoTkohj/KECbKZCQLRhW6bnEU3A=
@@ -2862,7 +2712,7 @@ Name: system/xbin/hstest
 SHA1-Digest: yq0XNjpnOfmr8f0b0T5lbWsHdck=
 
 Name: system/framework/apache-xml.jar
-SHA1-Digest: xP/oUx4jCpcDzt+tDKGO5HvW0m8=
+SHA1-Digest: PCOTeqydMqPOHPFit5te6LNVyhY=
 
 Name: system/semc/chargemon/data/charging_animation_03.png
 SHA1-Digest: zC1kzAcQqQjahZLQ/9xYwmXNrwY=
@@ -2875,9 +2725,6 @@ SHA1-Digest: l+8SACo8q/mhVrx/92bME8YLb8I=
 
 Name: system/etc/terminfo/k/kt7
 SHA1-Digest: 90F+jGl3Fw+/eqjb6SlNo53i+MM=
-
-Name: system/media/audio/ringtones/Growl.ogg
-SHA1-Digest: GdBECgwoDbSXi+JfYz+8kOBPNaw=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/preload_adm.txt
 SHA1-Digest: viHcMOl2faj8EZOwVbEG4qurrZU=
@@ -2895,13 +2742,10 @@ Name: system/etc/terminfo/q/qvt119p-25-w
 SHA1-Digest: JSgqrT0geZbq9ZVyYx+0IGMFbtU=
 
 Name: system/app/TelephonyProvider.apk
-SHA1-Digest: BwpbAiOY5FTjiBKrJ16UcOuKMSI=
+SHA1-Digest: EgdAszBEHJglryjVrVh3s6za81c=
 
 Name: system/etc/terminfo/h/hp2621b-kx
 SHA1-Digest: +5xWpabvIkkjMY+ERlDbXNrSFzI=
-
-Name: system/media/audio/notifications/Fomalhaut.ogg
-SHA1-Digest: CSODjVs4oQvV9I1QqvCHwgmYFDI=
 
 Name: system/etc/terminfo/g/gnome-fc5
 SHA1-Digest: gqhe1niiAi3g3nrl4G6N8FcU/zM=
@@ -2910,7 +2754,7 @@ Name: system/etc/terminfo/s/simterm
 SHA1-Digest: U00KHqaAJOYpIATdlwvZf6PAkus=
 
 Name: system/bin/debuggerd
-SHA1-Digest: wF1QW/Ky6q+V724m2nNMDq/nxvU=
+SHA1-Digest: 4uiY6LH78q9eXmoZgGuW60QmIg4=
 
 Name: system/lib/libste_ext_ens_image_common.so
 SHA1-Digest: tVKSoducEltU/LLvY3+n/CjJlIM=
@@ -2937,9 +2781,6 @@ SHA1-Digest: 9G8AtthxxkSA9TO28+h+MeVobYs=
 Name: system/etc/terminfo/c/cons25r
 SHA1-Digest: bTHHDDZ7w+M6UB1ZgCfSdERNkjY=
 
-Name: system/media/audio/ringtones/CanisMajor.ogg
-SHA1-Digest: BRRfpucnkD5rS1TLFbPJnK/z2VI=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/debug/mpc/dsp_prin
  tf.elf4nmf
 SHA1-Digest: Fb5p4I7PfZuZ1M+vNIXKatW1fkk=
@@ -2964,9 +2805,6 @@ SHA1-Digest: vqsV2pqCYxnnq6+v2C3MIj1h0oA=
 
 Name: system/etc/terminfo/e/excel62
 SHA1-Digest: nozmfoh+l/0saUV7Z72Kcu+nFuU=
-
-Name: system/media/audio/ringtones/TwirlAway.ogg
-SHA1-Digest: yILYHhxvX3n1dzRjtc44ysyWWBw=
 
 Name: system/etc/terminfo/a/ampex232
 SHA1-Digest: O0cBq8AmcibfofyIl/K7rSvFVKI=
@@ -3005,19 +2843,13 @@ Name: system/etc/terminfo/t/tvi912b-vb-mc
 SHA1-Digest: 2OIgVBOb0/R5IsV/SLBBJzRBS+w=
 
 Name: system/lib/libstagefright_soft_aacenc.so
-SHA1-Digest: mONUyCDO4Fgtnvim1nXLlc4M24M=
-
-Name: system/media/audio/ringtones/Cairo.ogg
-SHA1-Digest: JCQVGRgmiRHO0MXF8TKIbhF+GeE=
+SHA1-Digest: sZEhzzLZBjLcB1n8JIARxGu7Log=
 
 Name: system/etc/security/cacerts/cdaebb72.0
 SHA1-Digest: boCUiF4OQ/Bc6b9xuzVVDs8BBkk=
 
 Name: system/etc/terminfo/a/att620-w
 SHA1-Digest: /UylizMHljUp/blLm6GjVjJl8Yc=
-
-Name: system/media/audio/ui/camera_focus.ogg
-SHA1-Digest: oASCRq4SIutzhqV38nEyIOic04c=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/memgrabctl/api
  /configure.elf4nmf
@@ -3056,13 +2888,13 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/mpeg2dec/mpc/a
 SHA1-Digest: GDFotapq2VZlP1xQF9trJ7i96I4=
 
 Name: system/framework/monkey.jar
-SHA1-Digest: GACphFw2vRiWAlVcDgrhERpW9yo=
+SHA1-Digest: zmpJywxQ08R38C/u0hxfRYKeMEc=
 
 Name: system/etc/terminfo/k/kon
 SHA1-Digest: i9qheZzkB2tq6CwrywkOGKQrrVE=
 
 Name: system/usr/share/camera/tuning/TunCommon-010045.xml
-SHA1-Digest: f097mJQqoIQyo6dsQx2lFNAnrW4=
+SHA1-Digest: +sgfX/pa1Od+DD7kgFogx0ciS+k=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiocodec/mpc/dma
  in_bt.elf4nmf
@@ -3080,9 +2912,6 @@ SHA1-Digest: oyYEUuI1dGep1kUc6Db8yDAMbPI=
 Name: system/etc/terminfo/i/ifmr
 SHA1-Digest: lEWQefNgzKvueSeMBTwpNQ4OGYU=
 
-Name: system/media/audio/notifications/Regulus.ogg
-SHA1-Digest: eqMrvebb9dqhCXbg4CNzh8lOOxg=
-
 Name: system/etc/terminfo/s/spinwriter
 SHA1-Digest: BFO29+QQC/qVlCEQ8rrclqTbBFw=
 
@@ -3098,9 +2927,6 @@ SHA1-Digest: T/N/Uw1UgGbEWB8Hs3Ci3E0+1KE=
 
 Name: system/etc/terminfo/a/aaa-s-rv
 SHA1-Digest: e6JdVTjLSTe4oKzUcEGmT+RQVx0=
-
-Name: system/media/audio/notifications/Deneb.ogg
-SHA1-Digest: UwAzKmKapEwe72O5VOBr9Sb9uQ4=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiocodec/mpc/msp
  _dma_ctrl_ab8500.elf4nmf
@@ -3120,9 +2946,6 @@ SHA1-Digest: mV3SoK2fBPKWex7o/nDrw1CqS/M=
 
 Name: system/etc/terminfo/m/masscomp2
 SHA1-Digest: IoBIqGvkCFTd3ABQq3PJm7cH0zg=
-
-Name: system/media/audio/notifications/Pollux.ogg
-SHA1-Digest: czKkIEsJETsN/hmFuHcQNurkgf0=
 
 Name: system/etc/terminfo/c/concept
 SHA1-Digest: /ZdbHJBvszFvlqrtXex+8rtVTGU=
@@ -3157,9 +2980,6 @@ SHA1-Digest: W3qMrheQ8VYHAHvUvr3kqVkqhMY=
 Name: system/etc/security/cacerts/d64f06f3.0
 SHA1-Digest: rJ+XZX/zYV6CfIibccm6aeg3E8Y=
 
-Name: system/media/audio/notifications/CyanMessage.ogg
-SHA1-Digest: ZjRO34rP2inRtA/2fDQnFsilx4g=
-
 Name: system/etc/terminfo/d/d220-7b
 SHA1-Digest: Up9OPV5UcUxrwXEobXvJPZ0rnrc=
 
@@ -3181,9 +3001,6 @@ SHA1-Digest: kGdFC04Jt+WahNpoaGR1ENXkRWI=
 Name: system/etc/terminfo/k/konsole-xf4x
 SHA1-Digest: gJOXv1mGR/P03NZRBKt5Iir8Eg4=
 
-Name: system/media/audio/ui/Dock.ogg
-SHA1-Digest: Aqlx0uppEHUJRyb6uxXMgEC85+c=
-
 Name: system/etc/terminfo/w/wy520-epc-w
 SHA1-Digest: o0qffEBqIp+VufcH4p1PDyE2ow4=
 
@@ -3192,9 +3009,6 @@ SHA1-Digest: 7eGoOZ/6u8g1eD+5Gnof7zuPr5I=
 
 Name: system/lib/libarchive.so
 SHA1-Digest: 8BXQp+6LNPsl0zkkzRx4uQsaqh4=
-
-Name: system/media/audio/notifications/Antares.ogg
-SHA1-Digest: twATMc4b2ulOX/gVLE6Ats4mDZ4=
 
 Name: system/app/NetworkLocation.apk
 SHA1-Digest: gmA43UJXi242MzjSgGvO/TRLUPg=
@@ -3215,12 +3029,6 @@ SHA1-Digest: WPdS2gzOOBqS85aAnJsPvTtBgAQ=
 Name: system/etc/terminfo/a/aaa-ctxt
 SHA1-Digest: FCHpZpuY6dQxhRV0d0ssnF+Ud7A=
 
-Name: system/media/audio/ringtones/InsertCoin.ogg
-SHA1-Digest: 05pogKTikcrAOJu55Jk2sos5Dqs=
-
-Name: system/media/audio/ringtones/DancinFool.ogg
-SHA1-Digest: FFpA1ZPrtUsjI4CLfR0/+xpAlWQ=
-
 Name: system/etc/terminfo/w/wyse325-wvb
 SHA1-Digest: NkiRh5FC9FvQQhb2Wrx/S1bIVSs=
 
@@ -3232,9 +3040,6 @@ SHA1-Digest: tqbvpSS4s+h8k/Jxdmvvw0QIPQY=
 
 Name: system/etc/terminfo/e/exec80
 SHA1-Digest: wT1Tpewqp8HgR1eZz6iY4AAypns=
-
-Name: system/media/audio/notifications/Castor.ogg
-SHA1-Digest: JGlgPA0Q9NbfKn3Q9JPJlmISNiE=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/eventhandler.e
  lf4nmf
@@ -3248,9 +3053,6 @@ SHA1-Digest: D8krb2EvooQUDc2Wc5924WcMxyI=
 
 Name: system/etc/terminfo/n/ncrvt100wpp
 SHA1-Digest: mlyv57DUBTMj2h2NddyT7FAGIZA=
-
-Name: system/media/audio/ringtones/LoopyLounge.ogg
-SHA1-Digest: /1jLZBurNndlJhASnUKBOsUHDjU=
 
 Name: system/etc/terminfo/d/dw
 SHA1-Digest: SI1nDkjRAPyWWzfeKdfEFlbTbXY=
@@ -3295,9 +3097,6 @@ SHA1-Digest: p4hJ1ZyEzV//sWH1Qap+E8ZOu2A=
 Name: system/etc/terminfo/w/wyse50-mc
 SHA1-Digest: qnnFoh2zilPN9cdE0LlhwVbhOes=
 
-Name: system/media/audio/notifications/Arcturus.ogg
-SHA1-Digest: Zm62ZsXMmMSaNdanuz0zKmsOmaQ=
-
 Name: system/xbin/opcontrol
 SHA1-Digest: qUya2MZ4zyINeRZLUccDdLPVJ5Q=
 
@@ -3318,13 +3117,10 @@ Name: system/etc/terminfo/a/abm85h-old
 SHA1-Digest: Azv2tcIGGw3KbS1OWxNDlAQ2pc4=
 
 Name: system/bin/mkyaffs2image
-SHA1-Digest: esrrThjRy7zPBdfW3Bv2Iv9+yA0=
+SHA1-Digest: tzm5vMbq5n/kAn9B0MhQ4QE19rs=
 
 Name: system/etc/terminfo/a/att4425-nl
 SHA1-Digest: BlAxVV3jYXEr/GlwLemLbBRh3WI=
-
-Name: system/media/audio/alarms/CyanAlarm.ogg
-SHA1-Digest: BC77EacwIp1wY0dbawiAk+lVSu0=
 
 Name: system/etc/terminfo/t/tvi912c-p-vb
 SHA1-Digest: M8K1iiEnpcuvHjbw2TucdBFcoDc=
@@ -3387,9 +3183,6 @@ SHA1-Digest: GwioX8yTJ8VU1pOBef8UyQW0zJM=
 Name: system/etc/terminfo/c/citoh-6lpi
 SHA1-Digest: gM7ocCUsPl9V+DEBLia/ONvz+aw=
 
-Name: system/media/audio/ringtones/Noises3.ogg
-SHA1-Digest: 70DC9qujf293u6ga0WsiKRUMH+Q=
-
 Name: system/etc/terminfo/n/nsterm+acs
 SHA1-Digest: bSpPjGZ16/BSd31KqBo2J/Xo7rI=
 
@@ -3409,10 +3202,7 @@ Name: system/lib/hw/audio_policy.montblanc.so
 SHA1-Digest: BiytSfQqYS0vZHPcvmeSPre4eUg=
 
 Name: system/app/DownloadProviderUi.apk
-SHA1-Digest: tpqrb0NlqNckABD7Iz4v1ccvU7U=
-
-Name: system/media/audio/ui/Effect_Tick.ogg
-SHA1-Digest: v+wUVcpcB7A37SjGd4Ax4pfLQyk=
+SHA1-Digest: eEX3RbOcPWeC7rvoelw5AiZBAjw=
 
 Name: system/etc/terminfo/x/xterm-vt52
 SHA1-Digest: h+OQz35RdTHAI+OfPonQ+2NeNwU=
@@ -3462,9 +3252,6 @@ SHA1-Digest: g6Khz2SlfH8FtaT/weN27+wREvQ=
 Name: system/etc/terminfo/w/wy99gt-w
 SHA1-Digest: Xr8+eu9RMB+h6ZfvuN+SFW7z+mQ=
 
-Name: system/media/audio/ringtones/Hydra.ogg
-SHA1-Digest: KbJOomcvmuoX70q9NPsHAJbRorc=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/pcmsettings.el
  f4nmf
 SHA1-Digest: sdfYJB0aOs0BvJ0TDuIr5cINeOI=
@@ -3476,16 +3263,13 @@ Name: system/etc/terminfo/x/xterm-nic
 SHA1-Digest: 8gtsw0p++UDBerownwb/rYrgXVw=
 
 Name: system/framework/com.android.future.usb.accessory.jar
-SHA1-Digest: SWX/nyzGwapHQCOa4oQu5ExDnLI=
+SHA1-Digest: I8UC9R3rOx2RN1ai7lPp2al29w8=
 
 Name: system/etc/terminfo/d/dec-vt340
 SHA1-Digest: yuGeQr8H/rXSyuu5peY82wCYClY=
 
 Name: system/etc/terminfo/d/dec-vt330
 SHA1-Digest: /t33a1tq1ARmJaBr8/fA/ZGClWc=
-
-Name: system/media/audio/ringtones/Road_Trip.ogg
-SHA1-Digest: pyKrm9SV0Pl+PVmoYTEpSeq4tKo=
 
 Name: system/etc/terminfo/a/att610-103k-w
 SHA1-Digest: RG+HO4YGsx8peD1GRtY0iCLL7/0=
@@ -3507,9 +3291,6 @@ SHA1-Digest: 2B1WIU/HC1aGl/oZQV5XR27Vgvk=
 
 Name: system/etc/terminfo/w/wsvt25
 SHA1-Digest: pHh7PindknvcJBIq9NhQWkcDuI4=
-
-Name: system/media/audio/notifications/Highwire.ogg
-SHA1-Digest: QZ6ZDBFRvKN7mRBSvr7xhbhEU/Q=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/mpeg4dec/mpc/a
  pi/end_algodeblock.elf4nmf
@@ -3593,7 +3374,7 @@ Name: system/etc/terminfo/t/tvi912b-p-vb
 SHA1-Digest: Z95zqUrf4ZQ7iw538VuuLPyvMAI=
 
 Name: system/usr/share/camera/tuning/TunVidRec-010045.xml
-SHA1-Digest: LeD1rBvsB+gSmr4VEZ4qFQMqAHM=
+SHA1-Digest: of8EmUJTiBsekc7m7LC+hHTAO40=
 
 Name: system/usr/keylayout/Vendor_054c_Product_0268.kl
 SHA1-Digest: iwHzEwj5WX7NvOdertR+r9nuRsk=
@@ -3626,9 +3407,6 @@ SHA1-Digest: IaXNuE4WOK1Xeb/yfielIx9Z4P8=
 
 Name: system/etc/terminfo/c/cit101e-rv
 SHA1-Digest: 1YHWKH/G/zX66HLFurUMuLTD+BY=
-
-Name: system/media/audio/notifications/Polaris.ogg
-SHA1-Digest: v3IhiMU78ILJbPlE1EYWhNG7+N4=
 
 Name: system/etc/terminfo/g/go140
 SHA1-Digest: /ROg4mknxhXRMHXKS5kKXLAKFrk=
@@ -3757,12 +3535,6 @@ SHA1-Digest: Pti9m76H5pciF9Vc0s9J8Ao6RRs=
 Name: system/etc/terminfo/o/otek4112
 SHA1-Digest: 3gXURZT4vU1cMlzlCNv/hQGla0A=
 
-Name: system/media/audio/ringtones/Machina.ogg
-SHA1-Digest: iIPvhTGmmQavRFfBmQK60aUckOA=
-
-Name: system/media/audio/ringtones/Sceptrum.ogg
-SHA1-Digest: NMMIgSZuDf6zu1G8c42OcXzRFNY=
-
 Name: system/etc/terminfo/t/tvi912b-2p
 SHA1-Digest: t9oDn/WT7fMbDj00PklYlMmWt9M=
 
@@ -3814,7 +3586,7 @@ Name: system/etc/terminfo/n/ncr260wy60pp
 SHA1-Digest: nUW3sVCNjoDjSGKyeraLRC5Ivw8=
 
 Name: system/xbin/tcpdump
-SHA1-Digest: 1eIDnq1k5lyjn+Wv5S6E1ki7HtA=
+SHA1-Digest: hNCrfapTukTWQkI+4yE7FOzdDIk=
 
 Name: system/etc/terminfo/i/ibm3151
 SHA1-Digest: CSC4iniqE7JnCDyAMdzJUhuLUzc=
@@ -3849,17 +3621,17 @@ SHA1-Digest: TF8DP16R0P3dLAbPoykKOGfTFrE=
 Name: system/etc/terminfo/g/guru+s
 SHA1-Digest: +tU2NNG2/ta3mtFZCzLDYxsgu+I=
 
-Name: system/media/audio/ringtones/Whisperer.ogg
-SHA1-Digest: BlpOijZ6UE754DQINtZZw4R6kJQ=
-
 Name: system/etc/terminfo/p/pc7300
 SHA1-Digest: 9mVx+z+tdXcIHpTck+eskOYJVqc=
 
 Name: system/bin/check_prereq
-SHA1-Digest: bIqoDjSnL2Ma4IE6g75fwl7wee8=
+SHA1-Digest: CcDIZ0ydZ/U9UuaxnqbnbiXQ4ac=
+
+Name: system/media/video/AndroidInSpace.480p.mp4
+SHA1-Digest: X2St299ZAh5s7YK6ugHCjdjmS6w=
 
 Name: system/lib/hw/camera.goldfish.so
-SHA1-Digest: 3nO6ODe3dgyt/mSMRUK2U9RhFjc=
+SHA1-Digest: OKjQxTw0Flxq1MBE4ROOk25WH10=
 
 Name: system/etc/terminfo/n/ncsa-m-ns
 SHA1-Digest: PHII6n7MDR1t6vmCAprPcdI5XQk=
@@ -3905,9 +3677,6 @@ SHA1-Digest: T7PXDMt/8lsEkjpOaWO/Vyv4s64=
 
 Name: system/app/GoogleServicesFramework.apk
 SHA1-Digest: 5MUgaImDuK5/jBG/ODunAv3F2zA=
-
-Name: system/media/audio/notifications/KzurbSonar.ogg
-SHA1-Digest: VcVwhyt5M6CUTsNQT50+Eq+amII=
 
 Name: system/etc/terminfo/o/opennt-50-w
 SHA1-Digest: u9/6QaMFqYx1VkntbTe4vixfltI=
@@ -3981,7 +3750,7 @@ Name: system/etc/terminfo/5/5630DMD-24
 SHA1-Digest: vZNUtkV6LXWI3+AtOtXFQizNwb0=
 
 Name: system/lib/libbcc.so.sha1
-SHA1-Digest: Lgl1P1rnxg1ToXly2VWb20Hb+n4=
+SHA1-Digest: 41c0R0tD9oaYevE2NiJN6GbJYBw=
 
 Name: system/lib/libtee.so
 SHA1-Digest: XwDMYoqwd1CTSRsXPNlXk0hi6QA=
@@ -3991,9 +3760,6 @@ SHA1-Digest: 9Fd1Iw4CvvCRtKeRBoa86jJ7ia4=
 
 Name: system/etc/terminfo/b/bantam
 SHA1-Digest: f3uqxcrCiswZqX9dSdH6IKQMnlM=
-
-Name: system/media/audio/ringtones/Nassau.ogg
-SHA1-Digest: UA0O0SLCOE2NPdJ/UmNGmELMiG0=
 
 Name: system/etc/terminfo/w/wy60-vb
 SHA1-Digest: NpSFO/RvpO0pEgjTTZb1QKEiH8o=
@@ -4029,16 +3795,13 @@ Name: system/etc/terminfo/n/ncrvt100wan
 SHA1-Digest: OS5ocf8LAWdVH5E1oLCCVi4/744=
 
 Name: system/lib/libttscompat.so
-SHA1-Digest: TKhKJtADPTBIyBylBwAoz9OkSSg=
+SHA1-Digest: K7KSVBFn3zUdUanzBPhJWy7Q8mo=
 
 Name: system/etc/suplcert/cacert.txt
 SHA1-Digest: WQTHRE71PAtfdTz8ur3mljjOLbA=
 
 Name: system/bin/sdptool
 SHA1-Digest: 8KdvR6Mb6cqVuIFxqjwHYiGHGiM=
-
-Name: system/media/audio/ringtones/Funk_Yall.ogg
-SHA1-Digest: A+t9nwrCKpfvNQ4UYpKOqYoglKY=
 
 Name: system/etc/terminfo/m/mac
 SHA1-Digest: T+nI3hYtGVFRpBkU8ZVImZuWvXA=
@@ -4073,20 +3836,11 @@ SHA1-Digest: bu9iLepy+Ea8EZ/Ow5zhOmX+GZs=
 Name: system/etc/terminfo/a/ansi-color-2-emx
 SHA1-Digest: wruH1F07JVonk/Y5ewD93qPpLW4=
 
-Name: system/media/audio/ringtones/Seville.ogg
-SHA1-Digest: J5OqHO/8BtMLNvZRzrzI8Pb/31c=
-
 Name: system/etc/security/cacerts/ff783690.0
 SHA1-Digest: uwa7DANnTSVTBT+3cPJVrv4kphk=
 
 Name: system/etc/terminfo/a/aaa-48
 SHA1-Digest: yt8mBe+rOd1oXX8bTmGQgfpnbOU=
-
-Name: system/media/audio/ringtones/Eridani.ogg
-SHA1-Digest: ujdvtkBu0pigPkOAEzLEetPwLYk=
-
-Name: system/media/audio/notifications/Strontium.ogg
-SHA1-Digest: 9l2NuUiOQ/+JxZqUnLhAlCiLLJ8=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/mixer/nmfil/wr
  apper/configure.elf4nmf
@@ -4171,7 +3925,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/h264dec/mpc/ap
 SHA1-Digest: 6gqPy7oGkSmUd+li4Y8HMBdAtR0=
 
 Name: system/lib/libFFTEm.so
-SHA1-Digest: m9H8crKT2jWw+5tgkaQusZEV20g=
+SHA1-Digest: iDfCfa8HsCmZTAeUeNpYlghjhQ0=
 
 Name: system/bin/ste-adm-test
 SHA1-Digest: 2r3Wz6z6Ir+WiMTJNwOAgL5TwOQ=
@@ -4190,9 +3944,6 @@ SHA1-Digest: JzwVYg4DqOvnq/+OZixMKkFvACY=
 
 Name: system/usr/keylayout/Vendor_05ac_Product_0239.kl
 SHA1-Digest: aBBF8yCxbsyLsypxLAxv1OlR2pk=
-
-Name: system/media/audio/notifications/Altair.ogg
-SHA1-Digest: QXWHEWxX/03ycX8jkjABwr0H4r0=
 
 Name: system/lib/libste_omxil-interface.so
 SHA1-Digest: A/QE2MGa7n7wDgXNTJi29w2HQVA=
@@ -4215,7 +3966,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/amr/codec/libamren
 SHA1-Digest: tdxmwc91BHd4+y6urfvVG+F5dcY=
 
 Name: system/app/Launcher2.apk
-SHA1-Digest: j9E6mlySz1qw3MP1NaSvXRSUbsE=
+SHA1-Digest: tQjs0+ESkfuIbMeC/8ogWZ9KDkA=
 
 Name: system/etc/terminfo/a/aaa+dec
 SHA1-Digest: kiABpP5WhJZqWkhg6MJBA/Ip4TI=
@@ -4244,6 +3995,9 @@ SHA1-Digest: C8lnUhhmtY3QhHd73PI1v2cAGnk=
 Name: system/etc/dash.conf
 SHA1-Digest: dmD6O7DhIfDdu8bQ8j8JA00D9EQ=
 
+Name: system/media/video/AndroidInSpace.240p.mp4
+SHA1-Digest: 66oIKydKOvFGrQwT1DYeuLK7yt8=
+
 Name: system/etc/firmware/wsm_11.bin
 SHA1-Digest: 24BZCehCXyeFk9+R/LDVPpl8QLo=
 
@@ -4251,7 +4005,7 @@ Name: system/etc/permissions/features.xml
 SHA1-Digest: 9PFuuyZLB2UDIBe9NEvwK1YycF0=
 
 Name: system/bin/audioloop
-SHA1-Digest: v4zj7R8Z3SHgHjxbw2CgIcF6ILc=
+SHA1-Digest: 4wTVEK0E88bfdzc88+uLO6EARDc=
 
 Name: system/etc/terminfo/a/aaa-18
 SHA1-Digest: LD6AgAjn1YXbPdT1+2lycNF+FFg=
@@ -4287,14 +4041,11 @@ SHA1-Digest: A3BL/dJsSJpiyfQXvDJCzTPhRAk=
 Name: system/etc/terminfo/a/aaa-28
 SHA1-Digest: dPGnLDofpM8/vUyES7Zwix/RgMw=
 
-Name: system/media/audio/ui/Media_Volume.ogg
-SHA1-Digest: DGRI2tpMkYqFYjs0W3aqPiCOFs0=
-
 Name: system/etc/terminfo/a/aaa-26
 SHA1-Digest: R/uZd19snMAB+yxtMnXTENB1ITM=
 
 Name: system/app/WAPPushManager.apk
-SHA1-Digest: 6iEpaEno3LHHDEwSvZGfd4kA8X8=
+SHA1-Digest: lJ5eHWphHkFk8mdii4uNKdk/CoQ=
 
 Name: system/etc/terminfo/p/prism14-m
 SHA1-Digest: PmskxxCTJFLKXzFRmPRcyFJix7M=
@@ -4305,14 +4056,14 @@ SHA1-Digest: ErF5wGPdigncpGIo9IBQHKWmeuk=
 Name: system/bin/unyaffs
 SHA1-Digest: xemObyB8lDrYIL0pQIIa+c1TKy8=
 
-Name: system/etc/terminfo/h/hpgeneric
-SHA1-Digest: 49kwyoDPT/8SlHdlfcgQ08X7svU=
-
 Name: system/etc/terminfo/a/aaa-24
 SHA1-Digest: g5bhq2kymBao3ny4Jmca7+LW7M4=
 
 Name: system/app/LatinIME.apk
-SHA1-Digest: bG/OgeFj/6ivaLnntUBTAjWolgQ=
+SHA1-Digest: IlVZJD8Oi8toJQHunkcjNmg3HDY=
+
+Name: system/etc/terminfo/h/hpgeneric
+SHA1-Digest: 49kwyoDPT/8SlHdlfcgQ08X7svU=
 
 Name: system/etc/terminfo/a/aaa-30-s-rv
 SHA1-Digest: 9byPiKPztWNV/flE0xxthNE2Xv4=
@@ -4465,7 +4216,7 @@ Name: system/etc/terminfo/e/ep48
 SHA1-Digest: 3QXi8MOlvRG5TGJGtjOFHECTSms=
 
 Name: system/lib/libbcinfo.so
-SHA1-Digest: YsPyAMtmpPWQKwOWvsQsMd1XQRk=
+SHA1-Digest: V3aG0v/S0pYnRBSX5YmfKxuy9Rg=
 
 Name: system/lib/libnfc_ndef.so
 SHA1-Digest: sf/8zH+niDW1tWfX5uZQnx6eSec=
@@ -4511,7 +4262,7 @@ Name: system/etc/security/cacerts/74c26bd0.0
 SHA1-Digest: JPSZvZ3Tx+8fME4kV3U1NQInDwk=
 
 Name: system/bin/stagefright
-SHA1-Digest: RA6saX75gh1seu/T6OhSI4j6dnA=
+SHA1-Digest: 6VrRNjVW7770D1bygy1nY00CN5k=
 
 Name: system/bin/String8_test
 SHA1-Digest: /Z+nVUha0QjfNzrRsH7i1cwm7tg=
@@ -4649,7 +4400,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/grabctl/api/co
 SHA1-Digest: bVylr1R2xGGXQXpmr8SWO7PfzAM=
 
 Name: system/app/ApplicationsProvider.apk
-SHA1-Digest: Lh5O/ZQq/ebLXT7prSIrxF2qlZQ=
+SHA1-Digest: h3o3eEJlROpYIDZwWXpj+eeNH2A=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/encoders/framealig
  ned/wrapper.elf4nmf
@@ -4667,9 +4418,6 @@ SHA1-Digest: YI2SnNE84UW4rsIpqYFSiGK+5ks=
 
 Name: system/etc/terminfo/a/aaa+unk
 SHA1-Digest: 0hWuGJS5MSI3vQfR8h85R/h8PLU=
-
-Name: system/media/audio/notifications/Shaula.ogg
-SHA1-Digest: OR75aW7jJyyIBSuaNjBeKAlvq58=
 
 Name: system/etc/terminfo/t/tvi920b
 SHA1-Digest: k+4WFvDudPOrvhSmG4y8AffoYAc=
@@ -4716,14 +4464,14 @@ SHA1-Digest: lKL326JpR3/BgeZr4y7lXdws7MI=
 Name: system/etc/terminfo/c/cit101e-132
 SHA1-Digest: nMltNi4M4DK1dGPGd6duHxZhQGg=
 
-Name: system/etc/terminfo/n/ncr260vt100wan
-SHA1-Digest: orXNGZ6DI3nNzLskbscq4QclAPE=
+Name: system/etc/terminfo/w/wyse30-mc
+SHA1-Digest: ztk+I8+7rCxSx72qUOTRhJrMNDI=
 
 Name: system/etc/terminfo/t/tvi912c-vb-mc
 SHA1-Digest: do2w6gle/AC+USkgqxTebUkG4yE=
 
-Name: system/etc/terminfo/w/wyse30-mc
-SHA1-Digest: ztk+I8+7rCxSx72qUOTRhJrMNDI=
+Name: system/etc/terminfo/n/ncr260vt100wan
+SHA1-Digest: orXNGZ6DI3nNzLskbscq4QclAPE=
 
 Name: system/etc/terminfo/d/d412+s
 SHA1-Digest: pl7LmP3PkTjgwsqeqSd8A29joW0=
@@ -4754,7 +4502,7 @@ Name: system/etc/security/cacerts/6fcc125d.0
 SHA1-Digest: dxoW8n5icyMm+Np/IAxgMBCnnt8=
 
 Name: system/lib/libcamera_client.so
-SHA1-Digest: +ZXmL/9+cyH866XPS2rOiOA/rrI=
+SHA1-Digest: mY+rJq7wfDa0lHuOV+fs8CIzkaI=
 
 Name: system/etc/terminfo/n/ncr7900
 SHA1-Digest: DBbol1Wb00mmifD0DQBtwjCWdSg=
@@ -4762,21 +4510,21 @@ SHA1-Digest: DBbol1Wb00mmifD0DQBtwjCWdSg=
 Name: system/etc/terminfo/n/ncr7901
 SHA1-Digest: CXr6L8lKzIl1Bly2MnVKzrKWGls=
 
-Name: system/usr/share/nmf/repository/mmdsp_8500_v2/equalizer/nmfil/ef
- fect.elf
-SHA1-Digest: TuiL5RpnZzpG3EjGDY1BJCsUMUk=
+Name: system/etc/terminfo/v/vt100-vb
+SHA1-Digest: Vo9Rxt+DcdwFCXUrSDQdvsSxRi0=
 
 Name: system/etc/terminfo/p/pe6300
 SHA1-Digest: 8REFNK63WjdtTuwCqYxsp6LlWAI=
 
-Name: system/etc/terminfo/v/vt100-vb
-SHA1-Digest: Vo9Rxt+DcdwFCXUrSDQdvsSxRi0=
-
-Name: system/etc/security/cacerts/7d3cd826.0
-SHA1-Digest: 9A93UolYEp2zLqOTDQS6H+32euM=
+Name: system/usr/share/nmf/repository/mmdsp_8500_v2/equalizer/nmfil/ef
+ fect.elf
+SHA1-Digest: TuiL5RpnZzpG3EjGDY1BJCsUMUk=
 
 Name: system/etc/terminfo/i/intext
 SHA1-Digest: SXRzm3jIvovDQECY90uleCVDq9I=
+
+Name: system/etc/security/cacerts/7d3cd826.0
+SHA1-Digest: 9A93UolYEp2zLqOTDQS6H+32euM=
 
 Name: system/xbin/l2ping
 SHA1-Digest: hfKtJilNqebcjVNksBkYfvOM/5M=
@@ -4805,20 +4553,17 @@ SHA1-Digest: fR5Q2zZg2HLqwxbKWqDOhmn3n5M=
 Name: system/etc/terminfo/p/pe6312
 SHA1-Digest: bIW3zhbntsVZawYqsdAEe7bRIns=
 
-Name: system/media/audio/ui/VideoRecord.ogg
-SHA1-Digest: ArpCclKp9xWYCR28Sj5rkXnEOm8=
-
 Name: system/lib/egl/libGLESv1_CM_mali.so
 SHA1-Digest: ZcnvoBpkIUmJCA79oGjssR04noM=
 
 Name: system/etc/terminfo/a/ambas
 SHA1-Digest: GZvtfOiF2yJuWX2dOTSLGm+MkRk=
 
-Name: system/etc/terminfo/m/microterm
-SHA1-Digest: 8EZQDMkhX/tm9qfuOEEJM/v1VZ8=
-
 Name: system/etc/terminfo/v/vt420f
 SHA1-Digest: hu5Ft3T9OKs//TRNUV4g9YFuSVk=
+
+Name: system/etc/terminfo/m/microterm
+SHA1-Digest: 8EZQDMkhX/tm9qfuOEEJM/v1VZ8=
 
 Name: system/etc/terminfo/z/z39-a
 SHA1-Digest: +81cSHJrAwut5xv62pZLY4og4jI=
@@ -4826,17 +4571,17 @@ SHA1-Digest: +81cSHJrAwut5xv62pZLY4og4jI=
 Name: system/etc/security/cacerts/594f1775.0
 SHA1-Digest: b8fylO1vYs50OMpD7EuUt+mZmQs=
 
-Name: system/lib/libcops.so
-SHA1-Digest: /HbwHzyL3NCAOoTM9kgn1JQyeQg=
-
 Name: system/etc/terminfo/o/opus3n1+
 SHA1-Digest: hVTN6QhK33x5DuIv/tez41Zu7LU=
 
-Name: system/etc/terminfo/a/ansi+tabs
-SHA1-Digest: C3FMXfN+kTI0AWErmsHyVl+CRAk=
+Name: system/lib/libcops.so
+SHA1-Digest: /HbwHzyL3NCAOoTM9kgn1JQyeQg=
 
 Name: system/etc/terminfo/a/ansi80x30-mono
 SHA1-Digest: 01taiqTptP9ZHAbb6hTsdbc2K5Y=
+
+Name: system/etc/terminfo/a/ansi+tabs
+SHA1-Digest: C3FMXfN+kTI0AWErmsHyVl+CRAk=
 
 Name: system/etc/terminfo/a/att630
 SHA1-Digest: MMZRpG9bmA6WEP0hd5LlsxYAsTk=
@@ -4847,14 +4592,11 @@ SHA1-Digest: DMDCFZHNWgang09gEf1rBxGuoRI=
 Name: system/fonts/DroidNaskh-Regular-SystemUI.ttf
 SHA1-Digest: bwVSgcJ3NdZfsnHmCZ2QrM7zjB8=
 
-Name: system/xbin/busybox
-SHA1-Digest: /bLFx8i4hU4iPM8Y/3Zwg20jNDo=
-
 Name: system/lib/libisimessage.so
 SHA1-Digest: yIpIHrUEjzZndNE9PaGWSDraSy0=
 
-Name: system/media/audio/alarms/Fermium.ogg
-SHA1-Digest: NI8Rnq759Hxj0t30Rrft+nBIGcA=
+Name: system/xbin/busybox
+SHA1-Digest: imfS/EHytRbAX/uSR80yuF3y9Sk=
 
 Name: system/etc/terminfo/z/z29a-kc-uc
 SHA1-Digest: NIVT9f0YMujvX5dXxGdvL0Fm+o8=
@@ -4871,14 +4613,14 @@ SHA1-Digest: /W6SGzRzBJfM3oBIVyowRDAkrEM=
 Name: system/etc/terminfo/e/ecma+color
 SHA1-Digest: 9bA91tmcFLs2NUwJot110NLH6ZM=
 
-Name: system/etc/terminfo/d/d413-unix
-SHA1-Digest: LHrPBRccmtkREZmqTOiuBSXbhrY=
+Name: system/bin/vold
+SHA1-Digest: pu4fDpjH44JVV7Z5gNZVJN4Z0sk=
 
 Name: system/etc/terminfo/d/d230-dg
 SHA1-Digest: 7XYX9DHFkU/4kEXvocQ7dtcZAlI=
 
-Name: system/bin/vold
-SHA1-Digest: o3oM8BKMa8r09L6D8Ss+gxH3zFA=
+Name: system/etc/terminfo/d/d413-unix
+SHA1-Digest: LHrPBRccmtkREZmqTOiuBSXbhrY=
 
 Name: system/etc/terminfo/h/ha8686
 SHA1-Digest: gTRnJNKmjdaUSqOVLzgE/BOwVbc=
@@ -4888,9 +4630,6 @@ SHA1-Digest: XfeznUlnYFuLbni9P+E0vwQimxA=
 
 Name: system/etc/terminfo/d/d460-7b-w
 SHA1-Digest: +a4PBpkk73XI8oetTaPflIjjgww=
-
-Name: system/media/audio/notifications/Radon.ogg
-SHA1-Digest: PSL5MlN8zqZY3z8iyv0HwaUMAtA=
 
 Name: system/etc/terminfo/v/vc404
 SHA1-Digest: gDI+oezba+NFFMtS1VSwPwdXAZM=
@@ -4907,11 +4646,11 @@ SHA1-Digest: 5Blutg9D3sqCzY6ZOcoVz8SCSVI=
 Name: system/etc/terminfo/t/ti_ansi
 SHA1-Digest: QNgbN69BjGlbMgkf9ggNK/zpNcU=
 
-Name: system/usr/srec/config/en.us/models/generic8.lda
-SHA1-Digest: OYQ/W3VpcPHMWi23NHXjTYvQcIM=
-
 Name: system/etc/terminfo/t/ts100-sp
 SHA1-Digest: qjVvKOdomvJ1kdh8VfRUUzTOj1E=
+
+Name: system/usr/srec/config/en.us/models/generic8.lda
+SHA1-Digest: OYQ/W3VpcPHMWi23NHXjTYvQcIM=
 
 Name: system/etc/terminfo/h/ha8675
 SHA1-Digest: Swo6RPw3ktgsgVc0is1uoGSkhtc=
@@ -4919,11 +4658,11 @@ SHA1-Digest: Swo6RPw3ktgsgVc0is1uoGSkhtc=
 Name: system/etc/terminfo/t/tek4025-17-ws
 SHA1-Digest: q+fN0oqsb82rphq867LA8ZNChGs=
 
-Name: system/usr/keylayout/ux500-ske-keypad-qwertz.kl
-SHA1-Digest: GCVNpSaHnRNrMgPYid3tP2mPAsc=
-
 Name: system/etc/security/cacerts/ed524cf5.0
 SHA1-Digest: YUUDaE+eI4AQpO1M9Eel4WIxTGI=
+
+Name: system/usr/keylayout/ux500-ske-keypad-qwertz.kl
+SHA1-Digest: GCVNpSaHnRNrMgPYid3tP2mPAsc=
 
 Name: system/etc/terminfo/P/P8-W
 SHA1-Digest: NP0617l/77YCRIshBhhVHKeK41E=
@@ -4940,14 +4679,14 @@ SHA1-Digest: BM/3azuPtrJT5oSi0cgaxja4+tc=
 Name: system/etc/terminfo/h/hpterm
 SHA1-Digest: 7xJuhqgB2+woo/9vRtEMkEj3nyA=
 
-Name: system/etc/terminfo/o/opennt-25-w-vt
-SHA1-Digest: IsHNqUIfbuyYNmcgNZ1BQrFIutQ=
+Name: system/etc/terminfo/v/vt300-w
+SHA1-Digest: V38cU04iHYyVYZzlTnbttJ2O/xQ=
 
 Name: system/etc/terminfo/v/vc414
 SHA1-Digest: brME6+4BURtxRP3duJ7nG54dw/I=
 
-Name: system/etc/terminfo/v/vt300-w
-SHA1-Digest: V38cU04iHYyVYZzlTnbttJ2O/xQ=
+Name: system/etc/terminfo/o/opennt-25-w-vt
+SHA1-Digest: IsHNqUIfbuyYNmcgNZ1BQrFIutQ=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/mpeg4dec/mpc/a
  pi/end_algo.elf4nmf
@@ -4956,17 +4695,14 @@ SHA1-Digest: /oipbi17rwDDaW4dYVkaNviOEP4=
 Name: system/etc/terminfo/b/basic4
 SHA1-Digest: fP4bu0chGJgPWUW5BvgdBUrMj/Y=
 
-Name: system/etc/terminfo/d/d463-dg
-SHA1-Digest: PhR3IiHDrwdAaUc05T2WahJly4c=
-
 Name: system/etc/terminfo/p/prism12-m-w
 SHA1-Digest: u+oD6TVelOsJw+ElDEJSU/1br0I=
 
+Name: system/etc/terminfo/d/d463-dg
+SHA1-Digest: PhR3IiHDrwdAaUc05T2WahJly4c=
+
 Name: system/lib/libcameralight.so
 SHA1-Digest: tI8Vqf0XC+ArqPlty0FtiP4IZDM=
-
-Name: system/media/audio/alarms/Scandium.ogg
-SHA1-Digest: lUJO6+c51augLEooakLRfsyASj4=
 
 Name: system/lib/libjni_latinime.so
 SHA1-Digest: LCuIPWm/mjNrG4v+mVOaE5y6Tms=
@@ -4978,16 +4714,13 @@ Name: system/etc/terminfo/o/opennt-60-w
 SHA1-Digest: zlZQ8q4B4FJ0J4Rym0iigW7/gKA=
 
 Name: system/lib/libz.so
-SHA1-Digest: WYkZMXvspimjqcWUAYku+26oSKI=
+SHA1-Digest: fA3Cjs66eYM89RcS0YchUOAKUvU=
 
 Name: system/etc/security/cacerts/111e6273.0
 SHA1-Digest: Ws4Pq966Jvp4ZXfGW5/zAefw3Es=
 
 Name: system/lib/libnmftimer.so
 SHA1-Digest: j8fu/4hGrWqRtZYOYU0aVX5/8WU=
-
-Name: system/media/audio/ringtones/Acheron.ogg
-SHA1-Digest: zQmzU6mwm6biUj9OfSxJLAC7cM0=
 
 Name: system/etc/terminfo/m/mm314
 SHA1-Digest: pSpH2/FaZaRQQyqFF2gV2+BXXHM=
@@ -5015,9 +4748,6 @@ SHA1-Digest: IqY1jEQEHkh7rVRGw+z9mrwqVrI=
 
 Name: system/etc/terminfo/t/tvi920b-p-vb
 SHA1-Digest: 4yHsjyFK8+AKSSHROYeo9rmJtXk=
-
-Name: system/media/audio/ringtones/Enter_the_Nexus.ogg
-SHA1-Digest: zACA+wwMoEDVgps4LpZPvSgDIUM=
 
 Name: system/etc/terminfo/i/ibcs2
 SHA1-Digest: yOrzL21eLJ9uDxek6q37wnpUsbw=
@@ -5109,9 +4839,6 @@ SHA1-Digest: RWYq9nH9XUZukPSOtB8A+9lIBzc=
 Name: system/etc/terminfo/t/ti928-8
 SHA1-Digest: /yyKEUbs7mfX8io8yOqos9+WPRY=
 
-Name: system/media/audio/notifications/DontPanic.ogg
-SHA1-Digest: ynTP9uC8Tlzn0mvUV9PfHcfBoLg=
-
 Name: system/etc/terminfo/w/wyse520-48wpc
 SHA1-Digest: xf3t5oyDWkEdGfgySJCrWGspuT4=
 
@@ -5138,9 +4865,6 @@ SHA1-Digest: fp1hbBv+64+eViFYwQf3/Td+n94=
 
 Name: system/etc/terminfo/d/d430-unix-25
 SHA1-Digest: gVb5g243nJ8E//a2htPdasX1kK8=
-
-Name: system/media/audio/alarms/Copernicium.ogg
-SHA1-Digest: foCGf0TIwUaIijBTm9GubxZyZdg=
 
 Name: system/etc/terminfo/s/sun-cgsix
 SHA1-Digest: BRM/WSIg1Jmv5iZfaW6BnSSGQqA=
@@ -5178,9 +4902,6 @@ SHA1-Digest: Qwxc/gQpk65Ghs27iwveMmzlEf4=
 Name: system/etc/terminfo/w/wy99fgt
 SHA1-Digest: 8QMUFSpXLKad+7tfhm3559EmSnU=
 
-Name: system/app/GoogleCalendarSyncAdapter.apk
-SHA1-Digest: wRV6oqvH+TP0ypy2qT2IC58lu9o=
-
 Name: system/etc/terminfo/a/aaa-60-s-rv
 SHA1-Digest: l87xEP48Yk3OgGipLQjepaaFz58=
 
@@ -5208,9 +4929,6 @@ SHA1-Digest: Nyygu3ZcAw6d3XgIphUfFWU6UB4=
 Name: system/etc/terminfo/n/ncr160vt100wpp
 SHA1-Digest: Ng0R5X29LEBMxcP5KONFc23e4Wg=
 
-Name: system/media/audio/notifications/OnTheHunt.ogg
-SHA1-Digest: btYib2szrK5TKBS52wvGzYp+z7Y=
-
 Name: system/etc/terminfo/h/hp2626-s
 SHA1-Digest: 9Pvxw6Jp+be4sT/6NqdYrlDJM2A=
 
@@ -5232,9 +4950,6 @@ SHA1-Digest: +RRAhWEbpsL2eF1t6rBTryLB0L0=
 
 Name: system/lib/libstagefright_soft_vorbisdec.so
 SHA1-Digest: ufWqWbbUc9WuyYXau+5wWLwCxzQ=
-
-Name: system/media/audio/notifications/Naughty.ogg
-SHA1-Digest: E4qA7HitueCpvDVYHx8ttOyX+84=
 
 Name: system/etc/terminfo/a/adm11
 SHA1-Digest: n8248GEBb+bhN84IqcoTwSuLffU=
@@ -5297,9 +5012,6 @@ SHA1-Digest: HwF6ss+9S0eISQl9E2CWYSwDXx4=
 Name: system/etc/terminfo/m/mod
 SHA1-Digest: CJeHxoJcJ87vzhPVUGktqXgltDQ=
 
-Name: system/media/audio/ringtones/EtherShake.ogg
-SHA1-Digest: f74c9hf6HCtxVDhhzr5RlduAycU=
-
 Name: system/etc/terminfo/w/wy520-vb
 SHA1-Digest: YT5jIHKrLD6BMNniJtlgXhYA79Q=
 
@@ -5348,9 +5060,6 @@ SHA1-Digest: wXp3NmhCmQdv4kAuD0BzREujEaQ=
 Name: system/bin/rfhal_export
 SHA1-Digest: c6I5syVIrYW2S0NkkQJIqQtic3o=
 
-Name: system/media/audio/notifications/Doink.ogg
-SHA1-Digest: uYVsRmrHkakDpxcCnUiz1wgaSW0=
-
 Name: system/etc/terminfo/g/go225
 SHA1-Digest: H0K+8g4lRiF+F38xFUp5oZGyfBs=
 
@@ -5359,9 +5068,6 @@ SHA1-Digest: REX20baAUwoqpKFT+1FzKuave5I=
 
 Name: system/etc/terminfo/m/mono-emx
 SHA1-Digest: TrvbJQrA3yOIyj99YMDu4xG2g8Y=
-
-Name: system/media/audio/ringtones/MildlyAlarming.ogg
-SHA1-Digest: K9pNtNdBUvccIhC2C/HZozHtRF8=
 
 Name: system/lib/ste_omxcomponents/libste_dec_wmapro_v10.so
 SHA1-Digest: 8h0p4d4B6/NT0LQc+P5L00ZwYTk=
@@ -5416,22 +5122,19 @@ Name: system/lib/tee/suntory_convert_ta_test.ssw
 SHA1-Digest: kxVcb/gYowABtobLyyK33wvpwLc=
 
 Name: system/lib/libvoicesearch.so
-SHA1-Digest: OhKQ++FZwq7QedwPzRX2K0GTv60=
+SHA1-Digest: UOdZyr1lWDGWucn1juAd402t158=
 
 Name: system/etc/terminfo/v/viewpoint60
 SHA1-Digest: p96r8LANySeUjGr18BxEQaor9y0=
 
 Name: system/framework/core.jar
-SHA1-Digest: JpRGQ7ikVDO6DX//JEODelUJKhc=
+SHA1-Digest: d0kq6qOxNVxoJrd5Hubgs0/NQA4=
 
 Name: system/etc/terminfo/n/nsterm-s-acs
 SHA1-Digest: KRZmP/qQFspv1vkfJ2iHzj/hgPA=
 
 Name: system/etc/terminfo/a/adm42
 SHA1-Digest: EChXPZSgDmTGNxYYN4L8Eq5PgEU=
-
-Name: system/media/audio/ringtones/Savannah.ogg
-SHA1-Digest: dOXGuw/jPc8JmclsyvuOnvJ/U4E=
 
 Name: system/etc/terminfo/w/wy325-w-vb
 SHA1-Digest: 2hPWbWaUoDddVRMuF95ZQl81d7U=
@@ -5465,7 +5168,7 @@ Name: system/etc/terminfo/p/pe550
 SHA1-Digest: PblWIbrCfStzhvSq/Mhvs/v72h4=
 
 Name: system/app/SharedStorageBackup.apk
-SHA1-Digest: +U2MkaRl9Z7DHUvnGj2ZlvZEp8o=
+SHA1-Digest: 7XS30gs58QI8FmNouLggMNmu2gg=
 
 Name: system/etc/terminfo/4/4410-w
 SHA1-Digest: BcpQDP/zYM1Jjl7SPWoMtF/mvUA=
@@ -5481,9 +5184,6 @@ SHA1-Digest: 5rMcWZAXHeoWmK1mL2rO4AiwrGo=
 
 Name: system/etc/terminfo/w/wy325
 SHA1-Digest: FUQTBDywbbahYXWp23SSFmYkT2o=
-
-Name: system/media/audio/ringtones/Thunderfoot.ogg
-SHA1-Digest: 07gOIhFF6ls39/dfjISgPQGu2cQ=
 
 Name: system/etc/terminfo/a/ansi+csr
 SHA1-Digest: WjmnlzI6C589mctBniVmHXeneZ0=
@@ -5528,6 +5228,9 @@ SHA1-Digest: 85DtvbGOiIJGbjv8p+aaCtz/AvQ=
 Name: system/etc/terminfo/x/xnuppc-m-f
 SHA1-Digest: ukgymXaimJz1zMBeTQSNvgwniQ8=
 
+Name: system/lib/libspeexwrapper.so
+SHA1-Digest: 2UleOBhta2fAncC8BNKUL4RFXPA=
+
 Name: system/etc/terminfo/c/cs10-w
 SHA1-Digest: mw0UuexMHTGRc5gpYSd9Kou7Cf0=
 
@@ -5546,9 +5249,6 @@ SHA1-Digest: QiLqufwmUnean1Dq7CtPT/Lk/WU=
 Name: system/etc/terminfo/n/ncr260vt100wpp
 SHA1-Digest: WomSY2zwEZ0VPGYbhEKBaB14Zko=
 
-Name: system/media/audio/ringtones/Ding.ogg
-SHA1-Digest: BH0N1bzc2+Xt6+PAG/Pb7OlB8Fc=
-
 Name: system/etc/terminfo/d/diablo630
 SHA1-Digest: QbnQSbK4vjwS+mBK66aTFNRoWd4=
 
@@ -5560,9 +5260,6 @@ SHA1-Digest: 1p3pJA1n8b9+WaO4LE60hQR0xZg=
 
 Name: system/etc/terminfo/v/vs100-x10
 SHA1-Digest: iUnjQxU57EMBvTLLBjIckZDJYFQ=
-
-Name: system/media/audio/ringtones/Calypso_Steel.ogg
-SHA1-Digest: W3NserGtGJ6PCYi4t+VJpK581M8=
 
 Name: system/lib/hw/gps.montblanc.so
 SHA1-Digest: 37XIe0oYn4Y1UvA6sDOmqLkg2NY=
@@ -5582,9 +5279,6 @@ SHA1-Digest: 4KZpSnWhqy93o4boGYMmrHeDdKc=
 Name: system/etc/terminfo/o/o85h
 SHA1-Digest: HsJCrchO+1o+2ulByThNef5ldbc=
 
-Name: system/media/audio/ringtones/Themos.ogg
-SHA1-Digest: 5RM/JcMs2Hjb4nftACxQvOBNhYQ=
-
 Name: system/etc/terminfo/t/tab132-w-rv
 SHA1-Digest: 8BoSy+XTi0HyMC9eS2AbdRLK4pM=
 
@@ -5592,7 +5286,7 @@ Name: system/lib/libbinder.so
 SHA1-Digest: T71GLUiKf7QwCDkZCzfKaxUOqkw=
 
 Name: system/app/HoloSpiralWallpaper.apk
-SHA1-Digest: 6r3kO9qDSyE54WjHfroAAkVG1Jg=
+SHA1-Digest: 6F+dhOLFffXqHBID/EfPNALbsFo=
 
 Name: system/etc/terminfo/d/dumb
 SHA1-Digest: KwdLFNxAQQ6GDClLGbtgGFM8pJc=
@@ -5639,7 +5333,7 @@ Name: system/etc/terminfo/b/bsdos-ppc
 SHA1-Digest: Ms42hVytcjm1fj1GP+lRBmwye7Y=
 
 Name: system/app/CalendarProvider.apk
-SHA1-Digest: M3y6AsEsdsfZwT1PXtPYBdO/y7k=
+SHA1-Digest: KmxYWmdmOxaw42ecv5rHbKjngE0=
 
 Name: system/etc/terminfo/p/prism8-w
 SHA1-Digest: +cPL1L1RnvzykvSk6xFxgM4WpYY=
@@ -5662,9 +5356,6 @@ SHA1-Digest: y57ukCyfAuOCN9KdygoWNPFuLXs=
 Name: system/etc/terminfo/t/tws2103
 SHA1-Digest: 4kvkvh4CDlzNRVzNyjxHNLs+8kU=
 
-Name: system/media/audio/ui/KeypressSpacebar.ogg
-SHA1-Digest: xkoV1JL5HC9CIxwMVuUxmkU7mQo=
-
 Name: system/usr/share/zoneinfo/zoneinfo.idx
 SHA1-Digest: 8l+3RZOaJS5dphwD12vhKihuhWw=
 
@@ -5675,7 +5366,7 @@ Name: system/bin/lbsstelp
 SHA1-Digest: CmxyJSuZGPycclDv1pQkNB0UKcM=
 
 Name: system/lib/libvideoeditor_jni.so
-SHA1-Digest: tfxpZNGyxh3ASbg5aBcFvtJ9VtA=
+SHA1-Digest: f20jaUHyWKmjhkequcz38P49UUw=
 
 Name: system/etc/terminfo/m/mime314
 SHA1-Digest: BWXo0kslhZIBGDCatANN7wqlcTQ=
@@ -5699,7 +5390,7 @@ Name: system/etc/terminfo/w/wy520-36w
 SHA1-Digest: 01M4WnKlc47VbTdiRZwfHTOmMBM=
 
 Name: system/lib/modules/scsi_wait_scan.ko
-SHA1-Digest: 7TIvZEfKE3qItg+K/WZZjyD7ppE=
+SHA1-Digest: sp/ixzJk8Xr1JYw+W/zMaPGt5f0=
 
 Name: system/etc/terminfo/l/luna
 SHA1-Digest: 1+iOMNwSrBNWLofdOMXUnfWquhc=
@@ -5753,7 +5444,7 @@ Name: system/etc/terminfo/v/vt100-am
 SHA1-Digest: /7WqmpR40ktvaQdRNmLEBLECrrM=
 
 Name: system/lib/libwilhelm.so
-SHA1-Digest: v0rWZDv+w6JrgEHLRCIzqrM8EJQ=
+SHA1-Digest: Kq0l7BVK3n7alnDj4+gKe0QtD+w=
 
 Name: system/etc/terminfo/w/wy60-PC
 SHA1-Digest: t8mW57TQ1YBqKi4YMZfkPYNQAOE=
@@ -5765,7 +5456,7 @@ Name: system/etc/permissions/com.google.android.media.effects.xml
 SHA1-Digest: j/P++0UEThlMLHb5ewoUXe96pQ4=
 
 Name: system/usr/share/camera/tuning/TunVidRec-020045.xml
-SHA1-Digest: ZpaDjZBfi7OQW8aGyX5Joi4m0/Q=
+SHA1-Digest: ldb25AdxplVpSi4Ok8U28kojoak=
 
 Name: system/etc/terminfo/x/xl83
 SHA1-Digest: JIbqKugglk+yLHk9o7U0Wqn72w8=
@@ -5789,7 +5480,7 @@ Name: system/etc/terminfo/c/cs10
 SHA1-Digest: aUd0O5rqULXETnzYM9Dh6g4cvmU=
 
 Name: system/lib/libmedia.so
-SHA1-Digest: J2U3s40n5zOUkmRqIGU8g6QMp5M=
+SHA1-Digest: 2IbRPpVscL2TEv5QWdQt0LLMuqI=
 
 Name: system/xbin/attest
 SHA1-Digest: 0zOs3p2Q7GU7Ozg9lAvfQHQeTIY=
@@ -5868,7 +5559,7 @@ Name: system/etc/terminfo/v/vc303a
 SHA1-Digest: ca4Uvl1g6P8hzw6RPnCSk4sln/0=
 
 Name: system/framework/pm.jar
-SHA1-Digest: mkL6IzDwUqFxa9Wnq5Hyba8ffu8=
+SHA1-Digest: gZ6W/WEeLRVnoK/Lmr5i1otUdXE=
 
 Name: system/app/NoiseField.apk
 SHA1-Digest: 9tN4DVuRFzJ91m14iCoYw4WM4V0=
@@ -5974,9 +5665,6 @@ SHA1-Digest: EHqZ1+XJkgYgqRw2mUglvLxHdhM=
 Name: system/etc/terminfo/a/arm100
 SHA1-Digest: 73tbty5wF5U8XxbYRhSh2ehfSkU=
 
-Name: system/media/audio/ringtones/Glacial_Groove.ogg
-SHA1-Digest: 9M+e83znvBcCe+2hrCHURwSYj8w=
-
 Name: system/lib/libstagefright_soft_g711dec.so
 SHA1-Digest: YTvZ8CXs2e+HdhgZ7VJZG9SDL1k=
 
@@ -6033,7 +5721,7 @@ Name: system/etc/terminfo/w/wyse185-wvb
 SHA1-Digest: Qu7jCj9fQbdmJeCuKHh4Ksw6m6o=
 
 Name: system/app/Stk.apk
-SHA1-Digest: 7oGuIv/9mmpxRjR30d6v1hpbies=
+SHA1-Digest: i8Fo+1aOAhew4y6ibFrD+WzWi1o=
 
 Name: system/etc/terminfo/7/730MTGr-24
 SHA1-Digest: roQ2gJx8s7fzA1xZrkOBeGyy6qc=
@@ -6075,7 +5763,7 @@ Name: system/etc/terminfo/w/wyse150-w
 SHA1-Digest: PgaUSYeSsJXiOt3NKWWUC2NuwBc=
 
 Name: system/bin/codec
-SHA1-Digest: WYpOATqt5mI4dutCrYMZ4mlP8fk=
+SHA1-Digest: ToSV2xYz1AA0e6Dfu0c46NjyWzg=
 
 Name: system/etc/terminfo/n/ncr260vppp
 SHA1-Digest: tl2b4cnoJaAnrGVVlDU/B4HoZyI=
@@ -6085,9 +5773,6 @@ SHA1-Digest: 7dzkFx3p2HwEyQi05sdLVXBHF4Y=
 
 Name: system/fonts/DroidSansGeorgian.ttf
 SHA1-Digest: TcKNYOeiNvn93qI0a4VO4OsezbA=
-
-Name: system/media/audio/notifications/Mira.ogg
-SHA1-Digest: T3YV3JAhoKolk4Gc582ZZOBhEaw=
 
 Name: system/lib/ste_omxcomponents/libste_dec_mpeg4.so
 SHA1-Digest: 12qss7X7Z1LrCr959TWYeBCqIP4=
@@ -6103,7 +5788,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/jpegenc/mpc/ap
 SHA1-Digest: 91PfiDjV820GxA2agdkPWsyYpco=
 
 Name: system/lib/modules/rng-core.ko
-SHA1-Digest: +PFP3UAQCNeS3JeqjaXpKE47rYw=
+SHA1-Digest: swRWeS7Qp4Oi6nD1lg+a3UfuGrQ=
 
 Name: system/etc/terminfo/w/wyse60-25-w
 SHA1-Digest: VeTtJzC6z47qFQGY8MlRCg+wP9w=
@@ -6123,9 +5808,6 @@ SHA1-Digest: dCCAdrnO9HKGNQyGwC/px6k79zg=
 Name: system/etc/terminfo/t/tvi910+
 SHA1-Digest: brow/KW+Fhrbg1SLIji3HpT6T4k=
 
-Name: system/media/audio/ringtones/Pyxis.ogg
-SHA1-Digest: P7pvAgAB5qjsvBFBwJ1mwoRSccM=
-
 Name: system/etc/terminfo/p/prism9-8
 SHA1-Digest: nY/foDvv9GoYZz379Q7Bp+E+eAo=
 
@@ -6137,9 +5819,6 @@ SHA1-Digest: TcpZgLFXML7H3z7qgebp9SSJDeI=
 
 Name: system/etc/terminfo/w/wy160-w-vb
 SHA1-Digest: Y4jzGprbyKKvfqqNb0Ra+0VKfD4=
-
-Name: system/media/audio/ringtones/Big_Easy.ogg
-SHA1-Digest: XwOAShMm4jbw1/ZNB62JjB8iyEo=
 
 Name: system/etc/terminfo/x/xnuppc-m
 SHA1-Digest: jjhTkwG4EJhb8382CbdggAuZtjc=
@@ -6157,7 +5836,7 @@ Name: system/etc/terminfo/b/bq300-w-8rv
 SHA1-Digest: fR+bmWhHXY97CaN1tiJvbThYcw8=
 
 Name: system/app/MediaProvider.apk
-SHA1-Digest: M63LxuPusLWjh68GOC4gIYI+QiY=
+SHA1-Digest: 6VK+E5eiTyTCtw9vJEslabvmMdo=
 
 Name: system/etc/terminfo/c/cons25-iso-m
 SHA1-Digest: a1xO4GG5mkRo5eH72OGOXk+JN1E=
@@ -6187,7 +5866,7 @@ Name: system/etc/terminfo/d/d411-w
 SHA1-Digest: AoFBblBU3IjPi51+8cZmUdCtc4Y=
 
 Name: system/app/ContactsProvider.apk
-SHA1-Digest: k+Sh2FFxH6thNP1WiwK1lYy+ozM=
+SHA1-Digest: enCNYaIMamZ0inrnSEvaVfdlSJE=
 
 Name: system/etc/terminfo/e/env230
 SHA1-Digest: rjed3rz+KRamPYAwYl7Gx4HPP4I=
@@ -6197,9 +5876,6 @@ SHA1-Digest: 1GRiRyM4dxD3loVZew6tSzCwVBY=
 
 Name: system/lib/libmmprobe.so
 SHA1-Digest: 62QRRbls1Rp3jUAOaezga9Rvz9k=
-
-Name: system/media/audio/ringtones/World.ogg
-SHA1-Digest: Jr+ottZZz+L+nulxLv5Swwl7Yow=
 
 Name: system/bin/ObbFile_test
 SHA1-Digest: 8m2DvQioyY/IrtAkm74zyNK4Krc=
@@ -6222,17 +5898,11 @@ SHA1-Digest: ImnDRBNByw3S+dC0i/BJDVSIJ4w=
 Name: system/etc/terminfo/c/c100-rv-4p
 SHA1-Digest: HmtBtBPvbqYVs7H2vvba2Hn2olI=
 
-Name: system/media/audio/ringtones/SitarVsSitar.ogg
-SHA1-Digest: YoXG+H6OGcxAYaZTZ2szh2iCnKY=
-
 Name: system/etc/terminfo/v/vt100-top-s
 SHA1-Digest: UOFbH5ISZxh4rSTyEhwq+AXB8rc=
 
 Name: system/lib/libstagefright_avc_common.so
 SHA1-Digest: iFBOaK11pOUPK67srQCMxSDxGYY=
-
-Name: system/media/audio/notifications/Helium.ogg
-SHA1-Digest: 895BCJqtlxi9Bhh0Rz/PyyFQemE=
 
 Name: system/etc/terminfo/p/prism9-w
 SHA1-Digest: P9mPCur01PJ4b8AVTOORK0DPmpQ=
@@ -6307,9 +5977,6 @@ SHA1-Digest: MeLNJrCPgK+lW/jHkDHhj8J6ZkU=
 Name: system/etc/terminfo/n/ncr160vt200wan
 SHA1-Digest: jiki0y6OuIQftJ2VNljL44hgSs4=
 
-Name: system/media/audio/notifications/Cobalt.ogg
-SHA1-Digest: SeZGH97zAL2SB240pp7TpZY2l8A=
-
 Name: system/etc/terminfo/d/diablo
 SHA1-Digest: qldTlWay/so1/mGlaAIEP/2dtXE=
 
@@ -6378,9 +6045,6 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/amr/codec/libamrde
  c.elf4nmf
 SHA1-Digest: DL8dQ7vTFF7KerDyk70kZ5rgFSo=
 
-Name: system/media/audio/ringtones/SilkyWay.ogg
-SHA1-Digest: skdmmETxcVqBqsT6a/JPwI7Bgh4=
-
 Name: system/etc/terminfo/w/wyse50-w
 SHA1-Digest: Ex9yf5OD6jV17oBagJHnlpE+RcA=
 
@@ -6419,7 +6083,7 @@ Name: system/etc/terminfo/w/wyse325-25
 SHA1-Digest: ITfrt+AeDPtG11hSnOJWKbN2hDA=
 
 Name: system/framework/ext.jar
-SHA1-Digest: cqp6/s/wRscnofRAexTome68StE=
+SHA1-Digest: JE/Xc2z5xeLu/c38CYkIEJs3zzM=
 
 Name: system/etc/terminfo/d/darwin-160x64-m
 SHA1-Digest: gzUuHUgLIrL7dbAGjAgpBz+ke0Y=
@@ -6482,7 +6146,7 @@ Name: system/etc/terminfo/w/wyse325-43
 SHA1-Digest: symgkunzgABoAxfXVNgbVxBMHF4=
 
 Name: system/lib/libstagefright_soft_mpeg4enc.so
-SHA1-Digest: WwqR6hwXMu840eUIe/zJUCPJDRs=
+SHA1-Digest: /4EiS78Q+llxNFCeyNEqq+I7SoA=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/pcmsettings.el
  f4nmf
@@ -6494,14 +6158,11 @@ SHA1-Digest: 68qNNRAZyY+nGYzYFyry/4NR3FY=
 Name: system/etc/terminfo/c/contel300
 SHA1-Digest: 5oKazOpLDUyXravfjvrdgxxfXzg=
 
-Name: system/media/audio/ui/LowBattery.ogg
-SHA1-Digest: DdPT137AlfASoXRyX0yMSItImPc=
-
 Name: system/etc/terminfo/c/contel301
 SHA1-Digest: mnPDIxYwhSWQiMiN6c+6I8UOlXQ=
 
 Name: system/bin/linker
-SHA1-Digest: rLqj/z/4WZHX9pJbRbunLCHTuWw=
+SHA1-Digest: 1qUlE+ZmFrlFxgEaXDABJ6gkZRo=
 
 Name: system/etc/terminfo/g/guru-44
 SHA1-Digest: UuPcQhe5HfQDIWwhjSV48hal+ZM=
@@ -6578,7 +6239,7 @@ Name: system/etc/terminfo/n/ncr260vt100an
 SHA1-Digest: FrJv2nmjWiB5GpFx+o+Cl0hFI+s=
 
 Name: system/lib/modules/mmc_test.ko
-SHA1-Digest: wcPnARJNUe1Yi4xUCimIBRyAUfI=
+SHA1-Digest: LmbtkmxhX9QvK6vtjD/rOUDtWfE=
 
 Name: system/etc/terminfo/a/att5418
 SHA1-Digest: MVXivKBM0nwwS5xMe/cQreMM/AQ=
@@ -6623,6 +6284,9 @@ SHA1-Digest: GFr8sx2r3itUyecu8CUMQI+BdRs=
 Name: system/etc/terminfo/v/v3220
 SHA1-Digest: Z8VFrLITbrbtSM+oUEV00J1XTZU=
 
+Name: system/lib/libpatts_engine_jni_api.so
+SHA1-Digest: pB1ZPB18cI1I2UVlbhVLbxc5c34=
+
 Name: system/etc/terminfo/i/interix
 SHA1-Digest: ocmmJcqHdT1HeiEWoEFZINnng6s=
 
@@ -6635,9 +6299,6 @@ SHA1-Digest: VmJ0wl32NP7xZF8FDNsNj9Y+23E=
 Name: system/etc/terminfo/w/wyse120
 SHA1-Digest: 9pFN68IfD/zfoQiXHmMPkKghvAY=
 
-Name: system/media/audio/ringtones/Terminated.ogg
-SHA1-Digest: +YxryNPCIPgnrwApbBmIyxPJtA0=
-
 Name: system/etc/terminfo/w/wy85-8bit
 SHA1-Digest: Q6uPra2mSdzlJzqQsdKDtmC1CqM=
 
@@ -6645,7 +6306,7 @@ Name: system/etc/terminfo/t/tty5620-s
 SHA1-Digest: +GWU5Ne1qHPLbQS8BkHPQlEY/KE=
 
 Name: system/lib/libicuuc.so
-SHA1-Digest: 78/LSQA33RIh3KTBvB1ieN21qBY=
+SHA1-Digest: 4DcstkFeC/nzu1aqMYKVn1OCOE0=
 
 Name: system/etc/terminfo/n/nwp514-a
 SHA1-Digest: 4jaYluQKGmg5DVZAvA0NXDsaEPc=
@@ -6730,7 +6391,7 @@ Name: system/lib/libandroid.so
 SHA1-Digest: NaXT3u1ITW8Tma9k10p7NrlfvSw=
 
 Name: system/lib/libcrypto.so
-SHA1-Digest: W7Z0+ls+5+jYQCN8bE5OGEv7f0A=
+SHA1-Digest: cWRQqfXAc7euNxOs9+XANsatplE=
 
 Name: system/etc/terminfo/s/superbee-xsb
 SHA1-Digest: kx02ahoXsdYPvK03+qrUlXgoZSI=
@@ -6765,12 +6426,6 @@ SHA1-Digest: VoXlSUUQ0w1zX5sf8QZEjUJ5FSQ=
 Name: system/lib/ste_omxcomponents/libste_enc_mpeg4.so
 SHA1-Digest: MQD/uXkyZ5h8azpDFv8jkv+Oci0=
 
-Name: system/media/audio/ringtones/CrazyDream.ogg
-SHA1-Digest: eX9VX7eX3PDq9cKX6PZR7FOMM/U=
-
-Name: system/media/audio/notifications/Capella.ogg
-SHA1-Digest: QWP0bD1LIKm7lh0QwBPH1XLTsGo=
-
 Name: system/etc/terminfo/c/cons50-iso8859
 SHA1-Digest: eViNy6g1SK6yGP4ifxa0rKwNxfA=
 
@@ -6778,10 +6433,7 @@ Name: system/etc/terminfo/w/wy370-105k
 SHA1-Digest: SF+JBV4Ek+NG5+CMCk8fsm9ZJEY=
 
 Name: system/framework/input.jar
-SHA1-Digest: IE2knQEgZgrFWWJ5t76g6W7fqTk=
-
-Name: system/media/audio/ringtones/Revelation.ogg
-SHA1-Digest: j/nuANHX4DpAJPZka+/sxa00tcQ=
+SHA1-Digest: 7RhT0Y+6xWaCfLGAcnPBmoKjK3c=
 
 Name: system/etc/terminfo/w/wyse160
 SHA1-Digest: 6FYB2aS10CnnNRLb/lXIjHZMiiE=
@@ -6799,16 +6451,13 @@ Name: system/bin/svc
 SHA1-Digest: /1od6413nm4+hNXDHR4zepttND8=
 
 Name: system/framework/android.test.runner.jar
-SHA1-Digest: YdXFCcOakUEkGl3GhtOsHlO7dG0=
+SHA1-Digest: 3Q9RG3jy3ubktp180nefvRXSPWU=
 
 Name: system/etc/terminfo/d/dm3045
 SHA1-Digest: ARCiwHhuTrlXYTqsN2szju4ExO4=
 
 Name: system/etc/security/cacerts/2fb1850a.0
 SHA1-Digest: tpQ/ebm+s27cmkePsnMxlzdMwcc=
-
-Name: system/media/audio/ringtones/Nairobi.ogg
-SHA1-Digest: jqBOwFqJGRRgL1idGyQAghO0wtA=
 
 Name: system/etc/terminfo/d/darwin-b
 SHA1-Digest: wlKPdxI+OaTE959vQJgUT78va/k=
@@ -6886,7 +6535,7 @@ Name: system/bin/modem-supervisor
 SHA1-Digest: ffnfUMILRMPXtXEYZC6R/s7rwhA=
 
 Name: system/lib/libvideoeditorplayer.so
-SHA1-Digest: 3SQ2FMuozULHg+TEE2xi4gfcCxk=
+SHA1-Digest: kUUSU+Vn5frgzQaF3GKSBBCwRWo=
 
 Name: system/etc/terminfo/w/wyse185
 SHA1-Digest: eej0UZsnzMdAynkOqKorvjMMXQU=
@@ -6956,7 +6605,7 @@ Name: system/etc/terminfo/w/wy60-43
 SHA1-Digest: N/MlTzesua2c7jkwwlPHTm5kl0w=
 
 Name: system/bin/mdnsd
-SHA1-Digest: gUPtd7agtZX5KRX0FkaWJMYVmZU=
+SHA1-Digest: WhDNiaMmtdi98mY8pFVDKfXI2I4=
 
 Name: system/etc/terminfo/w/wy60-42
 SHA1-Digest: u6kSjZq37/14B6/SL4QdMy1fu9Q=
@@ -7001,9 +6650,6 @@ SHA1-Digest: iOxmkj2ihoYWgibMvOlrhoYR3gE=
 Name: system/etc/terminfo/w/wyse160-25
 SHA1-Digest: TTMoxNhPs7sd74T9WOLe25u1C5E=
 
-Name: system/media/audio/ringtones/MidEvilJaunt.ogg
-SHA1-Digest: 7eVWa16lsTOJKF2duDDOC6eSo38=
-
 Name: system/etc/terminfo/n/ntconsole-w-vt
 SHA1-Digest: z5YvpMqIb4/15sppIBRRfYeBkeY=
 
@@ -7029,7 +6675,7 @@ Name: system/bin/asanwrapper
 SHA1-Digest: zM2D7AyuzECP7uoxgW1x0oB6Gns=
 
 Name: system/app/DownloadProvider.apk
-SHA1-Digest: PAeBSRaaEcGs79iOHKN6n8Sa22U=
+SHA1-Digest: X6I8Stmw0A1CcuJq2aAurg6EkBo=
 
 Name: system/etc/terminfo/s/screen2
 SHA1-Digest: DnUo2N1d3Vn/rjIdtXTxK/rpBrI=
@@ -7065,9 +6711,6 @@ SHA1-Digest: ahgqJxAV61gI2g8UrT5M4/NiHFY=
 Name: system/etc/terminfo/v/vi50adm
 SHA1-Digest: jNH7lrizE/IlRFoZF+AryV8CDuw=
 
-Name: system/media/audio/notifications/Canopus.ogg
-SHA1-Digest: nHcoEDdFrcmBIIi9e1aYmFF4Rag=
-
 Name: system/etc/terminfo/n/ntconsole-100-nti
 SHA1-Digest: JX6Ae8ExrgKubYDhEa+7fcaj1q4=
 
@@ -7078,9 +6721,6 @@ SHA1-Digest: DFjcju/5z9LgPgOyv6v85jaQhGI=
 Name: system/etc/terminfo/a/ansi+sgr
 SHA1-Digest: Il6rTjtrHc8+6lKSK27Co2e9yzo=
 
-Name: system/media/audio/notifications/Aldebaran.ogg
-SHA1-Digest: 4+F/3PFpx8eULQPkdNx0e8+1+xw=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/vpp/mpc/api/en
  d_algo.elf4nmf
 SHA1-Digest: OGKmNhHpKPRPmQ5jA2p4pC+oHgw=
@@ -7089,7 +6729,7 @@ Name: system/etc/terminfo/d/darwin-m-f2
 SHA1-Digest: Y/YD3vKTgXbEoa5W3TGR1aM+h/o=
 
 Name: system/lib/libcutils.so
-SHA1-Digest: SRFhBaviSLLx1r3YfMBVKeFr6Rs=
+SHA1-Digest: PYYjCOm/kKALbVnCQxppoIlMzC4=
 
 Name: system/etc/terminfo/v/vt220-nam
 SHA1-Digest: HcKzFrwbVx5i+6Uf8oiq5xyITS8=
@@ -7102,6 +6742,9 @@ SHA1-Digest: WSjJL6SFtv6Md/WZJNcs0Kg7NP4=
 
 Name: system/etc/terminfo/a/ansi.sysk
 SHA1-Digest: laHyII7dGOxrk3ouFQ0TR6KaMlM=
+
+Name: system/lib/libvorbisencoder.so
+SHA1-Digest: bOWvt/YCGN1oP0/lrNkSsTLuyNY=
 
 Name: system/etc/terminfo/a/avt-w
 SHA1-Digest: Gf8MKpNz/RV/w2elLivpDuMWCiI=
@@ -7150,10 +6793,10 @@ Name: system/etc/cflashlib.cfg
 SHA1-Digest: PMNaXNdJ9qF+2dId21GWPBCaiRM=
 
 Name: system/xbin/oprofiled
-SHA1-Digest: flHT1RWytNp+222fLDp9BZ9/OFg=
+SHA1-Digest: Xw6epV0NObNOHmW0s+eMyWMPljo=
 
 Name: system/lib/hw/audio.primary.default.so
-SHA1-Digest: jUBJ2nLWADBDAp2xaXnF8Wn8seo=
+SHA1-Digest: cXZBKn6od4N/PUbo++27RuKaiBg=
 
 Name: system/etc/terminfo/h/heathkit
 SHA1-Digest: MddjKudcfqFkvvdUSb/YtYX3OJo=
@@ -7171,9 +6814,6 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiocodec/mpc/dma
  out_bt.elf4nmf
 SHA1-Digest: pgTQ4GOv0OpQJdyPfd0OvL4sqjQ=
 
-Name: system/lib/modules/tun.ko
-SHA1-Digest: s+kOCdoFgM5LlfDcVrdmazV2oXc=
-
 Name: system/etc/terminfo/m/mlterm+pcfkeys
 SHA1-Digest: 7EvT0AEMSvHBRk3GWI7ll60jPeo=
 
@@ -7187,7 +6827,7 @@ Name: system/etc/terminfo/w/wyse520-pc-vb
 SHA1-Digest: RKWncxzcoS2U3B0RK2Cynhge9eA=
 
 Name: system/app/HTMLViewer.apk
-SHA1-Digest: asbepSsJIxv32tG9m02f7nyHvP8=
+SHA1-Digest: BN9ZfBJjTPvWlZW/mm08Nma+AlQ=
 
 Name: system/etc/terminfo/d/d460-dg
 SHA1-Digest: 1vMw03FVJ/qhCtJOLKdJ6xNsN/Q=
@@ -7216,9 +6856,6 @@ SHA1-Digest: DiWewevwVYUrnNFfV09ThJvUCu4=
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/speech_proc/nm
  f/common/hybrid_fillthisbuffer.elf4nmf
 SHA1-Digest: 8n1JwmtV8dxhIYEy6Og7GK05ryo=
-
-Name: system/media/audio/notifications/BrassAndroid.ogg
-SHA1-Digest: /VkvXpPQ2a8i/Jznd8EA1uAXBLg=
 
 Name: system/etc/terminfo/n/news40-o
 SHA1-Digest: 6bsFdWkf3T6bRTE1asW7JjTDUL0=
@@ -7256,17 +6893,11 @@ SHA1-Digest: maFfQsTznYDSHGl8DA9/Zmt++Zg=
 Name: system/fonts/DroidSansHebrew-Bold.ttf
 SHA1-Digest: TuR/SCZHlNxWFl5ftrhCebjvNrI=
 
-Name: system/media/audio/notifications/Merope.ogg
-SHA1-Digest: NJMO8M+Gc2cB+/CREvFtm2hSHhg=
-
 Name: system/etc/terminfo/d/dt100w
 SHA1-Digest: Bkv6GloMvinKx/ij7sCiJWCKpnU=
 
 Name: system/etc/terminfo/x/xnuppc+112x37
 SHA1-Digest: MJ30Fc85EHxsRsRkXNYMiJrx7vc=
-
-Name: system/media/audio/ringtones/BussaMove.ogg
-SHA1-Digest: Cz3gNJTSKQtOWFJaYwwoNLlHwtY=
 
 Name: system/etc/terminfo/a/aws
 SHA1-Digest: 1wcGBv3q/y9IRWFOAEQowXWA90w=
@@ -7275,7 +6906,7 @@ Name: system/etc/terminfo/n/ncr260wy50+wpp
 SHA1-Digest: 1yYMkrDBtOjgMmtTmkwx8Jo3wdU=
 
 Name: system/lib/soundfx/libbundlewrapper.so
-SHA1-Digest: UD/Bb1IKi2rVIxXtecpnirhQ3Fc=
+SHA1-Digest: rutRSFjeF2qFU3MZTGXVYBBKFxU=
 
 Name: system/etc/terminfo/p/p19
 SHA1-Digest: VO05EAF+9nvwpi2dmQlJyTWYhe4=
@@ -7302,7 +6933,7 @@ Name: system/etc/terminfo/h/hp2626a
 SHA1-Digest: 9r3/6fbPSRPKF9fzbbUdX+jFSk4=
 
 Name: system/lib/libc_malloc_debug_qemu.so
-SHA1-Digest: MMr2+PSIuzPB2qRfbbcItMp3v90=
+SHA1-Digest: UGAzP1jJl7OYiwxfPxi1fPBtNa4=
 
 Name: system/usr/srec/config/en.us/models/generic.swiarb
 SHA1-Digest: ji4QTXKau8N4AjzzU5UsqY8aQ7c=
@@ -7336,16 +6967,16 @@ Name: system/etc/terminfo/a/avt+s
 SHA1-Digest: oYqNSFVctvRl9zwq09FdHSg+9zA=
 
 Name: system/bin/wpa_cli
-SHA1-Digest: c9HxJidmBaq5ALz7rZzrfwmgIMU=
+SHA1-Digest: P+iD95JralRIy7tsaVa2RdrlBDk=
 
 Name: system/etc/terminfo/p/pckermit120
 SHA1-Digest: 6R0FSNwvbCZzJiOANCpMffXMflM=
 
-Name: system/etc/security/cacerts/d16a5865.0
-SHA1-Digest: HwEya3RYnDLYdyMkC8yCmJzSKhs=
-
 Name: system/etc/terminfo/h/hpansi
 SHA1-Digest: eb7Wn26QTjPx+4SxdfLIwd8BUVA=
+
+Name: system/etc/security/cacerts/d16a5865.0
+SHA1-Digest: HwEya3RYnDLYdyMkC8yCmJzSKhs=
 
 Name: system/etc/terminfo/c/cgc2
 SHA1-Digest: B40275FdYJ4fUbmhPQo1y+eA5dY=
@@ -7512,9 +7143,6 @@ SHA1-Digest: 8YyKXrXjV+v9Ocb9fWaRfBuhWdY=
 Name: system/etc/terminfo/h/hp2621p
 SHA1-Digest: rKT3ABInPVg8nYzxlL2GIHTCnB0=
 
-Name: system/media/audio/ringtones/Girtab.ogg
-SHA1-Digest: VzOLmrpnuttFO6ndb4JAVk1bY68=
-
 Name: system/etc/terminfo/h/hp300h
 SHA1-Digest: iewCjqz8o6CC8ZZbvRCRecw9qJU=
 
@@ -7558,7 +7186,7 @@ Name: system/etc/terminfo/n/nsterm-m-s-7
 SHA1-Digest: OYHGGjYAe7t/LpN28a5ktG3gboM=
 
 Name: system/lib/libaudioutils.so
-SHA1-Digest: qDgQHVHcwSU93O6oLmjCOFcdxZc=
+SHA1-Digest: FWf+nSrlWdn4UA/hL2gkGtpfxCk=
 
 Name: system/etc/terminfo/r/rxvt+pcfkeys
 SHA1-Digest: sVhQhIBXdED3wZ2WkqlIU2ZGi7Y=
@@ -7570,13 +7198,10 @@ Name: system/semc/chargemon/data/charging_animation_04.png
 SHA1-Digest: OaHuddKVxsbEcATjtPe84Ook2FI=
 
 Name: system/lib/libskia.so
-SHA1-Digest: Vg8RUAB3zlFCI33ExMRDsf5SYkE=
+SHA1-Digest: fidlsVSYnNp8eK5AmDROoNWTnZs=
 
 Name: system/etc/terminfo/t/tn300
 SHA1-Digest: o2nMm3Kr5F1zLAhmcHg7R17KJEk=
-
-Name: system/media/audio/notifications/Zirconium.ogg
-SHA1-Digest: CaK/jcuzJhuvtunYSKai0mNqW6Q=
 
 Name: system/etc/terminfo/d/d464-unix-sr
 SHA1-Digest: wWbRLaiFLZIGOWRkUnNmUaPuikM=
@@ -7585,10 +7210,10 @@ Name: system/etc/terminfo/s/scanset
 SHA1-Digest: pGvchUZuUfWggiVgkuz9U8NqQAk=
 
 Name: system/bin/perf
-SHA1-Digest: a/VLRLegWhJxDv8BoRTyhFGjya4=
+SHA1-Digest: s1yerfPaYDvLEnZHJbxm8acgJUI=
 
 Name: system/bin/iw
-SHA1-Digest: V5CKqGT2oFwD1r+wMxIgJMeO5cY=
+SHA1-Digest: K7O+VWNB6xOdbPdyRA9BG0zC31Y=
 
 Name: system/app/Email.apk
 SHA1-Digest: 6rorgKfFJeOza4V7caLMQDXlk7Y=
@@ -7660,13 +7285,10 @@ Name: system/etc/terminfo/b/bq300
 SHA1-Digest: bSmi70eSvBV4qZvJlJY0HwKqrdE=
 
 Name: system/bin/hostapd
-SHA1-Digest: 8NM9AvIplTaFnipCUBirtAw07EM=
+SHA1-Digest: XsReP5WGwYW5QhJRSVJyXx2tqLA=
 
 Name: system/lib/libcald_server.so
 SHA1-Digest: CnziD8LeMC2EiLmneYHtVvbxjMg=
-
-Name: system/media/audio/notifications/Rang.ogg
-SHA1-Digest: ZxLBQCMcq1EFKNttyTaH8WwIk1s=
 
 Name: system/etc/terminfo/c/cygwinB19
 SHA1-Digest: oH+evgDoESyLelX9ugUUiIQR74w=
@@ -7685,9 +7307,6 @@ SHA1-Digest: 3vgSf+JGOJL7pW+0DQuaRlYPa2c=
 
 Name: system/etc/terminfo/a/addsvp60
 SHA1-Digest: s0fOtR9K3yXerT3rrYq0XFcDKow=
-
-Name: system/media/audio/notifications/Gallium.ogg
-SHA1-Digest: CuSZN8YvB/z6gauKtInQOCAfq5k=
 
 Name: system/etc/terminfo/c/cdc721-esc
 SHA1-Digest: UgOMaCj4/cuhxdbWgdIBqwTjwnQ=
@@ -7734,11 +7353,8 @@ SHA1-Digest: Dfeis2jdYu9XVQHbOviQOOgGTuY=
 Name: system/usr/icu/icudt48l.dat
 SHA1-Digest: n1LMuYQ90vkmeq3iuk6hhRvPBWc=
 
-Name: system/media/audio/ringtones/Solarium.ogg
-SHA1-Digest: mu1sqkNAhzScBzIOZgQNM7fdVfo=
-
 Name: system/app/VpnDialogs.apk
-SHA1-Digest: zJQvPlpAvKMLDwudYLkQdLNSqOw=
+SHA1-Digest: oYpL8KhxExGqWIyVcyBFmQIeI/o=
 
 Name: system/etc/terminfo/h/hp2626-12x40
 SHA1-Digest: Jnrzd8oe0Y9gvz34M3BdDQ4J9tE=
@@ -7765,7 +7381,7 @@ Name: system/etc/terminfo/g/gator-52t
 SHA1-Digest: FqBtQio44X7fN5J6Dd6GPUnQ0Ro=
 
 Name: system/lib/libdbus.so
-SHA1-Digest: 3ZyJGUwjF9KoL8ldbPe+P0JBrec=
+SHA1-Digest: GExKQd0nl0zreGOtyCM3n8n+QYM=
 
 Name: system/bin/input
 SHA1-Digest: fmnGVSPBoXqAUgaTVBG6zdBwPNY=
@@ -7841,7 +7457,7 @@ Name: system/tts/lang_pico/es-ES_ta.bin
 SHA1-Digest: iomlWBJnyeAmuhpPJfKYJkKDUEw=
 
 Name: system/app/BackupRestoreConfirmation.apk
-SHA1-Digest: NifzGSzgE0rM/3Pi5RqvHi3E6qE=
+SHA1-Digest: tQX8bT+w2XNXifdd2YyMy8/7KUU=
 
 Name: system/usr/keylayout/cyttsp_key.kl
 SHA1-Digest: YkRLAxWTTfrmW7DMd7uvJA4bB04=
@@ -7924,7 +7540,7 @@ Name: system/etc/terminfo/v/vt102+enq
 SHA1-Digest: w1GcRYyOHKSSvveibxRMZ1McwN0=
 
 Name: system/lib/libwebcore.so
-SHA1-Digest: 4/ZlhvO86bH9C6fHbHot2WBaBfY=
+SHA1-Digest: Voj8MoLMldHPkm/ftRx1vFTuHoI=
 
 Name: system/etc/terminfo/n/news33
 SHA1-Digest: oBqliNiPLPqVDa3qI+GEqvNno7U=
@@ -7955,9 +7571,6 @@ SHA1-Digest: 1F1qUTjRN71nqvuAnZFWnR66HO0=
 
 Name: system/etc/terminfo/n/news28-a
 SHA1-Digest: kBedA3O6jp3cZRqX2A8U0p/UYac=
-
-Name: system/media/audio/ringtones/Orion.ogg
-SHA1-Digest: 27CCbiL0yjoiGAs4ccjNWOdCqrc=
 
 Name: system/etc/terminfo/d/d411-7b-w
 SHA1-Digest: VYKidy0OYf/34b6z+7nnt/Tv40c=
@@ -8021,7 +7634,7 @@ Name: system/etc/terminfo/w/wy50
 SHA1-Digest: JAYxqPi402kwqRG/jZ3/oISk4W8=
 
 Name: system/lib/libmdnssd.so
-SHA1-Digest: 81jIawXLDK7doNcLlRuNcEBn8I8=
+SHA1-Digest: QRnsobjW9Y01NE67W4Ng/6z7jm0=
 
 Name: system/etc/terminfo/x/xterm-r5
 SHA1-Digest: jY/p7f3M0Z/xLZ4Q7STz4q57AyU=
@@ -8040,9 +7653,6 @@ SHA1-Digest: 00PCQmZ72CtzmneQxyIXmk1pzSU=
 
 Name: system/etc/terminfo/v/vt100-bot-s
 SHA1-Digest: jIMCUJ8TTGwqYqWLF8sxE78Vs7c=
-
-Name: system/media/audio/ringtones/CurveBall.ogg
-SHA1-Digest: UQ+QbrebDZH5rcGGV8EyjTSfMsc=
 
 Name: system/etc/terminfo/d/d216+25
 SHA1-Digest: /Wpj7R8va7lp0B+0vpKmBURvhdQ=
@@ -8086,7 +7696,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/h264enc/mpc/ap
 SHA1-Digest: Bb7SIQ4pD0Gd0lIdc+9bElmArcc=
 
 Name: system/bin/updater
-SHA1-Digest: MN0X+Wsb8z0oE4ssy4zkGrVTIi4=
+SHA1-Digest: wRC8/lnvqlVn8TBOeXVoeLYXMnU=
 
 Name: system/etc/terminfo/h/h19
 SHA1-Digest: hym/vPScp/xK1K8/LGhMZTJgZas=
@@ -8134,9 +7744,6 @@ SHA1-Digest: 15CFJ/5cnHXZrchpknTpsd4o6Jw=
 Name: system/etc/terminfo/t/tvi912cc
 SHA1-Digest: 6SyCzDGKYushNfR4JExK4/PbwIE=
 
-Name: system/media/audio/ringtones/Noises2.ogg
-SHA1-Digest: Opa4rgd0Ni416aKhJUJJhE0K0w4=
-
 Name: system/etc/terminfo/s/sun2
 SHA1-Digest: Vss4GCk40fO0qnuZzqDhDwIaesg=
 
@@ -8151,9 +7758,6 @@ SHA1-Digest: zf32pCJFsEDbzBDCGTchtNkcZbo=
 
 Name: system/lib/libste_adm.so
 SHA1-Digest: JMJ21LFeeBsXhRixi5AlZm8o2Rs=
-
-Name: system/media/audio/alarms/Neptunium.ogg
-SHA1-Digest: R/MOcYBFRbK7qWty9bKsskgDvII=
 
 Name: system/lib/libSR_AudioIn.so
 SHA1-Digest: Pjx+cqQYLJu+gVqe1RHsALtE2hw=
@@ -8186,7 +7790,7 @@ Name: system/lib/hw/copybit.montblanc.so
 SHA1-Digest: NFL5+Bust0Mob0IhlG05DDSrxpc=
 
 Name: system/bin/ip6tables
-SHA1-Digest: A7PYPA8sJnhmwb5XmZEsiFL7RJU=
+SHA1-Digest: /qZJ07KfKNasAaHOGqNXQ+hDACw=
 
 Name: system/etc/terminfo/d/d460-7b
 SHA1-Digest: UnzqY8iah3PAZc5aM5661TegBfQ=
@@ -8202,9 +7806,6 @@ SHA1-Digest: 7vPSzSprIeixuWxpnks7Le5JvlU=
 
 Name: system/etc/terminfo/p/pt505-24
 SHA1-Digest: 4KhR4/ctvHqhsp4o+dtFWV3peKs=
-
-Name: system/lib/modules/pwr.ko
-SHA1-Digest: xwgH0eEim3R56u7UzQe59uZ1xuI=
 
 Name: system/etc/terminfo/w/wyse350-vb
 SHA1-Digest: A3mGCEzx+rtySUAmXZGcwJZz37E=
@@ -8230,9 +7831,6 @@ SHA1-Digest: old6605LH2z7BvOzAMMOrhe/lC0=
 
 Name: system/etc/terminfo/h/heath
 SHA1-Digest: A9tBklO9C0NuW0B6VjDNkwyuzS8=
-
-Name: system/media/audio/ui/VolumeIncremental.ogg
-SHA1-Digest: Qy1zcDMnzyDia5Zi9euc/jrQuKg=
 
 Name: system/etc/security/cacerts/08aef7bb.0
 SHA1-Digest: XVcxHM5N/xsTnkuy9vaaWCBrlTw=
@@ -8284,9 +7882,6 @@ SHA1-Digest: pDoFkt0ow4oMrnwoJ8V53XXw608=
 
 Name: system/etc/terminfo/d/dataspeed40
 SHA1-Digest: /f4KpxCavt1gRM+3YHsMBojrR0o=
-
-Name: system/media/audio/ringtones/Club_Cubano.ogg
-SHA1-Digest: pBTpYFzvdovd5dDbHiv/rNkcECM=
 
 Name: system/lib/libarchive_fe.so
 SHA1-Digest: D7wlqYLjBWritkThYwRvILWGDPQ=
@@ -8377,7 +7972,7 @@ Name: system/etc/terminfo/t/tvi912c-mc
 SHA1-Digest: Rm3nPuAfZoHSvf1BgTKkmV3f/E4=
 
 Name: system/lib/libbcc.so
-SHA1-Digest: QWXglQsCTERDaOcaVe3EvcXLlfc=
+SHA1-Digest: Ay5MzizdiotHkpfBKtuk5FJwhV4=
 
 Name: system/etc/terminfo/w/wy325-w
 SHA1-Digest: bUBRsO+uCvw6JVRSY+Y2GP2WSI0=
@@ -8405,7 +8000,7 @@ Name: system/usr/keylayout/AB8500_Hs_Button.kl
 SHA1-Digest: f1Fgd8LCSyKP0R0EmvkFyWnZcXA=
 
 Name: system/lib/libcameraservice.so
-SHA1-Digest: NhFAp4vlAGLxeDi8I4smpbLiXCo=
+SHA1-Digest: qrLWTA7tUS5rc/6cb+Yjw5HPrKI=
 
 Name: system/lib/libcald_pal.so
 SHA1-Digest: Q2RtjuNniopy9Byw79DkOw1C/mI=
@@ -8435,7 +8030,7 @@ Name: system/etc/terminfo/a/att2350
 SHA1-Digest: RbJh97JvajthMVpL+W+dioNckEA=
 
 Name: system/lib/libc.so
-SHA1-Digest: g+lNgm3kG2xh+82DGO0FUvJ9TPw=
+SHA1-Digest: 5pdpGk03LZNUe9PKvCPxJldatxM=
 
 Name: system/usr/share/camera/config_file/omnivision_ov5640_pri_30fps.
  dat
@@ -8443,9 +8038,6 @@ SHA1-Digest: yLwDeTIwmL+Ibx7rIa66zpVQhUc=
 
 Name: system/xbin/agent
 SHA1-Digest: QOtqUw2EqPjPIRw3RFGb9J9VT6M=
-
-Name: system/media/audio/ringtones/Safari.ogg
-SHA1-Digest: lVdLM9Ky9lzogjCPj3L400wibgA=
 
 Name: system/vendor/camera/APT00YP1.dat
 SHA1-Digest: LWwHqVk1LSl2RGQSSS7CVsniaBs=
@@ -8464,12 +8056,6 @@ SHA1-Digest: sBTYgYwL9lH40eoEuSsgPOSSii8=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/memgrabctl.elf4nmf
 SHA1-Digest: OZQ+XShf/2Pb3KkbgrDfuphKWZA=
-
-Name: system/media/audio/ringtones/Cassiopeia.ogg
-SHA1-Digest: 4XVrir9lxV+Yfo9kr/U023+ylf4=
-
-Name: system/media/audio/ringtones/GameOverGuitar.ogg
-SHA1-Digest: pDKBGPXc21/dqtWj8jjS30H/UjY=
 
 Name: system/bin/install_wlan
 SHA1-Digest: +MNdsgcFcxO4VZ1q2/EtOe80oBI=
@@ -8544,7 +8130,7 @@ Name: system/etc/terminfo/w/wyse99gt-25-w
 SHA1-Digest: AwZhoLJgdztOXfswxW8vaGAqF90=
 
 Name: system/lib/libstagefright.so
-SHA1-Digest: A+VO2avCGPibu9jLIk55EAiA8Jg=
+SHA1-Digest: mvvdXgxy4fC20wFiH+qvRQsk5aU=
 
 Name: system/etc/permissions/android.hardware.sensor.gyroscope.xml
 SHA1-Digest: DhtVHxHAeMpMhNawakMGfQRTkR0=
@@ -8564,9 +8150,6 @@ SHA1-Digest: d92b2Plux5NOIc6a0f/QNJq+i2E=
 Name: system/xbin/sqlite3
 SHA1-Digest: taxUaRRIqsBJuMwnPVCL3EkO5WM=
 
-Name: system/media/audio/ringtones/CyanTone.ogg
-SHA1-Digest: qNcjKjiibxEoKgdoUYZf/o1gD2w=
-
 Name: system/etc/terminfo/n/nsterm-acs-s
 SHA1-Digest: gU9WaYfYbGY5KKF2KntGlRC0Nnc=
 
@@ -8583,7 +8166,7 @@ Name: system/etc/terminfo/n/news40
 SHA1-Digest: dXiJfOSUS3gFfdicfGqsZb0W+HI=
 
 Name: system/framework/am.jar
-SHA1-Digest: 9kLkcHohWqOSLIQi0Cp1rNnE2+o=
+SHA1-Digest: xVvDGK5YkR/TjYfDXrx5k3ZKKAM=
 
 Name: system/etc/terminfo/n/news42
 SHA1-Digest: pr3s3Swcx+GEdeRP/wV1MbRi+pI=
@@ -8733,9 +8316,6 @@ SHA1-Digest: TqrmlyeuzKiljmAPGWKtMKLCpAA=
 Name: system/etc/terminfo/n/ntconsole-35-w
 SHA1-Digest: PSF5jNEoCBgotMB9DQAqsgpEja4=
 
-Name: system/media/audio/ringtones/Eastern_Sky.ogg
-SHA1-Digest: 50qSb8b9/pJqMgH8FsggDrvK8jM=
-
 Name: system/lib/ste_omxcomponents/libste_exif_mixer.so
 SHA1-Digest: zG36YDlO7HKYfh5fvEAEnZDxkVg=
 
@@ -8850,7 +8430,7 @@ Name: system/fonts/RobotoCondensed-Italic.ttf
 SHA1-Digest: HjOk01XwQ2PScIy0Q1HS5ekk5+E=
 
 Name: system/app/SystemUI.apk
-SHA1-Digest: 8v+tCTYsto7iOkm0OkuGGPehFaE=
+SHA1-Digest: RQ6hDhICoY291s7FEaNI2OQKJdo=
 
 Name: system/etc/terminfo/t/tvi912c-vb
 SHA1-Digest: UYkPiaptUfG6LOD9ZqkJD04lzVw=
@@ -8861,9 +8441,6 @@ SHA1-Digest: 0YqQc7bVAVPpyXaomX5XcP+m9nE=
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/equalizer/effect/l
  ibequalizer.elf4nmf
 SHA1-Digest: U7bIAQ5YOsRIr4egogAdBRskBBc=
-
-Name: system/media/audio/notifications/Argon.ogg
-SHA1-Digest: HhYnnwVC3/jkQY5/qoN5EDEceVo=
 
 Name: system/etc/terminfo/w/wy350-w
 SHA1-Digest: UNbB4SM6EVj7mNpuHe6HWg7Xi54=
@@ -8878,10 +8455,10 @@ Name: system/etc/terminfo/w/wyse160-42-w
 SHA1-Digest: bck7qLOmRaz/6BJOkFdrAbPyH9g=
 
 Name: system/framework/content.jar
-SHA1-Digest: n94ZHU3sB5unsPLX3f/GvId/ofM=
+SHA1-Digest: 0d21SGnNZqmUckUydUXC1AvEfMc=
 
 Name: system/usr/share/camera/tuning/TunVidPre-010045.xml
-SHA1-Digest: LxcEF13vLcbXq0P5fEWaFty3ivo=
+SHA1-Digest: zegT/V7sEqjYylV4drg9iZxNWJo=
 
 Name: system/framework/com.google.android.media.effects.jar
 SHA1-Digest: tOKSwfk4vfwBLrZyBJ4RuYy7498=
@@ -8957,7 +8534,7 @@ Name: system/etc/terminfo/c/cons25
 SHA1-Digest: g5mm5t2HDqURr4vdHyY7UgxLxn0=
 
 Name: system/lib/libc_malloc_debug_leak.so
-SHA1-Digest: HNE4kYosrmhVj6DzkajbD5jVLBE=
+SHA1-Digest: WfPERfQaeUL38czMasmDec148yc=
 
 Name: system/etc/terminfo/E/Eterm-color
 SHA1-Digest: zlvYIAow0ht8NdokS+SSmj95Th4=
@@ -8976,12 +8553,6 @@ SHA1-Digest: 5zGfXVLwVep/ptOQZS6VAXdiNpU=
 
 Name: system/lib/libvideoeditor_videofilters.so
 SHA1-Digest: rEuvEY1vx4eBFG9jKb93hblMCR4=
-
-Name: system/media/audio/ringtones/Bollywood.ogg
-SHA1-Digest: lp+O3MhWrS1FoZZYuyGBRcHyiz8=
-
-Name: system/media/audio/notifications/Palladium.ogg
-SHA1-Digest: XKfXczaRiqFqDMQb5gUjLHsrLtg=
 
 Name: system/etc/terminfo/k/kermit-am
 SHA1-Digest: ZZStFiEUC//H/XgZUpTXdH3hhYY=
@@ -9002,7 +8573,7 @@ Name: system/etc/terminfo/q/qvt119+-w
 SHA1-Digest: vG33S37NbTIYSqOVy6Q52N2YLk4=
 
 Name: system/xbin/add-property-tag
-SHA1-Digest: OuiENCzNsSEHl0lSS9uvhchTKyM=
+SHA1-Digest: ECIv1doZFf5yLNRygMXJrKTjHpI=
 
 Name: system/lib/libsoundpool.so
 SHA1-Digest: 7F9gUAKKogDmvcjBOcbQnZRhVdM=
@@ -9015,9 +8586,6 @@ SHA1-Digest: BuFcu/GZ/4QlgxvOUCqTZFButsA=
 
 Name: system/etc/terminfo/m/minitel-2
 SHA1-Digest: cZSNQtfMBs5CxZQXd7ojd7nR7EQ=
-
-Name: system/media/audio/alarms/Curium.ogg
-SHA1-Digest: sizQw2rOVfcac9s0t+gHbYXD4+o=
 
 Name: system/etc/terminfo/p/p12-m
 SHA1-Digest: mkhOcUOyh+YofWoGt+WmDrjlGYY=
@@ -9071,14 +8639,8 @@ SHA1-Digest: FSj/I2c7xjyjCAKUAawoD5gO7AY=
 Name: system/etc/terminfo/a/aaa-36-rv
 SHA1-Digest: YChpY8RsDRCXrRepooPgG7dg4ck=
 
-Name: system/media/audio/ringtones/Steppin_Out.ogg
-SHA1-Digest: 8Kxwq5Q0tcw54LWcnM/E97uQQNo=
-
-Name: system/media/audio/ringtones/Gimme_Mo_Town.ogg
-SHA1-Digest: LNVjQUp8VmYJaHeA2fNsKY2ZIgA=
-
 Name: system/lib/libharfbuzz.so
-SHA1-Digest: A+3ZBDzouYizJjm/CxCdrIPNoU4=
+SHA1-Digest: ld3680mOkf4FLEiib3VNlbvtnc0=
 
 Name: system/etc/terminfo/t/tvi920c-2p-mc
 SHA1-Digest: vDi7KOpDCKw5269nuxmOoXD4t54=
@@ -9109,7 +8671,7 @@ Name: system/lib/libctest.so
 SHA1-Digest: 97etL3a3O5DIH+uqW7cmluSu62Y=
 
 Name: system/framework/bouncycastle.jar
-SHA1-Digest: 6z+zohFZWA8Vc1QDX6Z/yu9vXE0=
+SHA1-Digest: d/BqNInkycr/C/QTWzcSoanpmbE=
 
 Name: system/etc/terminfo/d/dm1521
 SHA1-Digest: +Jc6cEEszM1gdjkZgflgrIxs4xM=
@@ -9132,9 +8694,6 @@ SHA1-Digest: 5eK+Uqn7V9+/aGXZDDzZ5MstkII=
 Name: system/etc/terminfo/d/diablo1720
 SHA1-Digest: b9FpiENWyDaTYnopI7StbNQmffs=
 
-Name: system/media/audio/ringtones/SpringyJalopy.ogg
-SHA1-Digest: ASVmjcAYel5//dn1hGDDbA6bvUY=
-
 Name: system/etc/terminfo/b/bq300-8w
 SHA1-Digest: pJiusEraDmmbSfNvlylhKtD+vIw=
 
@@ -9148,7 +8707,7 @@ Name: system/etc/terminfo/t/teraterm
 SHA1-Digest: gy3l6FzWnz5JlEdzXZRd8/u1WdE=
 
 Name: META-INF/com/google/android/updater-script
-SHA1-Digest: qaM1JmclA2OKxKag8IcgOGfrwJs=
+SHA1-Digest: ILfQDAWgq2LJaylgD7JHlYt5TXQ=
 
 Name: system/bin/sf2
 SHA1-Digest: fPagMiLJQReHyiNQuOIIP8cPRDc=
@@ -9161,9 +8720,6 @@ SHA1-Digest: tB96GwfWPrj11F1ewOPgDRHZmqg=
 
 Name: system/etc/terminfo/v/vt320-k3
 SHA1-Digest: WT/H+YliCKVpFa10DNt3ddcMxpc=
-
-Name: system/media/audio/notifications/Sirius.ogg
-SHA1-Digest: IxGauuTZGDHraR6lFed8eiTXyz0=
 
 Name: system/etc/terminfo/a/ansi80x25
 SHA1-Digest: bq2gnoUzaaE6hqVPvNKaadN5Sb4=
@@ -9202,7 +8758,7 @@ Name: system/xbin/l2test
 SHA1-Digest: HDA2bvT+Vk3t0pUcXBeeAtTgTYA=
 
 Name: system/app/Calendar.apk
-SHA1-Digest: QAalk1+eRXYNtN6ksGzjBa4vETo=
+SHA1-Digest: UMdyMkgmaOdVVlhNwc95rd0/vkI=
 
 Name: system/etc/terminfo/t/tvi920b-vb-mc
 SHA1-Digest: iFn8Rs0n5jEoHDGN0JeMnLb7/8w=
@@ -9224,9 +8780,6 @@ SHA1-Digest: MH+lOf7Hk7bh5MtXf0EycgfnRb0=
 
 Name: system/etc/terminfo/c/c108-w
 SHA1-Digest: EVLu4b2NbfSr7nSARxJ8n02yTso=
-
-Name: system/media/audio/notifications/DearDeer.ogg
-SHA1-Digest: PqQWPpaTrtYxRVymXbHHNl4TDcY=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/resource_manag
  er/api/inform_resource_status.elf4nmf
@@ -9263,7 +8816,7 @@ Name: system/lib/ste_omxcomponents/libste_dec_mpeg2.so
 SHA1-Digest: iKkDtaY2GIU9Vgezx/VUOOXiXoU=
 
 Name: system/build.prop
-SHA1-Digest: riX6rp1W8jl+YfXqsd1Zx40XZbA=
+SHA1-Digest: XpcVYx/IerDVxYw+W0KUl+TMlBM=
 
 Name: system/etc/terminfo/n/nsterm-7-c-s
 SHA1-Digest: nVZEvZj6BzLhpdjWZDR0C1eGXWs=
@@ -9343,7 +8896,7 @@ Name: system/etc/terminfo/9/955-w
 SHA1-Digest: T2eOOufIg9Wwl/t8y7zBbkZfu7w=
 
 Name: system/lib/libRS.so
-SHA1-Digest: Eg9vE+Pbx79rQgof1I/gX//k8Rs=
+SHA1-Digest: 4X7lYZA0cyc2siqQfBnOwjuFsw0=
 
 Name: system/etc/terminfo/w/wy99f
 SHA1-Digest: Z0c+cclFwJHO4ZP46fPHqFmGWKs=
@@ -9368,7 +8921,7 @@ Name: system/etc/terminfo/t/tab
 SHA1-Digest: 8gUSonvioYuBrymBEbz1EJCpKbs=
 
 Name: system/lib/libaudioflinger.so
-SHA1-Digest: lsAW2QdS1WvvEKDy0QcslCLWARs=
+SHA1-Digest: +J5GoTRZKTNqYRQ7Zqtv2uQYSdM=
 
 Name: system/usr/idc/sensor00_f11_sensor0.idc
 SHA1-Digest: G6cK7ubhm2uY8RNhnrzixW2sjbQ=
@@ -9386,10 +8939,7 @@ Name: system/etc/terminfo/d/dt80
 SHA1-Digest: ItDaBgT1v2BdBc1n8Znr0x0EBUg=
 
 Name: system/bin/dbus-daemon
-SHA1-Digest: lOji1Mb4hS6URCrKtuF/gRoFwVo=
-
-Name: system/media/audio/ui/camera_click.ogg
-SHA1-Digest: 8ICrDKH88vSpbjo6qbDKpIbmI2o=
+SHA1-Digest: L83nGyeynybO8DQf6vNd7UHsu5c=
 
 Name: system/lib/libnmfee.so
 SHA1-Digest: GtjrENTE3qbC7WjYPTnmoYmFVO4=
@@ -9401,19 +8951,13 @@ Name: system/app/SetupWizard.apk
 SHA1-Digest: GmFBfAajWK+LDMBYPaLDynaewXI=
 
 Name: system/addon.d/70-gapps.sh
-SHA1-Digest: 612tU9jgec21CXTKNdFW3ghfDbA=
-
-Name: system/media/audio/ringtones/Playa.ogg
-SHA1-Digest: LFUvtapzPyL03swjeMPtP1FnShk=
+SHA1-Digest: 09fWaNisMcHKIj6aj7oOKvg2xnw=
 
 Name: system/usr/keylayout/Vendor_045e_Product_028e.kl
 SHA1-Digest: 5vqCZTOVkoSpc0kmFfaNUhf5FbE=
 
 Name: system/etc/terminfo/w/wy85
 SHA1-Digest: JuuryFhS9oMERi+7JKeoezRXLwo=
-
-Name: system/media/audio/notifications/Adara.ogg
-SHA1-Digest: tziXnX9eKHBsJo4Fe1zksDhhAP8=
 
 Name: system/app/Superuser.apk
 SHA1-Digest: aUrLLys4ODBA1bwCKgN06VluzIE=
@@ -9427,45 +8971,42 @@ SHA1-Digest: vLAGpHMPW+ZdQllzEhe5DQPGc8U=
 Name: system/etc/terminfo/x/xnuppc+f2
 SHA1-Digest: tMPXbYuoc9oSYAaNCU/6243DVN0=
 
-Name: system/etc/terminfo/x/xnuppc-100x37
-SHA1-Digest: l7Ihwn+dMxlbfhTLH8b3/mMa2hs=
-
 Name: system/etc/terminfo/q/qansi
 SHA1-Digest: R0ohCpayzByAU+K1n3h4OSh12v4=
+
+Name: system/etc/terminfo/x/xnuppc-100x37
+SHA1-Digest: l7Ihwn+dMxlbfhTLH8b3/mMa2hs=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/mp3/nmfil/decoder.
  elf4nmf
 SHA1-Digest: h2p4z9PNMEnOtdHrGnVtiWysygA=
 
-Name: system/etc/terminfo/n/ntconsole-35-nti
-SHA1-Digest: GX9UAqxIhI1ZIV5SBp9Bi0YIUn8=
-
 Name: system/etc/fallback_fonts-ja.xml
 SHA1-Digest: 3l/3SdloG+2JLA8O3uH79aSM6bc=
 
-Name: system/etc/security/cacerts/dbc54cab.0
-SHA1-Digest: mLY39lqUQs7ml8zsoOpALdtZjMk=
+Name: system/etc/terminfo/n/ntconsole-35-nti
+SHA1-Digest: GX9UAqxIhI1ZIV5SBp9Bi0YIUn8=
 
 Name: system/lib/libdefcontainer_jni.so
 SHA1-Digest: FAshhxm1cGCZKdlg8bwqJEesqnk=
 
-Name: system/etc/terminfo/s/screwpoint
-SHA1-Digest: A0uSZ4NQq1HmJzZPL9clid0Jluk=
+Name: system/etc/security/cacerts/dbc54cab.0
+SHA1-Digest: mLY39lqUQs7ml8zsoOpALdtZjMk=
 
 Name: system/etc/permissions/handheld_core_hardware.xml
 SHA1-Digest: F4hDcGHqWxsTh4I+siOHqZJtIlQ=
 
-Name: system/etc/terminfo/q/qvt203-25-w
-SHA1-Digest: OrdqBkUMZ+a8QxgDDsmHscv2hJc=
+Name: system/etc/terminfo/s/screwpoint
+SHA1-Digest: A0uSZ4NQq1HmJzZPL9clid0Jluk=
 
 Name: system/etc/terminfo/h/hz1510
 SHA1-Digest: iLFfbNQcUTaCoWVf7fFP9uj6xcg=
 
+Name: system/etc/terminfo/q/qvt203-25-w
+SHA1-Digest: OrdqBkUMZ+a8QxgDDsmHscv2hJc=
+
 Name: system/etc/terminfo/c/cons60r
 SHA1-Digest: aWnY/npXqECN3rLT4ITLqO2qEvI=
-
-Name: system/media/audio/notifications/Sirrah.ogg
-SHA1-Digest: rhPvMnpeyYGPjaw4uh65x5woy5M=
 
 Name: system/etc/security/cacerts/5046c355.0
 SHA1-Digest: OQH1BPU6CROY/RgHEc+aJJM9Lcs=
@@ -9483,7 +9024,7 @@ Name: system/etc/security/cacerts/5a5372fc.0
 SHA1-Digest: Fb0tYUiGRziyUpyHHetf0/rTWWU=
 
 Name: system/lib/modules/oprofile.ko
-SHA1-Digest: Y9idNRUeH+fZ8bKSOmlHt62J0fs=
+SHA1-Digest: t4g81eFMGFAuAb/pY9R6oaL9690=
 
 Name: system/etc/terminfo/h/hz1520
 SHA1-Digest: bvyh3ZWboLHLf8csRxb+UW24lqI=
@@ -9491,20 +9032,17 @@ SHA1-Digest: bvyh3ZWboLHLf8csRxb+UW24lqI=
 Name: system/etc/terminfo/d/d462-unix-25
 SHA1-Digest: 4CDTHodTOYBxhBaKUck1AEuqME4=
 
-Name: system/media/audio/ui/VideoStop.ogg
-SHA1-Digest: mEu2SGaoAShiR6WELdSFyZS8ETo=
-
 Name: system/etc/security/cacerts/9685a493.0
 SHA1-Digest: uQOYnTRtD38Rh9THdcalO+4cPsI=
 
 Name: system/app/PicoTts.apk
 SHA1-Digest: kVwUpS5XOX2SH5DbJq0bouMY6mo=
 
-Name: system/etc/terminfo/t/tvi912b-2p-mc
-SHA1-Digest: /TIdrY7sjZjWEI7Q8Rs5SF10N/s=
-
 Name: system/etc/terminfo/o/opennt
 SHA1-Digest: A0bpRM3xKaa/UX4IIXCSxsrTgjM=
+
+Name: system/etc/terminfo/t/tvi912b-2p-mc
+SHA1-Digest: /TIdrY7sjZjWEI7Q8Rs5SF10N/s=
 
 Name: system/etc/terminfo/a/ap-vm80
 SHA1-Digest: g2zsJxVNIn8FsbPWeqV2MeGO+6U=
@@ -9528,9 +9066,6 @@ SHA1-Digest: PeHhbCAqgZ6EubIpbXgcxQTzh2k=
 Name: system/etc/terminfo/b/bh3m
 SHA1-Digest: CdeY0twQ//XoHMGsyVPcoz97WYQ=
 
-Name: system/media/audio/ringtones/ArgoNavis.ogg
-SHA1-Digest: fGWadBPUSaR7xiQWg9ksWqeBPvw=
-
 Name: system/etc/terminfo/t/tek4014-sm
 SHA1-Digest: L5kFAsRHCng7Ys/WoweP+BfKgAA=
 
@@ -9552,14 +9087,14 @@ SHA1-Digest: vrBXdjiowcZsOY0QSeuLj0zxJNs=
 Name: system/etc/terminfo/s/scoansi-new
 SHA1-Digest: dckoj1z1V9gr4uQkuAs3srx/I+g=
 
+Name: system/bin/recovery
+SHA1-Digest: pZ/sWrh4NdfMpymTwKAc3KzllzE=
+
 Name: system/bin/schedtest
 SHA1-Digest: 42yqbc0ircxgv6XpLlPgRTQxgN8=
 
-Name: system/bin/recovery
-SHA1-Digest: 7Em30v5O6L83jrFd7LkkzL6WXH8=
-
 Name: system/app/CertInstaller.apk
-SHA1-Digest: DZLKIH0slt8Bt7lEMDJTjFpyxxw=
+SHA1-Digest: 7oY2voSIxUfiXJ74yRF9429gY/g=
 
 Name: system/etc/terminfo/i/ibm3161-C
 SHA1-Digest: /f6icW7esrzzCvRIQZUYljiwu+E=
@@ -9567,11 +9102,11 @@ SHA1-Digest: /f6icW7esrzzCvRIQZUYljiwu+E=
 Name: system/etc/terminfo/g/gs5430
 SHA1-Digest: 6pVtSdfthXin+uaSKjszOjq1d0E=
 
-Name: system/etc/terminfo/a/aaa-30-rv
-SHA1-Digest: kRtmUHLuD1jprYrtbWAG9wBWiqI=
-
 Name: system/etc/terminfo/d/d577-dg
 SHA1-Digest: qEgU6o5uWT3eeYszZf826nIpxeg=
+
+Name: system/etc/terminfo/a/aaa-30-rv
+SHA1-Digest: kRtmUHLuD1jprYrtbWAG9wBWiqI=
 
 Name: system/etc/terminfo/a/apollo_19L
 SHA1-Digest: zlDCc6ZnQ1q3uricCC8evW47Tbw=
@@ -9595,23 +9130,20 @@ Name: system/etc/bluetooth/qos_role_switch_blacklist.conf
 SHA1-Digest: aNaSNwl0SF92zY/5uyYhtbmgb7I=
 
 Name: system/app/DrmProvider.apk
-SHA1-Digest: 8f3lhH9ab4iOEq+9U27fq17AY6Y=
-
-Name: system/etc/terminfo/x/xnuppc+160x64
-SHA1-Digest: qNLHtMgt85iu8+E4kePmJ2AtptU=
+SHA1-Digest: ilm+N8s14ooOmF/wfXy0fmGVAHo=
 
 Name: system/lib/libmaluicc.so
 SHA1-Digest: VOVw4Jh425xsQqqm09Cd9dNduZc=
 
-Name: system/etc/terminfo/w/wy325-25
-SHA1-Digest: +0FKc6H0BpBDKErlnsfU8qDyyYE=
+Name: system/etc/terminfo/x/xnuppc+160x64
+SHA1-Digest: qNLHtMgt85iu8+E4kePmJ2AtptU=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/decoders/streamed/
  wrapper.elf4nmf
 SHA1-Digest: RA8shP9P154FZfzav+WgbLngDsk=
 
-Name: system/media/audio/notifications/Xenon.ogg
-SHA1-Digest: HnRSqIvJwV/tZLcpvYukT2/xnMA=
+Name: system/etc/terminfo/w/wy325-25
+SHA1-Digest: +0FKc6H0BpBDKErlnsfU8qDyyYE=
 
 Name: system/etc/terminfo/o/opennt-60-nti
 SHA1-Digest: qylKPiujeng0XEGnN/i1aZCEny8=
@@ -9619,21 +9151,21 @@ SHA1-Digest: qylKPiujeng0XEGnN/i1aZCEny8=
 Name: system/etc/terminfo/h/hp98720
 SHA1-Digest: qsoySrBwLFZPNSy9MZSjA9Df7O0=
 
-Name: system/etc/terminfo/h/hp98721
-SHA1-Digest: /VToWpa13g68B/WM2od/zE/in8s=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/amr/codec/libamren
  c.elf4nmf
 SHA1-Digest: tTS1ECyo9UadIqRJEP64cXOR4ew=
 
+Name: system/etc/terminfo/h/hp98721
+SHA1-Digest: /VToWpa13g68B/WM2od/zE/in8s=
+
 Name: system/etc/terminfo/p/pcansi33
 SHA1-Digest: yNTypcbYfof9UWmQ9bK0Cf4pq6o=
 
-Name: system/etc/terminfo/a/alto-heath
-SHA1-Digest: NeyGht2Q7KSY8KsCvWpHpOz6fuY=
-
 Name: system/etc/terminfo/h/hp2621-nl
 SHA1-Digest: ikJtZP0asmrxXXDxZy6pVpZI4SQ=
+
+Name: system/etc/terminfo/a/alto-heath
+SHA1-Digest: NeyGht2Q7KSY8KsCvWpHpOz6fuY=
 
 Name: system/etc/terminfo/a/att5620
 SHA1-Digest: ATTn9F9vBtngvwXw6prOg9wBK/Y=
@@ -9641,11 +9173,11 @@ SHA1-Digest: ATTn9F9vBtngvwXw6prOg9wBK/Y=
 Name: system/bin/atrace
 SHA1-Digest: /yn3LQrczf9LyyO8TzaKPi4CgO0=
 
-Name: system/fonts/DroidSansArmenian.ttf
-SHA1-Digest: ZqNiJp/UISxsUJB+Xj4nlWWRPT8=
-
 Name: system/etc/terminfo/a/aaa-48-rv
 SHA1-Digest: wdY6dwNFjnaoK2hIV6kmwfRt17g=
+
+Name: system/fonts/DroidSansArmenian.ttf
+SHA1-Digest: ZqNiJp/UISxsUJB+Xj4nlWWRPT8=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/fillthisbuffer
  .elf4nmf
@@ -9655,7 +9187,7 @@ Name: system/etc/terminfo/a/aaa-30-rv-ctxt
 SHA1-Digest: pD5XFAe148bfBBUuQJvu5HvXL9M=
 
 Name: system/bin/mediaserver
-SHA1-Digest: MxTrhqSpA6EQItqybsFMDZqYFns=
+SHA1-Digest: 7dNw3IUbl0DYeLiuS4I3AKdQy7g=
 
 Name: system/lib/ste_omxcomponents/libste_dec_h264.so
 SHA1-Digest: g1va1357xbWDAQo+VS3a9HcvhOg=
@@ -9669,11 +9201,11 @@ SHA1-Digest: lAez451OVformeFzqSOJ/W+Cyno=
 Name: system/etc/terminfo/i/ibmega-c
 SHA1-Digest: MWll/9IkBezJSMcSBTUmikdk2/I=
 
-Name: system/etc/terminfo/p/pcansi43
-SHA1-Digest: 3i7niKKfCd5Iv81AYSouPCHU75U=
-
 Name: system/etc/terminfo/a/ampex-219w
 SHA1-Digest: mrsHOBGHlmytv4IEPCEO328rViM=
+
+Name: system/etc/terminfo/p/pcansi43
+SHA1-Digest: 3i7niKKfCd5Iv81AYSouPCHU75U=
 
 Name: system/etc/firmware/CG29XX_0200_0000_settings.fw
 SHA1-Digest: gS29kfNrAU7jQicJRJEpqGHBuZc=
@@ -9690,12 +9222,12 @@ SHA1-Digest: PsYOSZrVZRTT+54qJFX4On4HjB8=
 Name: system/etc/security/cacerts/7a819ef2.0
 SHA1-Digest: Ig0Zi/k4BqWAYNZWWgJjpKVsDHs=
 
-Name: system/etc/terminfo/n/nwe501
-SHA1-Digest: Js0l9xoAb8P2do/aL9O93tRh634=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/misc/synchronisati
  on.elf4nmf
 SHA1-Digest: YnAHbCgaToco+c/qtlPwQ2UCXsU=
+
+Name: system/etc/terminfo/n/nwe501
+SHA1-Digest: Js0l9xoAb8P2do/aL9O93tRh634=
 
 Name: system/fonts/AndroidEmoji.ttf
 SHA1-Digest: 5ygkuw7zJUNfpUzNMGi/iv9qbbA=
@@ -9703,17 +9235,14 @@ SHA1-Digest: 5ygkuw7zJUNfpUzNMGi/iv9qbbA=
 Name: system/etc/terminfo/d/d430c-dg-ccc
 SHA1-Digest: vjhjZe0Emavdokix1L0sZNtpuXI=
 
-Name: system/media/audio/ringtones/CaribbeanIce.ogg
-SHA1-Digest: SQgjv1jT8oPEIVRORsXGVCvZx90=
-
 Name: system/etc/terminfo/h/hp2621-nt
 SHA1-Digest: d897L5fDjum2/XOF14tjo0kYwts=
 
-Name: system/etc/terminfo/a/aaa-40-rv
-SHA1-Digest: SpUbJg4qWEFsQ+YLgg2pLU3qxiE=
-
 Name: system/etc/terminfo/b/bsdos-pc-m
 SHA1-Digest: /+akGJlT6Y/489EAsDanknYzf4g=
+
+Name: system/etc/terminfo/a/aaa-40-rv
+SHA1-Digest: SpUbJg4qWEFsQ+YLgg2pLU3qxiE=
 
 Name: system/etc/terminfo/n/ntconsole-100
 SHA1-Digest: FxSPqkeb+wmg4SnyCjJktK68qbM=
@@ -9756,10 +9285,10 @@ Name: system/etc/terminfo/w/wy50-w
 SHA1-Digest: KEa9C9QeGcUx7sxf2hiU6gOx2Og=
 
 Name: system/framework/framework2.jar
-SHA1-Digest: 85xMk1Vyq158cFaVElhxedQmAAI=
+SHA1-Digest: bR8zzdJjyFWStK1xk1bt3YCDh98=
 
 Name: system/bin/iptables
-SHA1-Digest: dg93+QlBPIIiT3ylwj6hv/sQC+g=
+SHA1-Digest: L4DV8b9PZkrVNfTilOPnMMdAHPI=
 
 Name: system/etc/terminfo/z/z-100bw
 SHA1-Digest: ILcQkrfDrvvTtiipFNcoOiLtQ8o=
@@ -9824,26 +9353,23 @@ SHA1-Digest: nF0G7xRsRIuWAV88MnN3+ec6xhk=
 Name: system/etc/terminfo/d/d461-7b-w
 SHA1-Digest: DVjhK/T6gMCerw6o33oMBoVbhiQ=
 
-Name: system/app/LiveWallpapersPicker.apk
-SHA1-Digest: iVMnYtvGOvRsqmZ0KBRVOiiinbA=
-
 Name: system/etc/terminfo/h/hp262x
 SHA1-Digest: G6WzMvRt+GG0B+N+2FFvoDiqsYs=
+
+Name: system/app/LiveWallpapersPicker.apk
+SHA1-Digest: OLYl1iUWE4TXjarcldWvf6YebBs=
 
 Name: system/etc/terminfo/a/att4425-w
 SHA1-Digest: mW/+ig1IkVFUPPYcrcJujurPruA=
 
-Name: system/media/audio/ringtones/OrganDub.ogg
-SHA1-Digest: fA1t9jwv37dc+PhyZu4w68HGLnI=
+Name: system/etc/terminfo/h/hp2648
+SHA1-Digest: otklaDQ3JlbPnTAeAKtd11zP1bw=
+
+Name: system/bin/pppd
+SHA1-Digest: z8D88XSQ6WnBzu7ealz3WNmVpMk=
 
 Name: system/etc/terminfo/w/wyse520-48w
 SHA1-Digest: X4Da056fVNX/8Tgfv61a5hyDYvE=
-
-Name: system/bin/pppd
-SHA1-Digest: e1fmCtq4HJsFyH3EnISHxfHA3VE=
-
-Name: system/etc/terminfo/h/hp2648
-SHA1-Digest: otklaDQ3JlbPnTAeAKtd11zP1bw=
 
 Name: system/etc/terminfo/t/ttydmd
 SHA1-Digest: 3E04Q5bsiZnQblpZmoSyCH2HVM4=
@@ -9870,11 +9396,11 @@ SHA1-Digest: 6bSwotsGap6jXvcDnbnODvgPUDk=
 Name: system/etc/terminfo/d/d577-w
 SHA1-Digest: pHcPNwOGwzlMwTlKG2JVGe9gxdo=
 
-Name: system/etc/terminfo/t/tab132
-SHA1-Digest: z85fC1bcw0qOS+PMgGesIllGtpw=
-
 Name: system/lib/libmalgss.so
 SHA1-Digest: ELLRJZCGurDzlBrusbvkb2lRZys=
+
+Name: system/etc/terminfo/t/tab132
+SHA1-Digest: z85fC1bcw0qOS+PMgGesIllGtpw=
 
 Name: system/etc/terminfo/h/hp2640a
 SHA1-Digest: unf9+iPReX81fQll2KdUFapQnJ8=
@@ -9905,7 +9431,7 @@ Name: system/etc/terminfo/t/tvi803
 SHA1-Digest: IaNcTPAVXRwisV0arw3tPX+YbWs=
 
 Name: system/app/Mms.apk
-SHA1-Digest: ErfS5QsvgIocMv/eRlLcb5dzB9w=
+SHA1-Digest: yWiBm7am6rDpqA8BQnyoYOSC1Zs=
 
 Name: system/etc/terminfo/c/cdc752
 SHA1-Digest: 9tUE4MFQ/L1agzfr7WDmJL8yWCo=
@@ -10027,7 +9553,7 @@ Name: system/etc/terminfo/x/xnuppc+80x30
 SHA1-Digest: SoVaVbF4qxifj+2E6nIi217eAkI=
 
 Name: system/lib/libmediaplayerservice.so
-SHA1-Digest: eEETxl+UklwylEHHAhnZHeFgXrc=
+SHA1-Digest: zM5AKIY04yDZjTIs3O0p3qdLR2s=
 
 Name: system/lib/libsensorservice.so
 SHA1-Digest: Byq5uYTPAl2Pj/dJbVv5BO5ScgU=
@@ -10081,9 +9607,6 @@ SHA1-Digest: vei4jTooiQp+XgZP86908envQPc=
 
 Name: system/lib/libstagefright_ste_mp3decode.so
 SHA1-Digest: Hz9jcTnpp4RBGChhs426Ovg0j0Y=
-
-Name: system/media/audio/ringtones/Draco.ogg
-SHA1-Digest: pmJddm9rBw4nYyhnulKI1rn7li0=
 
 Name: system/lib/libomxil-bellagio.so
 SHA1-Digest: ekJGexpN1BvjrYmXVCfpoqhAOn4=
@@ -10189,7 +9712,7 @@ Name: system/etc/terminfo/t/tek4109
 SHA1-Digest: lwWXRxBUI40PXkcK0/ljfG+JRlE=
 
 Name: system/lib/libcommon_time_client.so
-SHA1-Digest: Hz9cDMQvXWYuSSkBPArRAegQeDc=
+SHA1-Digest: xfpFno8uwDp/0/G0g4dZeQEkuYo=
 
 Name: system/etc/terminfo/t/tek4107
 SHA1-Digest: HQMpBmzk1Pnr3XdNjeTlYD/psro=
@@ -10287,7 +9810,7 @@ Name: system/etc/terminfo/m/mt4520-rv
 SHA1-Digest: m0iHFiZDVPDi42euoIg6ygq35DE=
 
 Name: system/bin/wpa_supplicant
-SHA1-Digest: RwPKC72z/EuSd+G5hYtiK80oGXo=
+SHA1-Digest: +1LRxkba03bMic62+FGPOJaLjm8=
 
 Name: system/etc/terminfo/d/d430-unix-25-ccc
 SHA1-Digest: aTyvJdbhRkilPHMxunhUYvQ0y0Q=
@@ -10321,9 +9844,6 @@ SHA1-Digest: S+xr45+8kXD74ZVO8F7dY3Q0Vew=
 
 Name: system/lib/libmalmon.so
 SHA1-Digest: Wb4zs0lJhKux6x2zBFs9bvrKpoY=
-
-Name: system/media/audio/ui/KeypressReturn.ogg
-SHA1-Digest: pk3N09OR9FBAMllUJMQwtCeR4D0=
 
 Name: system/usr/srec/config/en.us/baseline.par
 SHA1-Digest: M4pck9N5JkEe9alJyTrxUpaKRd8=
@@ -10400,7 +9920,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/pcm_splitter/nmfil
 SHA1-Digest: 86gBlP24gTKs/vWlgKc3Z2yvh4o=
 
 Name: system/lib/libssl.so
-SHA1-Digest: a5uTLCJBSgkTBWj7AcV+XJ3eXLg=
+SHA1-Digest: zOGYddM91LZjx5GJQyofR5v8MgQ=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/samplerateconv
  /nmfil/wrapper/configure.elf4nmf
@@ -10444,16 +9964,16 @@ Name: system/xbin/hcitool
 SHA1-Digest: 3eRYd5wsbbDJNWul9EwPg2O8Kuk=
 
 Name: system/framework/framework-res.apk
-SHA1-Digest: VkPfQZHyusjYDpY61OvxkGhOAbs=
+SHA1-Digest: uvyLd9RttRl+ErlI2PjL7dfOpwg=
 
 Name: system/etc/terminfo/w/wyse60-PC
 SHA1-Digest: xKFao4I2td4DBZFY9PiRB2EpRyc=
 
 Name: system/framework/javax.obex.jar
-SHA1-Digest: 5NtkwoyWdoymEnWXymlLToZnsU0=
+SHA1-Digest: LT4tPNupGDU0YkHlC8OmDKFWgLM=
 
 Name: system/lib/libicui18n.so
-SHA1-Digest: EiVU89rc7fXshMomzR7W/Kb2efg=
+SHA1-Digest: XwxjK0NDCsNMHeBXZNamklFOzQg=
 
 Name: system/etc/security/cacerts/e8651083.0
 SHA1-Digest: pTCqliEJ3Q0TNsBDd6B+1e0I5nU=
@@ -10468,7 +9988,7 @@ Name: system/bin/dnsmasq
 SHA1-Digest: 0CPlbH5FIBjuVrbA2Ap5B/cek6c=
 
 Name: system/lib/libglib.so
-SHA1-Digest: eL3lduWgKRSsmESa0lvir28pYpI=
+SHA1-Digest: 0bm5RlMM2Xw+lrvDWDriEugnnrI=
 
 Name: system/etc/terminfo/w/wy325-42w
 SHA1-Digest: b9Bfj8XOXWQAZxsbY7tKGb8j7GQ=
@@ -10487,16 +10007,13 @@ Name: system/bin/content
 SHA1-Digest: PyF7E/iuWk4+agaPGfAomR/pre4=
 
 Name: system/lib/invoke_mock_media_player.so
-SHA1-Digest: cFJthWSx1XinotfWgiXpnMSSwRE=
+SHA1-Digest: 7Qoo1n7BO3lPGEM5yNasiNbhR1Q=
 
 Name: system/etc/terminfo/n/nansisys
 SHA1-Digest: rJhQTrIfSyKsVufh43P1rgf/BQg=
 
 Name: system/etc/terminfo/w/wy325-43w
 SHA1-Digest: eI/4sCOSJx+8uzi8929fcdhVw50=
-
-Name: system/media/audio/notifications/CyanMail.ogg
-SHA1-Digest: XFS/ewHvQaSbKjdXTHx7pw99iNs=
 
 Name: system/etc/terminfo/l/lisaterm-w
 SHA1-Digest: dTPXD49PWcZ2IOJu5ym+t4c6p2o=
@@ -10527,7 +10044,7 @@ Name: system/etc/terminfo/Q/Q310-vip-w-am
 SHA1-Digest: RPLE593YeHogHAlPRbMVPjQsNWE=
 
 Name: system/framework/core-junit.jar
-SHA1-Digest: rY0kH5uQ0jMTOkd5hzJaLNGkSJg=
+SHA1-Digest: u3weElDAyJYFifwy/diRBapNgUk=
 
 Name: system/etc/terminfo/d/d462+
 SHA1-Digest: fsBHt89Xj0X/5vWFNWocSioyaNk=
@@ -10551,17 +10068,8 @@ SHA1-Digest: sDG432e6imnakWTq0ykiK5SQqco=
 Name: system/etc/terminfo/z/z50
 SHA1-Digest: e60zVD6TG11OtFRwOgg7egKT/0w=
 
-Name: system/media/audio/notifications/Hojus.ogg
-SHA1-Digest: 19TUZIZI/eJ2TdOlR1slPdtL3uI=
-
-Name: system/media/audio/ringtones/Raindance.ogg
-SHA1-Digest: KgzEF3UeCo092xJXMHvjfs1LWgA=
-
 Name: system/etc/terminfo/w/wren
 SHA1-Digest: VDSBVXH88CuJuBKR7FkkQG3FM8w=
-
-Name: system/lib/modules/nls_utf8.ko
-SHA1-Digest: 3LuLXLuhduX3wDN06oHzP/GlyqY=
 
 Name: system/etc/terminfo/f/f100-rv
 SHA1-Digest: ApwefWYn/LCuVOxUBXxEQ3uY8wY=
@@ -10610,7 +10118,7 @@ Name: system/etc/terminfo/f/fenix
 SHA1-Digest: FnAJj6gbBYVEB7tsQTgC9oJMKt4=
 
 Name: system/bin/skia_test
-SHA1-Digest: LZNuW5C16xB4jKxD4ERhuBwBORc=
+SHA1-Digest: NfHerCFq3oc+kkYzRCrzC0RnV60=
 
 Name: system/etc/terminfo/c/cit-80
 SHA1-Digest: SqIuBDF7vCZR1O3+4VdhlZWBoR8=
@@ -10623,9 +10131,6 @@ SHA1-Digest: VQITBmg6d8Fwvev2KS1BVhrDd90=
 
 Name: system/etc/security/cacerts/f61bff45.0
 SHA1-Digest: T+qB4/2WaUuV16PYtu7WwP3b0gE=
-
-Name: system/media/audio/ringtones/VeryAlarmed.ogg
-SHA1-Digest: zYiq7CqOHhrF8uBC9lgiZWeJfsM=
 
 Name: system/fonts/RobotoCondensed-BoldItalic.ttf
 SHA1-Digest: V7BP9MVj0P5pYIh0SmIaP/EMkQo=
@@ -10744,14 +10249,11 @@ SHA1-Digest: UgmvwpnqXlUsSE+xN4rIH+70F3Y=
 Name: system/etc/terminfo/p/pty
 SHA1-Digest: UxCJEAM+U27tPcxZidaA9FIsK+c=
 
-Name: system/media/audio/ringtones/Vespa.ogg
-SHA1-Digest: gOOMfFmiWMspqgHGwABknxB9sYg=
-
 Name: system/xbin/latencytop
 SHA1-Digest: nhodB44RL3cDFMC3h9aesSivJ6Y=
 
 Name: system/app/Calculator.apk
-SHA1-Digest: kkaAc/clJlVgIFAjhutYXFzz9n4=
+SHA1-Digest: JbbQ0e0RBx6cipAjKGnAIm7iDB0=
 
 Name: system/lib/tee/suntory_core_ta_test.ssw
 SHA1-Digest: DnSd5wpgKFKL7jd/7bjTzeV1TuM=
@@ -10774,9 +10276,6 @@ SHA1-Digest: F6E1cHKzZZhwKV6GSDJSv80DEBY=
 
 Name: system/etc/terminfo/d/d230c
 SHA1-Digest: qc0xQBcgkZ1EXuTIPbAAZZFq/Pg=
-
-Name: system/media/audio/ringtones/Silmarillia.ogg
-SHA1-Digest: Hu8yqooa6VQA52C/vgREpHy1eUc=
 
 Name: system/etc/terminfo/d/dku7103-sna
 SHA1-Digest: LbnVvAD56mJqE4Sbhwxm+WgKmkc=
@@ -10851,9 +10350,6 @@ SHA1-Digest: 0LMTRtBfDk8yaMrdF/80HWQWEUg=
 Name: system/etc/terminfo/a/ansi-nt
 SHA1-Digest: vqi2rCbypDqpmCtXMs6fsiB56Qk=
 
-Name: system/app/MediaUploader.apk
-SHA1-Digest: GUYhFJuOgVHYUbQ/Nkp26Azz4/w=
-
 Name: system/etc/terminfo/d/ds40
 SHA1-Digest: qKA32VtgmMvnjakSZh+YqJzbOCU=
 
@@ -10876,9 +10372,6 @@ SHA1-Digest: BCzA/FzyJR8K+eRx1A+C2O/u/9Y=
 Name: system/etc/terminfo/d/dg100
 SHA1-Digest: zIykpR8tONLQyiJfYDEi2ybuuLQ=
 
-Name: system/media/audio/notifications/Upsilon.ogg
-SHA1-Digest: 0xRg1iAo2vdE07toxCpysUkgTDw=
-
 Name: system/etc/terminfo/w/wy60-25-w
 SHA1-Digest: wfbMda0XhkG9pp1hLTCvQxC1ZMs=
 
@@ -10886,10 +10379,10 @@ Name: system/etc/terminfo/k/konsole-base
 SHA1-Digest: ilEsv8N0h3cHF4TYcSoYIu6ioHc=
 
 Name: system/usr/share/camera/tuning/TunStiCap-010045.xml
-SHA1-Digest: QtH+NGrj8sORiWg5TX4ZFkTZ+ms=
+SHA1-Digest: Eu/exEznFklPs9arnFUHlHDYhp0=
 
 Name: system/app/Phone.apk
-SHA1-Digest: vyqqRu/kHXn3s9yMjpyJhttvvb0=
+SHA1-Digest: /1dvbqEn+vieBTjVF5b+0T9JRTY=
 
 Name: system/etc/terminfo/a/awsc
 SHA1-Digest: iSFGcj+gRpBXDDfOk1qkVhflm5c=
@@ -10903,7 +10396,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/amr/nmfil/deco
 SHA1-Digest: os7apq8yvQoRdZ3JhuiOQjmTkio=
 
 Name: system/etc/wifi/hostapd.conf
-SHA1-Digest: xgY571r0q3SLPAiD3z+KfwwmX+M=
+SHA1-Digest: OWoiUIgmYdrjggvsVnWXiPeTTKg=
 
 Name: system/etc/terminfo/m/minitel
 SHA1-Digest: YpAioFN6d/j+BrVwoJ8AcpLOf/Q=
@@ -10931,7 +10424,7 @@ Name: system/etc/terminfo/c/ctrm
 SHA1-Digest: SnQY3PAdHhOU5Ab5xF75XwTU/qs=
 
 Name: system/framework/android.policy.jar
-SHA1-Digest: EPzo7SHKRD9RQvBp6HUujERPEvs=
+SHA1-Digest: /iquBaSg2n9L+Tr1C7HPx854e/M=
 
 Name: system/etc/terminfo/c/cit101e
 SHA1-Digest: MfYT5v76VOxHeal7K09z33X0tvE=
@@ -10955,10 +10448,7 @@ Name: system/etc/terminfo/w/wy160-43
 SHA1-Digest: MylTCyBD6ymqpHrhJg60v4S/h7s=
 
 Name: system/bin/recordvideo
-SHA1-Digest: xSAXI0sLPIjCIuPI7j5EPmE0qdM=
-
-Name: system/media/audio/ui/KeypressStandard.ogg
-SHA1-Digest: /oRmB49FY6MW7i/SbpJLBIbxhNQ=
+SHA1-Digest: Ilt4yE2v8qPmPgyZ3WQ3F92eSYA=
 
 Name: system/lib/ste_omxcomponents/libste_audio_source_sink.so
 SHA1-Digest: uQlO8L72XE/sQZBiguHPYD65HZg=
@@ -10968,6 +10458,9 @@ SHA1-Digest: tXHYCEsODyrzHoMXiy3Wu6sEc40=
 
 Name: system/lib/libeffects.so
 SHA1-Digest: NjbNh7YNqnO9lVK8kvXTBHj4+9U=
+
+Name: system/media/video/Sunset.240p.mp4
+SHA1-Digest: JVoUckdxqpPa9mkbaboBnyewvZg=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/mpeg4enc/mpc/a
  pi/end_algo.elf4nmf
@@ -10980,7 +10473,7 @@ Name: system/etc/terminfo/n/ncr160vt300pp
 SHA1-Digest: 7FBJO4HvUy42je0MieCHWNJ2qn8=
 
 Name: system/lib/libchromium_net.so
-SHA1-Digest: N+lgNFmptP18CPqhzAqkNW+hxtE=
+SHA1-Digest: nGb/ZP7gOEE+1RW6A5c/iDkvhTk=
 
 Name: system/etc/terminfo/c/cci
 SHA1-Digest: gPk7ok5+Qaiq2QT+Eg8Z1PmDdkM=
@@ -11009,9 +10502,6 @@ SHA1-Digest: eMrxcVLicJYBUIdU2FDmJfshBVM=
 
 Name: system/fonts/Roboto-LightItalic.ttf
 SHA1-Digest: /WLukeHzJHHKYaWWlSfU7iLz6Ug=
-
-Name: system/media/audio/notifications/Selenium.ogg
-SHA1-Digest: RbbOxjmU0z7P66MvM/UwU0Unp18=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/mpeg4dec/mpc/a
  pi/fillthisheader.elf4nmf
@@ -11054,9 +10544,6 @@ SHA1-Digest: n3bzg8K5bD8w4yGFJSki+vVIDiw=
 Name: system/etc/terminfo/v/vi500
 SHA1-Digest: FiX7LrN91yYbftGk6IcEUXwhhlA=
 
-Name: system/media/audio/ringtones/Testudo.ogg
-SHA1-Digest: 2UH+r2azDvI+IB5UJJ6am05GWoI=
-
 Name: system/usr/keylayout/STMPE-keypad.kl
 SHA1-Digest: XaGe3p8dibmvZlvew05DUbtsJXc=
 
@@ -11086,20 +10573,17 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/speech_proc/nm
  f/common/hybrid_fillthisbuffer.elf4nmf
 SHA1-Digest: sy4cwN5XSiln/nfaW9YKU1INwnA=
 
-Name: system/media/audio/ringtones/Gigolo.ogg
-SHA1-Digest: CBliZUVG4oOf8je8xYqexMBpGFk=
-
 Name: system/etc/terminfo/a/att610-103k
 SHA1-Digest: Qn5Lisngb8n/sZaWwvqMjZ8inAQ=
 
 Name: system/etc/terminfo/A/Apple_Terminal
 SHA1-Digest: 2fwRlXSMX7a95XBPOHGWb84F8yA=
 
-Name: system/bin/setup_fs
-SHA1-Digest: AALq3UB1wuJ+Vc/BUgPbqPo7DoU=
-
 Name: system/bin/ste_omxil_test
 SHA1-Digest: HWp9Kb2N2Jz1V0IBAIvJcpz6Vwc=
+
+Name: system/bin/setup_fs
+SHA1-Digest: AALq3UB1wuJ+Vc/BUgPbqPo7DoU=
 
 Name: system/etc/firmware/cg2900_fm_ext_src_coeff_info.fw
 SHA1-Digest: yCAxOOEtnWty5QMWEm5BnbeSehY=
@@ -11108,7 +10592,7 @@ Name: system/etc/terminfo/p/pt100w
 SHA1-Digest: vIz2GxSfmgchiZTe7ZjQSZj4Y44=
 
 Name: system/framework/com.android.location.provider.jar
-SHA1-Digest: xZ611ldZlNRl3tGKPfKdYU2J2zc=
+SHA1-Digest: 2MDhKkcud1XGAoPuyjDGYEPkae0=
 
 Name: system/etc/terminfo/p/pcansi-43-m
 SHA1-Digest: y7pKJg+6Yk9lr5ufte0Gx1wd7yI=
@@ -11193,9 +10677,6 @@ SHA1-Digest: HiQ2CDApG4yRqYEA+U6bT2Tm4aw=
 Name: system/etc/terminfo/w/wy50-mc
 SHA1-Digest: j69AK+NSuBd1iX+/RNzBVOItD90=
 
-Name: system/media/audio/ringtones/House_of_house.ogg
-SHA1-Digest: CuOs2yrPCZM4ERJq+7ClTu9YLtc=
-
 Name: system/etc/terminfo/a/adm5
 SHA1-Digest: IZeZCSkxon39ATv6jQOGrQTaEpw=
 
@@ -11255,7 +10736,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/jpegdec/mpc/ap
 SHA1-Digest: +71USJ7Ein3pq70w42jo+wN/sKA=
 
 Name: system/lib/modules/cw1200_wlan.ko
-SHA1-Digest: sM0gV/Yby02JqFdWc8cRJ3UfEd4=
+SHA1-Digest: cMkk+DFK4QpZ2R22wQ00cUScCFc=
 
 Name: system/etc/terminfo/x/xfce
 SHA1-Digest: 6+fRB4lKP2QCJbBNbLPTkKdu80w=
@@ -11325,9 +10806,6 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/h264dec/mpc/dd
  ep/api/start_codec.elf4nmf
 SHA1-Digest: +POedFrr/BPPa0RFMzOk4R80rd8=
 
-Name: system/media/audio/ringtones/UrsaMinor.ogg
-SHA1-Digest: uSdK8kCZfVuz+mlm/w8xp7HLIN0=
-
 Name: system/etc/terminfo/p/prism7
 SHA1-Digest: Jm9llnp+wIg21npVsIQAqN781Ak=
 
@@ -11379,7 +10857,7 @@ Name: system/etc/terminfo/h/h-100
 SHA1-Digest: kEuCPesRjv7wO0/lYrVA6P+00fA=
 
 Name: system/usr/share/camera/tuning/TunStiCap-020045.xml
-SHA1-Digest: D+RibDFm4lRZFF+WbhEJnDbdOvQ=
+SHA1-Digest: gBrgj07UmVmPk+rlpFKrRYlexXM=
 
 Name: system/etc/terminfo/n/news-33-euc
 SHA1-Digest: LKwRLxRDxilaIZqOow/l/n6QqVw=
@@ -11416,9 +10894,6 @@ SHA1-Digest: qDnp9jSg87UBq341ihCDwnYeRQA=
 
 Name: system/etc/terminfo/w/wy99gt-tek
 SHA1-Digest: GpaaLYzM9ioMznQoZtkxMSgPLDo=
-
-Name: system/media/audio/notifications/CetiAlpha.ogg
-SHA1-Digest: LNiMC1qc/7XTuVgbF/U6Nwssyho=
 
 Name: system/etc/terminfo/r/rxvt-basic
 SHA1-Digest: WrAJ7Mba/5D/VXdR+0yzl7gpmzY=
@@ -11488,9 +10963,6 @@ SHA1-Digest: 5MydKTBxfLQr8V5XO4PycHh7jQI=
 Name: system/etc/terminfo/c/cons50-koi8r
 SHA1-Digest: UxjaOrW1DAn3Myyn5RW77oONIuk=
 
-Name: system/media/audio/notifications/Betelgeuse.ogg
-SHA1-Digest: FwtSwCHX+N5ACbqjXmNRZsrXE5Q=
-
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/comfortnoise/nmfil
  /effect.elf4nmf
 SHA1-Digest: MzZNwYFyRmESgj6X1qL+sz5J9uI=
@@ -11556,9 +11028,6 @@ SHA1-Digest: Qoq/LW10eE5nZRjEh8/mFdrR4E4=
 Name: system/etc/terminfo/x/xterm+sl-twm
 SHA1-Digest: xeCoHyJEOfTgF2jxCF0ptaulFaI=
 
-Name: system/media/audio/alarms/Nobelium.ogg
-SHA1-Digest: LrLESOq9CE3s2jIPgfFCWWZRM9c=
-
 Name: system/etc/terminfo/c/cad68-2
 SHA1-Digest: 1fVQA5353V4ovQKkNFHeBSNC8rQ=
 
@@ -11576,9 +11045,6 @@ SHA1-Digest: YT6WxuEpY0LYJpK6QnljJIFc8Ec=
 
 Name: system/etc/terminfo/k/k45
 SHA1-Digest: 3PjXiPh5RhKD3q8F2VCCOY3iYcw=
-
-Name: system/media/audio/ringtones/Cygnus.ogg
-SHA1-Digest: b3xfDigizmVwNegVqgDdvWS0F8w=
 
 Name: system/etc/terminfo/t/tvi925
 SHA1-Digest: M6Uc3WVd0DJmIh/GEmI5sOEjqoo=
@@ -11649,6 +11115,9 @@ SHA1-Digest: QR7Ut9EGDpovlp0SQ0asGEz91P0=
 Name: system/etc/terminfo/a/altos4
 SHA1-Digest: /4UJblnzuOJ6+g3x23AB+P/Vumw=
 
+Name: system/lib/libfrsdk.so
+SHA1-Digest: 3QA/ZdjbKUReRdWL+NrqOJGSmOI=
+
 Name: system/etc/terminfo/w/wy185-vb
 SHA1-Digest: XuFMxShw+mHG3UBnMibX/lEWjds=
 
@@ -11698,7 +11167,7 @@ Name: system/etc/terminfo/d/dku7102-old
 SHA1-Digest: YSXy7GuMZQdtonF1LV4DTB2Cy5Y=
 
 Name: system/lib/librtp_jni.so
-SHA1-Digest: ZoEMny+iNMX10i85UKfa7afWNks=
+SHA1-Digest: qwDzljzRSOT7By5H+vNIuEOu4Bc=
 
 Name: system/etc/firmware/FM_FW_CG2910_1_0_P1_4_lut.fw
 SHA1-Digest: kaW8dVVdiVfTJUrbX8PAl19Gbnc=
@@ -11735,7 +11204,7 @@ Name: system/etc/terminfo/x/xnuppc-112x37-m
 SHA1-Digest: iDvMnI+tejQLXcaGQY4AD/b+NAg=
 
 Name: system/etc/media_profiles.xml
-SHA1-Digest: 2tPGBRajRXw9oLl4Cz2AQgBTjnw=
+SHA1-Digest: GJnvdJch0ffLnJTGshDvmBSiPKo=
 
 Name: system/etc/terminfo/d/d577-7b
 SHA1-Digest: pItSeJdUwz0CqDJurDM1J6KuxLI=
@@ -11774,14 +11243,11 @@ SHA1-Digest: GpSV+Fq74aEOkJXCDzLgtFc7su4=
 Name: system/etc/terminfo/h/hp2624b-4p-p
 SHA1-Digest: UAEq5jsmR0whLmza8Qk/Ah240js=
 
-Name: system/media/audio/ui/Lock.ogg
-SHA1-Digest: azNjH9EbWKEBPRTluvexApZNjKQ=
-
 Name: system/etc/terminfo/t/tek4207
 SHA1-Digest: d9iAK1o9v4Ek8Hv615rbhoqZOik=
 
 Name: system/framework/ime.jar
-SHA1-Digest: J0/4zqWtSl4ghtbnGStTW4/ES+s=
+SHA1-Digest: N18+KKBVMsBykQsu/NvpRmnLcFE=
 
 Name: system/etc/terminfo/t/tek4205
 SHA1-Digest: uiqYr+nBhkS9taXo1IV1RXygUbU=
@@ -11820,6 +11286,9 @@ SHA1-Digest: tZeFS/rQKxF8tf95ZPAOQ0k+7kw=
 
 Name: system/lib/ste_omxcomponents/libste_enc_jpeg.so
 SHA1-Digest: akJkPNVGFgFmp0S4/0cifc+4vkw=
+
+Name: system/lib/libflint_engine_jni_api.so
+SHA1-Digest: qaGhBDsQShQzhw0DyZT3oGflwdY=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/vc1dec/mpc/dde
  p/api/end_codec.elf4nmf
@@ -11872,7 +11341,7 @@ Name: system/etc/terminfo/x/xterm1
 SHA1-Digest: OQP/K7e+9ifx2sDQTmjn/FZrgew=
 
 Name: system/app/DefaultContainerService.apk
-SHA1-Digest: PaUmrSwIm2jQK2UJIk1vHI+KREk=
+SHA1-Digest: PONs4zSRSqXu3GAHZ+uQrMFiRmc=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_ev/grab/api/alert
  .elf4nmf
@@ -11900,7 +11369,7 @@ Name: system/etc/terminfo/d/dp3360
 SHA1-Digest: 8R3IMYT9oTJHFrjMWdbG5/5kVds=
 
 Name: system/usr/share/camera/tuning/TunCommon-020045.xml
-SHA1-Digest: EWTrq5PpTIy/IJoHK5jw9HR9FUM=
+SHA1-Digest: 8cctPHlazFLpu96RqIXZmTWLgAM=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/emptythisbuffe
  r.elf4nmf
@@ -11923,9 +11392,6 @@ SHA1-Digest: dKHL3H3VfKq68k2OldYBB/EaRKA=
 
 Name: system/etc/terminfo/a/altos-4
 SHA1-Digest: o8ifnO0lw/vf4u1tW5NQ9iHPLOQ=
-
-Name: system/media/audio/ringtones/Iridium.ogg
-SHA1-Digest: XfEoxYZXDdQceT6NxhZ7Bxe0kjM=
 
 Name: system/etc/terminfo/a/altos-5
 SHA1-Digest: X1fNyQscmoUxvIKiQWXDCRB5Hoo=
@@ -11971,16 +11437,13 @@ Name: system/etc/terminfo/a/act5
 SHA1-Digest: 89b0ArpJTuMKNMVCtb8gebA8n+Y=
 
 Name: system/framework/services.jar
-SHA1-Digest: +JsA3gGjMGR2qXWOvcO5pNaXBZ8=
+SHA1-Digest: 8rRjfmUaaw40SnLl8B60kcw9gCE=
 
 Name: system/bin/hostapd_cli
 SHA1-Digest: 8ILS4pOfYfmR+iajTztRduldE6U=
 
 Name: system/etc/terminfo/d/d470-dg
 SHA1-Digest: WNPS0Z/w/g+t7Id341BBzuZUQKc=
-
-Name: system/media/audio/notifications/Tejat.ogg
-SHA1-Digest: Y1lhAFotA2tk8zvmsQpX9rIGviA=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_sk/ispctl/api/cfg
  .elf4nmf
@@ -12019,7 +11482,7 @@ Name: system/etc/terminfo/t/tty5620-34
 SHA1-Digest: sTIK6PeHNNS4yrVmY4jwGlPlr9k=
 
 Name: boot.img
-SHA1-Digest: uXZ/wnuL8ZEI7JfJSV5G5nhpleo=
+SHA1-Digest: 0W9pQjiilnctxKOCYaf6TR+eZOQ=
 
 Name: system/lib/libsqlite.so
 SHA1-Digest: +e5kWnGkxWbL66xtbssMkdgSn8A=
@@ -12095,17 +11558,11 @@ SHA1-Digest: tqH6NYT+Dz7nXah/FjDlDFAqB64=
 Name: system/etc/terminfo/n/nsterm-m-s-acs
 SHA1-Digest: L1O9jgnbKNjHrCtiVKsKNbgPWuw=
 
-Name: system/app/GooglePartnerSetup.apk
-SHA1-Digest: NXu5Bd9jlXzW3raGro8ovYjKYEc=
-
 Name: system/lib/libclcore_neon.bc
 SHA1-Digest: IgUoLVtkK8FeBYy6FgG/wABo8aU=
 
 Name: system/etc/terminfo/e/excel62-rv
 SHA1-Digest: QSnmlQYH9DE4a5ON0YBWKUH4WNI=
-
-Name: system/media/audio/notifications/Antimony.ogg
-SHA1-Digest: D5l76aIRj1GlyI63AESbQyN5QS4=
 
 Name: system/etc/terminfo/w/wyse60-43
 SHA1-Digest: Kzu18JmtrVsA7KGO7ebxERAmItk=
@@ -12122,6 +11579,9 @@ SHA1-Digest: bjXEUfr0MANqEpy6XiX2w5nzlXQ=
 
 Name: system/etc/terminfo/d/dt80-sas
 SHA1-Digest: nt7V6FNMn+gZqDoLg4wTTzArjOI=
+
+Name: system/app/SpeechRecorder.apk
+SHA1-Digest: Ea9QREOCbKQu97UMznqROelwl4Y=
 
 Name: system/app/DeskClock.apk
 SHA1-Digest: jHnpIV2LgI5Fs7qvnMhXLEtkdag=
@@ -12196,7 +11656,7 @@ Name: system/usr/share/nmf/repository/mmdsp_8500_v2/speech_proc/nmf/mp
 SHA1-Digest: GS5Rp9lyuk7wjeUX3Tdzd8Z0g1E=
 
 Name: system/bin/toolbox
-SHA1-Digest: EPI4CiOFEzgDEHXANqFn/4DUyM0=
+SHA1-Digest: bXJuIFWbeh3am4vNmeakfrCos5s=
 
 Name: system/etc/security/cacerts/eb375c3e.0
 SHA1-Digest: 9jrnwjglpn8uhR8xCTFy4wec+Ww=
@@ -12269,7 +11729,7 @@ Name: system/etc/terminfo/z/z100bw
 SHA1-Digest: tZemmOzKCjB7mXIkZPQAfzn3bbc=
 
 Name: system/xbin/check-lost+found
-SHA1-Digest: n/rL64HpMWUVpeElJA5gYS09bHM=
+SHA1-Digest: ShZcjjBUOW4aH4LW1k/SXZk24oU=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/audiocodec/mpc/dma
  in.elf4nmf
@@ -12292,9 +11752,6 @@ SHA1-Digest: GSxxRCAR7hBQwREZwEpO0oOpS74=
 
 Name: system/etc/terminfo/s/sun-17
 SHA1-Digest: aYe/X5kILTp1kVmvtylSGFjF2EI=
-
-Name: system/media/audio/ringtones/Bootes.ogg
-SHA1-Digest: NIarMT/HYax4H2jBFmvMYkEYJYo=
 
 Name: system/etc/terminfo/g/guru-76-w
 SHA1-Digest: +r/R2jg/iXGVvKnYc0fixhtKFAc=
@@ -12340,9 +11797,6 @@ SHA1-Digest: 0txJhpP6DYMjfFiK4K8JXzQZgwU=
 
 Name: system/etc/terminfo/t/tgtelnet
 SHA1-Digest: iYUzJ8gVKAb8/VDE7C5KFUWYE30=
-
-Name: system/app/wifix.apk
-SHA1-Digest: y2mHtSXulBT6DsVp6LRyOSNcucc=
 
 Name: system/etc/terminfo/d/d414-unix-sr
 SHA1-Digest: bcZPxZjOSr/56IwnkmzdF2AJGiU=
@@ -12393,9 +11847,6 @@ SHA1-Digest: YFQfSg2mMzP66fV8QSi4OSHVb+U=
 
 Name: system/etc/terminfo/a/att5420-w
 SHA1-Digest: qbUM9/1VLrfGICeHCOkE4D19OrA=
-
-Name: system/media/audio/ringtones/Lyra.ogg
-SHA1-Digest: LusbTG2MDm4mKgrZuFm2tZcTcfw=
 
 Name: system/etc/terminfo/s/sun-34
 SHA1-Digest: zGtbMT+PYEw75Ca7wSLVMyA5TaQ=
@@ -12456,9 +11907,6 @@ SHA1-Digest: Lkq1ONxdtvYFDYG4JvNhpZv43ng=
 Name: system/etc/terminfo/w/wyse75-vb
 SHA1-Digest: AGYx0UP8lG0zvTSXf3po843mk3M=
 
-Name: system/media/audio/ui/KeypressDelete.ogg
-SHA1-Digest: rHaAv/O1awleMzKiLfoGrdUzgqo=
-
 Name: system/etc/terminfo/m/mgterm
 SHA1-Digest: 0wL/x9W0+m/Ids8r/Nj4ugjjhDM=
 
@@ -12484,13 +11932,10 @@ Name: system/etc/terminfo/m/mgr-linux
 SHA1-Digest: cW1/GgI7m43g6OK50y2jp9xXiJk=
 
 Name: system/bin/adb
-SHA1-Digest: PqxQlsrMpKqoFNtDNJ9qcmchFLw=
+SHA1-Digest: +El1YZu+ELjjId+7/gY88H0Q1NU=
 
 Name: system/etc/terminfo/a/apple-vm80
 SHA1-Digest: 16aaP9y7d0yo3MJgIkQhl2aD6Ag=
-
-Name: system/media/audio/ringtones/Champagne_Edition.ogg
-SHA1-Digest: KaFzJPyp372kwnqo9vH86gUKibA=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/grabctl/api/er
  ror.elf4nmf
@@ -12527,7 +11972,7 @@ Name: system/etc/terminfo/n/ncr160vt100pp
 SHA1-Digest: sbb14BG9fSQl1NPn4riZ5yriKno=
 
 Name: system/app/Bluetooth.apk
-SHA1-Digest: hrWCKFMb8m/MVwrOLyu/3F3VU74=
+SHA1-Digest: 7rqcSQzyd//+9ySALD6yI0iywjQ=
 
 Name: system/xbin/btool
 SHA1-Digest: fqcvTvhT1sCnG4+D/e28/PpnlSE=
@@ -12564,10 +12009,7 @@ Name: system/lib/libmalnet.so
 SHA1-Digest: hWWDpoKg81017BJnWJN6WwgW0GU=
 
 Name: system/app/Provision.apk
-SHA1-Digest: tqgNKhBx1u5wAvx7sLi1k6rTShE=
-
-Name: system/media/audio/ringtones/BentleyDubs.ogg
-SHA1-Digest: EJXHjT4q7bkBEuiZruNG4qMzh48=
+SHA1-Digest: rvVd4VpZ0+9odvcCc3+cI+tJAOE=
 
 Name: system/usr/share/nmf/repository/mmdsp_8500_v2/_st/requestmemory.
  elf4nmf

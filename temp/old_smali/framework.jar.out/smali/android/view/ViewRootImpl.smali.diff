@@ -1,5 +1,5 @@
-*** ./smali/android/view/ViewRootImpl.smali	2013-10-21 03:28:21.339587124 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/ViewRootImpl.smali	2013-10-21 03:30:06.743586551 +0800
+*** ./smali/android/view/ViewRootImpl.smali	2013-12-01 10:57:10.714622268 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/ViewRootImpl.smali	2013-12-01 11:02:02.732533242 +0800
 ***************
 *** 27,33 ****
           Landroid/view/ViewRootImpl$QueuedInputEvent;,

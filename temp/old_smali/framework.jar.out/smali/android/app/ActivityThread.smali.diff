@@ -1,5 +1,5 @@
-*** ./smali/android/app/ActivityThread.smali	2013-10-21 03:28:13.187587169 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/ActivityThread.smali	2013-10-21 03:29:58.003586599 +0800
+*** ./smali/android/app/ActivityThread.smali	2013-12-01 10:57:47.997863771 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/ActivityThread.smali	2013-12-01 11:02:41.583701930 +0800
 ***************
 *** 9271,9276 ****
 --- 9271,9279 ----

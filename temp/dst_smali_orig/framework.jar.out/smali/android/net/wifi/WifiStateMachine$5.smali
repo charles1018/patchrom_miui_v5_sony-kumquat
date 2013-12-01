@@ -62,7 +62,7 @@
 
     move-result-object v4
 
-    const-string v5, "wl0.1"
+    const-string v5, "wlan0"
 
     invoke-interface {v2, v3, v4, v5}, Landroid/os/INetworkManagementService;->startAccessPoint(Landroid/net/wifi/WifiConfiguration;Ljava/lang/String;Ljava/lang/String;)V
     :try_end_0
@@ -138,7 +138,7 @@
 
     move-result-object v4
 
-    const-string v5, "wl0.1"
+    const-string v5, "wlan0"
 
     invoke-interface {v2, v3, v4, v5}, Landroid/os/INetworkManagementService;->startAccessPoint(Landroid/net/wifi/WifiConfiguration;Ljava/lang/String;Ljava/lang/String;)V
     :try_end_1

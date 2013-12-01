@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/AdnRecord.smali	2013-10-21 03:28:54.195586946 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/AdnRecord.smali	2013-10-21 03:30:42.523586356 +0800
+*** ./smali/com/android/internal/telephony/AdnRecord.smali	2013-12-01 10:58:27.653050079 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/AdnRecord.smali	2013-12-01 11:03:25.770759360 +0800
 ***************
 *** 6,11 ****
 --- 6,19 ----
@@ -35,8 +35,24 @@
   
   # instance fields
 ***************
-*** 220,225 ****
---- 228,236 ----
+*** 217,225 ****
+--- 225,249 ----
+      return-void
+  .end method
+  
++ .method static callStringCompareNullEqualsEmpty(Ljava/lang/String;Ljava/lang/String;)Z
++     .locals 1
++     .parameter "s1"
++     .parameter "s2"
++ 
++     .prologue
++     invoke-static {p0, p1}, Lcom/android/internal/telephony/AdnRecord;->stringCompareNullEqualsEmpty(Ljava/lang/String;Ljava/lang/String;)Z
++ 
++     move-result v0
++ 
++     return v0
++ .end method
++ 
   .method private parseRecord([B)V
       .locals 6
       .parameter "record"
@@ -55,7 +71,7 @@
   
       if-le v2, v3, :cond_0
   
---- 258,264 ----
+--- 271,277 ----
       and-int/lit16 v2, v3, 0xff
   
       .local v2, numberLength:I
@@ -65,7 +81,7 @@
   
 ***************
 *** 299,304 ****
---- 310,319 ----
+--- 323,332 ----
   
       const-string v4, "Error parsing AdnRecord"
   
@@ -78,7 +94,7 @@
       const-string v3, ""
 ***************
 *** 436,441 ****
---- 451,459 ----
+--- 464,472 ----
   .method public buildAdnString(I)[B
       .locals 10
       .parameter "recordSize"
@@ -97,7 +113,7 @@
   
       goto :goto_1
   .end method
---- 608,618 ----
+--- 621,631 ----
       .local v2, byteTag:[B
       array-length v5, v2
   

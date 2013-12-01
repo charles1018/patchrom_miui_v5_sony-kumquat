@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/statusbar/StatusBarIcon.smali	2013-10-21 03:28:50.267586967 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/statusbar/StatusBarIcon.smali	2013-10-21 03:30:37.863586382 +0800
+*** ./smali/com/android/internal/statusbar/StatusBarIcon.smali	2013-12-01 10:58:25.125102154 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/statusbar/StatusBarIcon.smali	2013-12-01 11:03:22.750821078 +0800
 ***************
 *** 63,68 ****
 --- 63,94 ----

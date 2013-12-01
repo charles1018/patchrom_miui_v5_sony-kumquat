@@ -1,5 +1,5 @@
-*** ./smali/android/app/Notification.smali	2013-10-21 03:28:14.971587159 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/Notification.smali	2013-10-21 03:29:59.855586588 +0800
+*** ./smali/android/app/Notification.smali	2013-12-01 10:57:48.473854045 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/Notification.smali	2013-12-01 11:02:42.231688033 +0800
 ***************
 *** 95,100 ****
 --- 95,102 ----

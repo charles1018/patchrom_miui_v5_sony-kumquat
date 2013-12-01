@@ -226,7 +226,7 @@
     invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
 
     .line 211
-    .local v0, links:Ljava/util/ArrayList;,"Ljava/util/ArrayList<Landroid/text/util/LinkSpec;>;"
+    .local v0, links:Ljava/util/ArrayList;,"Ljava/util/ArrayList<Landroid/text/util/Linkify$LinkSpec;>;"
     and-int/lit8 v1, p1, 0x1
 
     if-eqz v1, :cond_2

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:sharedUserId="android.uid.system" android:versionCode="16" android:versionName="4.1.2-eng.DevSwift1.20130825.124703" android:sharedUserLabel="@string/android_system_label" package="android" coreApp="true"
+<manifest android:sharedUserId="android.uid.system" android:versionCode="16" android:versionName="4.1.2-eng.DevSwift1.20131126.171818" android:sharedUserLabel="@string/android_system_label" package="android" coreApp="true"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <eat-comment />
     <protected-broadcast android:name="android.intent.action.SCREEN_OFF" />

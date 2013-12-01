@@ -1,5 +1,5 @@
-*** ./smali/android/widget/DatePicker.smali	2013-10-21 03:27:39.271587353 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/DatePicker.smali	2013-10-21 03:29:20.691586801 +0800
+*** ./smali/android/widget/DatePicker.smali	2013-12-01 10:57:57.529668819 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/DatePicker.smali	2013-12-01 11:02:52.907458890 +0800
 ***************
 *** 7,13 ****
   .annotation system Ldalvik/annotation/MemberClasses;
@@ -297,8 +297,46 @@
       .locals 2
       .parameter "root"
 ***************
+*** 1390,1396 ****
+  .end method
+  
+  .method private updateSpinners()V
+!     .locals 8
+  
+      .prologue
+      const/4 v3, 0x0
+--- 1537,1543 ----
+  .end method
+  
+  .method private updateSpinners()V
+!     .locals 10
+  
+      .prologue
+      const/4 v3, 0x0
+***************
+*** 1466,1471 ****
+--- 1613,1630 ----
+      invoke-virtual {v1, v4}, Landroid/widget/NumberPicker;->setWrapSelectorWheel(Z)V
+  
+      :goto_0
++     iget-object v1, p0, Landroid/widget/DatePicker;->mCurrentDate:Ljava/util/Calendar;
++ 
++     iget-object v2, p0, Landroid/widget/DatePicker;->mMinDate:Ljava/util/Calendar;
++ 
++     iget-object v3, p0, Landroid/widget/DatePicker;->mMaxDate:Ljava/util/Calendar;
++ 
++     iget-object v8, p0, Landroid/widget/DatePicker;->mMonthSpinner:Landroid/widget/NumberPicker;
++ 
++     iget-object v9, p0, Landroid/widget/DatePicker;->mDaySpinner:Landroid/widget/NumberPicker;
++ 
++     invoke-static {v1, v2, v3, v8, v9}, Landroid/widget/DatePicker$Injector;->updateSpinners(Ljava/util/Calendar;Ljava/util/Calendar;Ljava/util/Calendar;Landroid/widget/NumberPicker;Landroid/widget/NumberPicker;)V
++ 
+      iget-object v1, p0, Landroid/widget/DatePicker;->mShortMonths:[Ljava/lang/String;
+  
+      iget-object v2, p0, Landroid/widget/DatePicker;->mMonthSpinner:Landroid/widget/NumberPicker;
+***************
 *** 2246,2248 ****
---- 2393,2494 ----
+--- 2405,2506 ----
   
       goto :goto_0
   .end method
@@ -401,4 +439,3 @@
 + 
 +     throw v0
 + .end method
-\ 文件尾没有 newline 字符

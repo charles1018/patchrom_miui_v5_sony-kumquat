@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/AttributeCache.smali	2013-10-21 03:27:23.439587439 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/AttributeCache.smali	2013-10-21 03:29:10.579586856 +0800
+*** ./smali/com/android/server/AttributeCache.smali	2013-12-01 10:56:54.998939980 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/AttributeCache.smali	2013-12-01 11:01:44.144929509 +0800
 ***************
 *** 114,125 ****
       :try_start_0

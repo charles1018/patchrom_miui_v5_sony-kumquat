@@ -1,5 +1,5 @@
-*** ./smali/android/preference/PreferenceGroup.smali	2013-10-21 03:27:28.859587410 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceGroup.smali	2013-10-21 03:29:14.531586835 +0800
+*** ./smali/android/preference/PreferenceGroup.smali	2013-12-01 10:57:02.266793204 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceGroup.smali	2013-12-01 11:01:53.244735633 +0800
 ***************
 *** 257,262 ****
 --- 257,264 ----

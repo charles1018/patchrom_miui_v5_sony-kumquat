@@ -1,5 +1,5 @@
-*** ./smali/android/widget/MediaController.smali	2013-10-21 03:27:46.327587315 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/MediaController.smali	2013-10-21 03:29:26.915586768 +0800
+*** ./smali/android/widget/MediaController.smali	2013-12-01 10:57:59.749623356 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/MediaController.smali	2013-12-01 11:02:54.827417650 +0800
 ***************
 *** 6,12 ****
   # annotations

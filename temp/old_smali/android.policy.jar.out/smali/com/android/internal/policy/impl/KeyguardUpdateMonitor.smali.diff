@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/KeyguardUpdateMonitor.smali	2013-10-21 03:27:13.983587490 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/KeyguardUpdateMonitor.smali	2013-10-21 03:29:02.471586901 +0800
+*** ./smali/com/android/internal/policy/impl/KeyguardUpdateMonitor.smali	2013-12-01 10:58:38.796820201 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/KeyguardUpdateMonitor.smali	2013-12-01 11:03:39.218484061 +0800
 ***************
 *** 10,16 ****
           Lcom/android/internal/policy/impl/KeyguardUpdateMonitor$InfoCallbackImpl;,

@@ -1,5 +1,5 @@
-*** ./smali/android/media/Ringtone.smali	2013-10-21 03:28:08.019587197 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/media/Ringtone.smali	2013-10-21 03:29:52.403586629 +0800
+*** ./smali/android/media/Ringtone.smali	2013-12-01 10:57:27.814275206 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/media/Ringtone.smali	2013-12-01 11:02:21.176139100 +0800
 ***************
 *** 596,603 ****
 --- 596,616 ----

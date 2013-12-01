@@ -1,5 +1,5 @@
-*** ./smali/android/app/DownloadManager$Query.smali	2013-10-21 03:28:18.099587142 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/DownloadManager$Query.smali	2013-10-21 03:30:03.135586571 +0800
+*** ./smali/android/app/DownloadManager$Query.smali	2013-12-01 10:57:46.389896618 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/DownloadManager$Query.smali	2013-12-01 11:02:39.843739246 +0800
 ***************
 *** 170,175 ****
 --- 170,197 ----

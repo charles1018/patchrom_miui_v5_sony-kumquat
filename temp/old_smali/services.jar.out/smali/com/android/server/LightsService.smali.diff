@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LightsService.smali	2013-10-21 03:27:27.119587419 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService.smali	2013-10-21 03:29:13.767586839 +0800
+*** ./smali/com/android/server/LightsService.smali	2013-12-01 10:56:52.626987823 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService.smali	2013-12-01 11:01:41.684981878 +0800
 ***************
 *** 207,209 ****
 --- 207,225 ----

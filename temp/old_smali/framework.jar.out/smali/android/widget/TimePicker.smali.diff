@@ -1,5 +1,5 @@
-*** ./smali/android/widget/TimePicker.smali	2013-10-21 03:27:44.115587327 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/TimePicker.smali	2013-10-21 03:29:24.731586779 +0800
+*** ./smali/android/widget/TimePicker.smali	2013-12-01 10:57:56.829683150 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/TimePicker.smali	2013-12-01 11:02:52.311471690 +0800
 ***************
 *** 7,13 ****
   .annotation system Ldalvik/annotation/MemberClasses;

@@ -1,5 +1,5 @@
-*** ./smali/android/view/WindowManager$LayoutParams.smali	2013-10-21 03:28:18.939587137 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali	2013-10-21 03:30:04.011586566 +0800
+*** ./smali/android/view/WindowManager$LayoutParams.smali	2013-12-01 10:57:12.162592934 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali	2013-12-01 11:02:04.128503442 +0800
 ***************
 *** 276,281 ****
 --- 276,283 ----

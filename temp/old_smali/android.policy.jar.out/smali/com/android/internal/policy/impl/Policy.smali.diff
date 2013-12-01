@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/Policy.smali	2013-10-21 03:27:13.927587491 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/Policy.smali	2013-10-21 03:29:02.383586901 +0800
+*** ./smali/com/android/internal/policy/impl/Policy.smali	2013-12-01 10:58:39.044815081 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/Policy.smali	2013-12-01 11:03:39.510478075 +0800
 ***************
 *** 138,148 ****
   .method public makeNewFallbackEventHandler(Landroid/content/Context;)Landroid/view/FallbackEventHandler;

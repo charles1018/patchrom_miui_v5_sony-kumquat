@@ -1,5 +1,5 @@
-*** ./smali/android/telephony/TelephonyManager.smali	2013-10-21 03:28:37.139587038 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/telephony/TelephonyManager.smali	2013-10-21 03:30:22.611586465 +0800
+*** ./smali/android/telephony/TelephonyManager.smali	2013-12-01 10:57:51.349795261 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/telephony/TelephonyManager.smali	2013-12-01 11:02:45.459618779 +0800
 ***************
 *** 3,8 ****
 --- 3,16 ----

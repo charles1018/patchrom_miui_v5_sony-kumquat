@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/wm/WindowStateAnimator.smali	2013-10-21 03:27:26.523587422 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowStateAnimator.smali	2013-10-21 03:29:13.147586842 +0800
+*** ./smali/com/android/server/wm/WindowStateAnimator.smali	2013-12-01 10:56:59.582847437 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowStateAnimator.smali	2013-12-01 11:01:49.580813722 +0800
 ***************
 *** 104,109 ****
 --- 104,115 ----

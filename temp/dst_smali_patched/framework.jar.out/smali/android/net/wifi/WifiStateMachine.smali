@@ -204,7 +204,7 @@
 
 .field private static final SCAN_RESULT_CACHE_SIZE:I = 0x50
 
-.field private static final SOFTAP_IFACE:Ljava/lang/String; = "wl0.1"
+.field private static final SOFTAP_IFACE:Ljava/lang/String; = "wlan0"
 
 .field private static final SUCCESS:I = 0x1
 
@@ -235,6 +235,8 @@
 .field private mConnectedState:Lcom/android/internal/util/State;
 
 .field private mContext:Landroid/content/Context;
+
+.field private mCountryCode:Ljava/lang/String;
 
 .field private final mDefaultFrameworkScanIntervalMs:I
 
@@ -495,6 +497,10 @@
     invoke-direct {v4, v8}, Ljava/util/concurrent/atomic/AtomicInteger;-><init>(I)V
 
     iput-object v4, p0, Landroid/net/wifi/WifiStateMachine;->mFrequencyBand:Ljava/util/concurrent/atomic/AtomicInteger;
+
+    const-string v4, "GB"
+
+    iput-object v4, p0, Landroid/net/wifi/WifiStateMachine;->mCountryCode:Ljava/lang/String;
 
     new-instance v4, Ljava/util/concurrent/atomic/AtomicBoolean;
 
@@ -1285,15 +1291,15 @@
     return v0
 .end method
 
-.method static synthetic access$10000(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$10002(Landroid/net/wifi/WifiStateMachine;Ljava/util/List;)Ljava/util/List;
     .locals 0
     .parameter "x0"
     .parameter "x1"
 
     .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+    iput-object p1, p0, Landroid/net/wifi/WifiStateMachine;->mScanResults:Ljava/util/List;
 
-    return-void
+    return-object p1
 .end method
 
 .method static synthetic access$1002(Landroid/net/wifi/WifiStateMachine;Z)Z
@@ -1307,7 +1313,18 @@
     return p1
 .end method
 
-.method static synthetic access$10100(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+.method static synthetic access$10100(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$10200(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1318,7 +1335,7 @@
     return-void
 .end method
 
-.method static synthetic access$10200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$10300(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1329,7 +1346,7 @@
     return-void
 .end method
 
-.method static synthetic access$10300(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$10400(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -1337,17 +1354,6 @@
     iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mDriverStartingState:Lcom/android/internal/util/State;
 
     return-object v0
-.end method
-
-.method static synthetic access$10400(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
-
-    return-void
 .end method
 
 .method static synthetic access$10500(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -1361,24 +1367,24 @@
     return-void
 .end method
 
-.method static synthetic access$10600(Landroid/net/wifi/WifiStateMachine;Ljava/lang/String;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-direct {p0, p1}, Landroid/net/wifi/WifiStateMachine;->log(Ljava/lang/String;)V
-
-    return-void
-.end method
-
-.method static synthetic access$10700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$10600(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
 
     .prologue
     invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$10700(Landroid/net/wifi/WifiStateMachine;Ljava/lang/String;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-direct {p0, p1}, Landroid/net/wifi/WifiStateMachine;->log(Ljava/lang/String;)V
 
     return-void
 .end method
@@ -1394,14 +1400,15 @@
     return-void
 .end method
 
-.method static synthetic access$10900(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
-    .locals 1
+.method static synthetic access$10900(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
     .parameter "x0"
+    .parameter "x1"
 
     .prologue
-    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mDisconnectingState:Lcom/android/internal/util/State;
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
 
-    return-object v0
+    return-void
 .end method
 
 .method static synthetic access$1100(Landroid/net/wifi/WifiStateMachine;)Z
@@ -1414,15 +1421,14 @@
     return v0
 .end method
 
-.method static synthetic access$11000(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
+.method static synthetic access$11000(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+    .locals 1
     .parameter "x0"
-    .parameter "x1"
 
     .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mDisconnectingState:Lcom/android/internal/util/State;
 
-    return-void
+    return-object v0
 .end method
 
 .method static synthetic access$1102(Landroid/net/wifi/WifiStateMachine;Z)Z
@@ -1436,17 +1442,7 @@
     return p1
 .end method
 
-.method static synthetic access$11100(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mWpsRunningState:Lcom/android/internal/util/State;
-
-    return-object v0
-.end method
-
-.method static synthetic access$11200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$11100(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1457,7 +1453,28 @@
     return-void
 .end method
 
-.method static synthetic access$11300(Landroid/net/wifi/WifiStateMachine;Ljava/lang/String;)V
+.method static synthetic access$11200(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+    .locals 1
+    .parameter "x0"
+
+    .prologue
+    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mWpsRunningState:Lcom/android/internal/util/State;
+
+    return-object v0
+.end method
+
+.method static synthetic access$11300(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$11400(Landroid/net/wifi/WifiStateMachine;Ljava/lang/String;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1468,7 +1485,7 @@
     return-void
 .end method
 
-.method static synthetic access$11400(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$11500(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -1476,17 +1493,6 @@
     iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mObtainingIpState:Lcom/android/internal/util/State;
 
     return-object v0
-.end method
-
-.method static synthetic access$11500(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
-
-    return-void
 .end method
 
 .method static synthetic access$11600(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -1500,7 +1506,18 @@
     return-void
 .end method
 
-.method static synthetic access$11700(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$11700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$11800(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -1510,7 +1527,7 @@
     return v0
 .end method
 
-.method static synthetic access$11708(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$11808(Landroid/net/wifi/WifiStateMachine;)I
     .locals 2
     .parameter "x0"
 
@@ -1524,7 +1541,7 @@
     return v0
 .end method
 
-.method static synthetic access$11800(Landroid/net/wifi/WifiStateMachine;)Landroid/net/DhcpStateMachine;
+.method static synthetic access$11900(Landroid/net/wifi/WifiStateMachine;)Landroid/net/DhcpStateMachine;
     .locals 1
     .parameter "x0"
 
@@ -1534,7 +1551,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$11802(Landroid/net/wifi/WifiStateMachine;Landroid/net/DhcpStateMachine;)Landroid/net/DhcpStateMachine;
+.method static synthetic access$11902(Landroid/net/wifi/WifiStateMachine;Landroid/net/DhcpStateMachine;)Landroid/net/DhcpStateMachine;
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1543,17 +1560,6 @@
     iput-object p1, p0, Landroid/net/wifi/WifiStateMachine;->mDhcpStateMachine:Landroid/net/DhcpStateMachine;
 
     return-object p1
-.end method
-
-.method static synthetic access$11900(Landroid/net/wifi/WifiStateMachine;Landroid/net/DhcpInfoInternal;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-direct {p0, p1}, Landroid/net/wifi/WifiStateMachine;->handleSuccessfulIpConfiguration(Landroid/net/DhcpInfoInternal;)V
-
-    return-void
 .end method
 
 .method static synthetic access$1200(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;I)V
@@ -1568,7 +1574,18 @@
     return-void
 .end method
 
-.method static synthetic access$12000(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$12000(Landroid/net/wifi/WifiStateMachine;Landroid/net/DhcpInfoInternal;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-direct {p0, p1}, Landroid/net/wifi/WifiStateMachine;->handleSuccessfulIpConfiguration(Landroid/net/DhcpInfoInternal;)V
+
+    return-void
+.end method
+
+.method static synthetic access$12100(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -1578,7 +1595,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$12100(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$12200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1589,23 +1606,12 @@
     return-void
 .end method
 
-.method static synthetic access$12200(Landroid/net/wifi/WifiStateMachine;)V
+.method static synthetic access$12300(Landroid/net/wifi/WifiStateMachine;)V
     .locals 0
     .parameter "x0"
 
     .prologue
     invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->handleFailedIpConfiguration()V
-
-    return-void
-.end method
-
-.method static synthetic access$12300(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
 
     return-void
 .end method
@@ -1621,18 +1627,7 @@
     return-void
 .end method
 
-.method static synthetic access$12500(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->deferMessage(Landroid/os/Message;)V
-
-    return-void
-.end method
-
-.method static synthetic access$12600(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$12500(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1643,12 +1638,24 @@
     return-void
 .end method
 
-.method static synthetic access$12700(Landroid/net/wifi/WifiStateMachine;)V
+.method static synthetic access$12600(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
     .locals 0
     .parameter "x0"
+    .parameter "x1"
 
     .prologue
-    invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->configureLinkProperties()V
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->deferMessage(Landroid/os/Message;)V
+
+    return-void
+.end method
+
+.method static synthetic access$12700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
 
     return-void
 .end method
@@ -1658,7 +1665,7 @@
     .parameter "x0"
 
     .prologue
-    invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->sendLinkConfigurationChangedBroadcast()V
+    invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->configureLinkProperties()V
 
     return-void
 .end method
@@ -1668,7 +1675,7 @@
     .parameter "x0"
 
     .prologue
-    invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->fetchRssiAndLinkSpeedNative()V
+    invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->sendLinkConfigurationChangedBroadcast()V
 
     return-void
 .end method
@@ -1683,13 +1690,12 @@
     return-object v0
 .end method
 
-.method static synthetic access$13000(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$13000(Landroid/net/wifi/WifiStateMachine;)V
     .locals 0
     .parameter "x0"
-    .parameter "x1"
 
     .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+    invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->fetchRssiAndLinkSpeedNative()V
 
     return-void
 .end method
@@ -1705,13 +1711,13 @@
     return-void
 .end method
 
-.method static synthetic access$13200(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+.method static synthetic access$13200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
 
     .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->deferMessage(Landroid/os/Message;)V
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
 
     return-void
 .end method
@@ -1727,7 +1733,18 @@
     return-void
 .end method
 
-.method static synthetic access$13400(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$13400(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->deferMessage(Landroid/os/Message;)V
+
+    return-void
+.end method
+
+.method static synthetic access$13500(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -1735,17 +1752,6 @@
     iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mConnectedState:Lcom/android/internal/util/State;
 
     return-object v0
-.end method
-
-.method static synthetic access$13500(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
-
-    return-void
 .end method
 
 .method static synthetic access$13600(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -1759,7 +1765,18 @@
     return-void
 .end method
 
-.method static synthetic access$13700(Landroid/net/wifi/WifiStateMachine;)V
+.method static synthetic access$13700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$13800(Landroid/net/wifi/WifiStateMachine;)V
     .locals 0
     .parameter "x0"
 
@@ -1769,7 +1786,7 @@
     return-void
 .end method
 
-.method static synthetic access$13800(Landroid/net/wifi/WifiStateMachine;)Landroid/net/ConnectivityManager;
+.method static synthetic access$13900(Landroid/net/wifi/WifiStateMachine;)Landroid/net/ConnectivityManager;
     .locals 1
     .parameter "x0"
 
@@ -1777,17 +1794,6 @@
     iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mCm:Landroid/net/ConnectivityManager;
 
     return-object v0
-.end method
-
-.method static synthetic access$13900(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->deferMessage(Landroid/os/Message;)V
-
-    return-void
 .end method
 
 .method static synthetic access$1400(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
@@ -1811,7 +1817,18 @@
     return-void
 .end method
 
-.method static synthetic access$14100(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$14100(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->deferMessage(Landroid/os/Message;)V
+
+    return-void
+.end method
+
+.method static synthetic access$14200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1822,7 +1839,7 @@
     return-void
 .end method
 
-.method static synthetic access$14200(Landroid/net/wifi/WifiStateMachine;)Landroid/app/PendingIntent;
+.method static synthetic access$14300(Landroid/net/wifi/WifiStateMachine;)Landroid/app/PendingIntent;
     .locals 1
     .parameter "x0"
 
@@ -1832,7 +1849,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$14300(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$14400(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -1842,7 +1859,7 @@
     return v0
 .end method
 
-.method static synthetic access$14400(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$14500(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -1852,7 +1869,7 @@
     return v0
 .end method
 
-.method static synthetic access$14404(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$14504(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -1866,7 +1883,7 @@
     return v0
 .end method
 
-.method static synthetic access$14500(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$14600(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1877,7 +1894,7 @@
     return-void
 .end method
 
-.method static synthetic access$14600(Landroid/net/wifi/WifiStateMachine;)Landroid/os/Message;
+.method static synthetic access$14700(Landroid/net/wifi/WifiStateMachine;)Landroid/os/Message;
     .locals 1
     .parameter "x0"
 
@@ -1887,17 +1904,6 @@
     move-result-object v0
 
     return-object v0
-.end method
-
-.method static synthetic access$14700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
-
-    return-void
 .end method
 
 .method static synthetic access$14800(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -1955,7 +1961,18 @@
     return-void
 .end method
 
-.method static synthetic access$15200(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+.method static synthetic access$15200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$15300(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1966,7 +1983,7 @@
     return-void
 .end method
 
-.method static synthetic access$15300(Landroid/net/wifi/WifiStateMachine;)Landroid/os/Message;
+.method static synthetic access$15400(Landroid/net/wifi/WifiStateMachine;)Landroid/os/Message;
     .locals 1
     .parameter "x0"
 
@@ -1978,7 +1995,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$15400(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/AsyncChannel;
+.method static synthetic access$15500(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/AsyncChannel;
     .locals 1
     .parameter "x0"
 
@@ -1988,7 +2005,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$15500(Landroid/net/wifi/WifiStateMachine;Landroid/net/wifi/WifiConfiguration;)V
+.method static synthetic access$15600(Landroid/net/wifi/WifiStateMachine;Landroid/net/wifi/WifiConfiguration;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -1999,7 +2016,7 @@
     return-void
 .end method
 
-.method static synthetic access$15600(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+.method static synthetic access$15700(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -2010,7 +2027,7 @@
     return-void
 .end method
 
-.method static synthetic access$15700(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$15800(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -2018,17 +2035,6 @@
     iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mSoftApStartedState:Lcom/android/internal/util/State;
 
     return-object v0
-.end method
-
-.method static synthetic access$15800(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
-
-    return-void
 .end method
 
 .method static synthetic access$15900(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -2052,7 +2058,18 @@
     return-object v0
 .end method
 
-.method static synthetic access$16000(Landroid/net/wifi/WifiStateMachine;Ljava/util/ArrayList;)Z
+.method static synthetic access$16000(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$16100(Landroid/net/wifi/WifiStateMachine;Ljava/util/ArrayList;)Z
     .locals 1
     .parameter "x0"
     .parameter "x1"
@@ -2065,7 +2082,7 @@
     return v0
 .end method
 
-.method static synthetic access$16100(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$16200(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -2075,7 +2092,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$16200(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$16300(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -2086,7 +2103,7 @@
     return-void
 .end method
 
-.method static synthetic access$16300(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$16400(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -2096,7 +2113,7 @@
     return v0
 .end method
 
-.method static synthetic access$16304(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$16404(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -2110,7 +2127,7 @@
     return v0
 .end method
 
-.method static synthetic access$16400(Landroid/net/wifi/WifiStateMachine;Ljava/util/ArrayList;)Z
+.method static synthetic access$16500(Landroid/net/wifi/WifiStateMachine;Ljava/util/ArrayList;)Z
     .locals 1
     .parameter "x0"
     .parameter "x1"
@@ -2123,7 +2140,7 @@
     return v0
 .end method
 
-.method static synthetic access$16500(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$16600(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -2133,7 +2150,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$16600(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$16700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -2144,7 +2161,7 @@
     return-void
 .end method
 
-.method static synthetic access$16700(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+.method static synthetic access$16800(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -2155,7 +2172,7 @@
     return-void
 .end method
 
-.method static synthetic access$16800(Landroid/net/wifi/WifiStateMachine;)V
+.method static synthetic access$16900(Landroid/net/wifi/WifiStateMachine;)V
     .locals 0
     .parameter "x0"
 
@@ -2163,16 +2180,6 @@
     invoke-direct {p0}, Landroid/net/wifi/WifiStateMachine;->stopTethering()V
 
     return-void
-.end method
-
-.method static synthetic access$16900(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
-    .locals 1
-    .parameter "x0"
-
-    .prologue
-    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mSoftApStoppingState:Lcom/android/internal/util/State;
-
-    return-object v0
 .end method
 
 .method static synthetic access$1700(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -2186,15 +2193,14 @@
     return-void
 .end method
 
-.method static synthetic access$17000(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
-    .locals 0
+.method static synthetic access$17000(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+    .locals 1
     .parameter "x0"
-    .parameter "x1"
 
     .prologue
-    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mSoftApStoppingState:Lcom/android/internal/util/State;
 
-    return-void
+    return-object v0
 .end method
 
 .method static synthetic access$17100(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
@@ -2219,7 +2225,18 @@
     return-void
 .end method
 
-.method static synthetic access$17300(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
+.method static synthetic access$17300(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
+
+    return-void
+.end method
+
+.method static synthetic access$17400(Landroid/net/wifi/WifiStateMachine;Landroid/os/Message;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -3259,7 +3276,18 @@
     return p1
 .end method
 
-.method static synthetic access$9100(Landroid/net/wifi/WifiStateMachine;)Ljava/util/concurrent/atomic/AtomicInteger;
+.method static synthetic access$9102(Landroid/net/wifi/WifiStateMachine;Ljava/lang/String;)Ljava/lang/String;
+    .locals 0
+    .parameter "x0"
+    .parameter "x1"
+
+    .prologue
+    iput-object p1, p0, Landroid/net/wifi/WifiStateMachine;->mCountryCode:Ljava/lang/String;
+
+    return-object p1
+.end method
+
+.method static synthetic access$9200(Landroid/net/wifi/WifiStateMachine;)Ljava/util/concurrent/atomic/AtomicInteger;
     .locals 1
     .parameter "x0"
 
@@ -3269,7 +3297,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$9200(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$9300(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -3279,7 +3307,7 @@
     return v0
 .end method
 
-.method static synthetic access$9208(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$9308(Landroid/net/wifi/WifiStateMachine;)I
     .locals 2
     .parameter "x0"
 
@@ -3293,7 +3321,7 @@
     return v0
 .end method
 
-.method static synthetic access$9300(Landroid/net/wifi/WifiStateMachine;)Landroid/app/PendingIntent;
+.method static synthetic access$9400(Landroid/net/wifi/WifiStateMachine;)Landroid/app/PendingIntent;
     .locals 1
     .parameter "x0"
 
@@ -3303,7 +3331,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$9302(Landroid/net/wifi/WifiStateMachine;Landroid/app/PendingIntent;)Landroid/app/PendingIntent;
+.method static synthetic access$9402(Landroid/net/wifi/WifiStateMachine;Landroid/app/PendingIntent;)Landroid/app/PendingIntent;
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -3314,7 +3342,7 @@
     return-object p1
 .end method
 
-.method static synthetic access$9400(Landroid/net/wifi/WifiStateMachine;)I
+.method static synthetic access$9500(Landroid/net/wifi/WifiStateMachine;)I
     .locals 1
     .parameter "x0"
 
@@ -3324,7 +3352,7 @@
     return v0
 .end method
 
-.method static synthetic access$9500(Landroid/net/wifi/WifiStateMachine;)Landroid/app/AlarmManager;
+.method static synthetic access$9600(Landroid/net/wifi/WifiStateMachine;)Landroid/app/AlarmManager;
     .locals 1
     .parameter "x0"
 
@@ -3334,7 +3362,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$9600(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/IState;
+.method static synthetic access$9700(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/IState;
     .locals 1
     .parameter "x0"
 
@@ -3346,7 +3374,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$9700(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
+.method static synthetic access$9800(Landroid/net/wifi/WifiStateMachine;)Lcom/android/internal/util/State;
     .locals 1
     .parameter "x0"
 
@@ -3356,7 +3384,7 @@
     return-object v0
 .end method
 
-.method static synthetic access$9800(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
+.method static synthetic access$9900(Landroid/net/wifi/WifiStateMachine;Lcom/android/internal/util/IState;)V
     .locals 0
     .parameter "x0"
     .parameter "x1"
@@ -3365,17 +3393,6 @@
     invoke-virtual {p0, p1}, Landroid/net/wifi/WifiStateMachine;->transitionTo(Lcom/android/internal/util/IState;)V
 
     return-void
-.end method
-
-.method static synthetic access$9902(Landroid/net/wifi/WifiStateMachine;Ljava/util/List;)Ljava/util/List;
-    .locals 0
-    .parameter "x0"
-    .parameter "x1"
-
-    .prologue
-    iput-object p1, p0, Landroid/net/wifi/WifiStateMachine;->mScanResults:Ljava/util/List;
-
-    return-object p1
 .end method
 
 .method private checkAndSetConnectivityInstance()V
@@ -5628,6 +5645,15 @@
     invoke-virtual {v0}, Landroid/net/wifi/WifiConfigStore;->getConfigFile()Ljava/lang/String;
 
     move-result-object v0
+
+    return-object v0
+.end method
+
+.method public getCountryCode()Ljava/lang/String;
+    .locals 1
+
+    .prologue
+    iget-object v0, p0, Landroid/net/wifi/WifiStateMachine;->mCountryCode:Ljava/lang/String;
 
     return-object v0
 .end method

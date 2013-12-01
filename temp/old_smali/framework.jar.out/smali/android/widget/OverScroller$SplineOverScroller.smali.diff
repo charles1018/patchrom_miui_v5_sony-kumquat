@@ -1,5 +1,5 @@
-*** ./smali/android/widget/OverScroller$SplineOverScroller.smali	2013-10-21 03:27:45.867587317 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller$SplineOverScroller.smali	2013-10-21 03:29:26.475586770 +0800
+*** ./smali/android/widget/OverScroller$SplineOverScroller.smali	2013-12-01 10:57:55.633707630 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller$SplineOverScroller.smali	2013-12-01 11:02:51.111497459 +0800
 ***************
 *** 51,56 ****
 --- 51,58 ----

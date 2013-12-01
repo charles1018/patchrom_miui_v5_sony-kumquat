@@ -1,5 +1,5 @@
-*** ./smali/android/os/Vibrator.smali	2013-10-21 03:27:52.367587282 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/os/Vibrator.smali	2013-10-21 03:29:34.015586729 +0800
+*** ./smali/android/os/Vibrator.smali	2013-12-01 10:57:21.546402584 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/os/Vibrator.smali	2013-12-01 11:02:14.316285803 +0800
 ***************
 *** 26,28 ****
 --- 26,39 ----

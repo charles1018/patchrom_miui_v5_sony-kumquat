@@ -1,8 +1,19 @@
-*** ./smali/android/app/ActivityManager.smali	2013-10-21 03:28:15.943587154 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/ActivityManager.smali	2013-10-21 03:30:00.879586583 +0800
+*** ./smali/android/app/ActivityManager.smali	2013-12-01 10:57:47.681870227 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/app/ActivityManager.smali	2013-12-01 11:02:41.251709050 +0800
+***************
+*** 69,74 ****
+--- 69,76 ----
+  
+  .field public static final START_FORWARD_AND_REQUEST_CONFLICT:I = -0x3
+  
++ .field public static final START_INCOMPATIBLE:I = 0x5
++ 
+  .field public static final START_INTENT_NOT_RESOLVED:I = -0x1
+  
+  .field public static final START_NOT_ACTIVITY:I = -0x5
 ***************
 *** 256,261 ****
---- 256,264 ----
+--- 258,266 ----
   .method public static isHighEndGfx(Landroid/view/Display;)Z
       .locals 8
       .parameter "display"
@@ -21,7 +32,7 @@
   
       goto :goto_0
   .end method
---- 303,311 ----
+--- 305,313 ----
   
       if-ge v1, v4, :cond_0
   

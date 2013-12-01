@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/gsm/SIMRecords.smali	2013-10-21 03:28:57.967586925 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/gsm/SIMRecords.smali	2013-10-21 03:30:45.659586339 +0800
+*** ./smali/com/android/internal/telephony/gsm/SIMRecords.smali	2013-12-01 10:58:33.104937680 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/gsm/SIMRecords.smali	2013-12-01 11:03:32.246626883 +0800
 ***************
 *** 7,13 ****
   .annotation system Ldalvik/annotation/MemberClasses;
@@ -30,6 +30,31 @@
   
       .prologue
       const/4 v3, 0x0
+***************
+*** 918,928 ****
+  
+      iput-object v2, p0, Lcom/android/internal/telephony/gsm/SIMRecords;->pnnHomeName:Ljava/lang/String;
+  
+!     new-instance v0, Lcom/android/internal/telephony/AdnRecordCache;
+  
+      iget-object v1, p0, Lcom/android/internal/telephony/gsm/SIMRecords;->mFh:Lcom/android/internal/telephony/IccFileHandler;
+  
+!     invoke-direct {v0, v1}, Lcom/android/internal/telephony/AdnRecordCache;-><init>(Lcom/android/internal/telephony/IccFileHandler;)V
+  
+      iput-object v0, p0, Lcom/android/internal/telephony/gsm/SIMRecords;->adnCache:Lcom/android/internal/telephony/AdnRecordCache;
+  
+--- 922,932 ----
+  
+      iput-object v2, p0, Lcom/android/internal/telephony/gsm/SIMRecords;->pnnHomeName:Ljava/lang/String;
+  
+!     new-instance v0, Lcom/android/internal/telephony/MiuiAdnRecordCache;
+  
+      iget-object v1, p0, Lcom/android/internal/telephony/gsm/SIMRecords;->mFh:Lcom/android/internal/telephony/IccFileHandler;
+  
+!     invoke-direct {v0, v1}, Lcom/android/internal/telephony/MiuiAdnRecordCache;-><init>(Lcom/android/internal/telephony/IccFileHandler;)V
+  
+      iput-object v0, p0, Lcom/android/internal/telephony/gsm/SIMRecords;->adnCache:Lcom/android/internal/telephony/AdnRecordCache;
+  
 ***************
 *** 932,940 ****
   

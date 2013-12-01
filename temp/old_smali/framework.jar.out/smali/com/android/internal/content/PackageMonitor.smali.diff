@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/content/PackageMonitor.smali	2013-10-21 03:28:45.951586990 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/content/PackageMonitor.smali	2013-10-21 03:30:32.767586409 +0800
+*** ./smali/com/android/internal/content/PackageMonitor.smali	2013-12-01 10:58:25.289098776 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/content/PackageMonitor.smali	2013-12-01 11:03:22.950816993 +0800
 ***************
 *** 1114,1119 ****
 --- 1114,1135 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/statusbar/IStatusBar.smali	2013-10-21 03:28:50.183586967 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/statusbar/IStatusBar.smali	2013-10-21 03:30:37.747586382 +0800
+*** ./smali/com/android/internal/statusbar/IStatusBar.smali	2013-12-01 10:58:25.213100341 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/statusbar/IStatusBar.smali	2013-12-01 11:03:22.862818790 +0800
 ***************
 *** 103,108 ****
 --- 103,116 ----

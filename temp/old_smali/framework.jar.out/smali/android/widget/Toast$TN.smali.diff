@@ -1,5 +1,5 @@
-*** ./smali/android/widget/Toast$TN.smali	2013-10-21 03:27:39.631587351 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/Toast$TN.smali	2013-10-21 03:29:21.039586800 +0800
+*** ./smali/android/widget/Toast$TN.smali	2013-12-01 10:57:56.025699606 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/widget/Toast$TN.smali	2013-12-01 11:02:51.563487753 +0800
 ***************
 *** 172,177 ****
 --- 172,189 ----

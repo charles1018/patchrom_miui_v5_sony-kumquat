@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/view/menu/ListMenuItemView.smali	2013-10-21 03:28:51.599586960 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/ListMenuItemView.smali	2013-10-21 03:30:39.539586373 +0800
+*** ./smali/com/android/internal/view/menu/ListMenuItemView.smali	2013-12-01 10:58:24.609112779 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/ListMenuItemView.smali	2013-12-01 11:03:22.134833663 +0800
 ***************
 *** 148,153 ****
 --- 148,164 ----

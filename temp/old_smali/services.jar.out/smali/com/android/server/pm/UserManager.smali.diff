@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/UserManager.smali	2013-10-21 03:27:21.935587447 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/UserManager.smali	2013-10-21 03:29:09.247586864 +0800
+*** ./smali/com/android/server/pm/UserManager.smali	2013-12-01 10:57:01.362811474 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/pm/UserManager.smali	2013-12-01 11:01:51.660769398 +0800
 ***************
 *** 1689,1695 ****
 --- 1689,1705 ----

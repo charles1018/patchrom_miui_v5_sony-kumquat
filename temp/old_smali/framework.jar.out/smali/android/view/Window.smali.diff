@@ -1,5 +1,5 @@
-*** ./smali/android/view/Window.smali	2013-10-21 03:28:19.291587135 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/Window.smali	2013-10-21 03:30:04.383586564 +0800
+*** ./smali/android/view/Window.smali	2013-12-01 10:57:10.778620971 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/framework.jar.out/./smali/android/view/Window.smali	2013-12-01 11:02:02.800531791 +0800
 ***************
 *** 291,296 ****
 --- 291,306 ----

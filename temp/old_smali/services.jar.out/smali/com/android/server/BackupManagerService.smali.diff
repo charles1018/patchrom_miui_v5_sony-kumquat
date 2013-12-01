@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/BackupManagerService.smali	2013-10-21 03:27:24.931587431 +0800
---- /home/xiangxin/patchrom/MIUIV5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService.smali	2013-10-21 03:29:11.815586850 +0800
+*** ./smali/com/android/server/BackupManagerService.smali	2013-12-01 10:56:52.750985323 +0800
+--- /home/xiangxin/patchrom/miui/v5/st25i/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService.smali	2013-12-01 11:01:41.824978898 +0800
 ***************
 *** 31,37 ****
           Lcom/android/server/BackupManagerService$RestoreParams;,
